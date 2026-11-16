@@ -1,0 +1,10 @@
+{
+ "device": "cpu",
+ "cpu": "Intel(R) Xeon(R) Processor",
+ "logical_cpus": 8,
+ "torch_threads": 4,
+ "torch": "2.15.0+cpu",
+ "n": 600,
+ "median_ms": 95.6,
+ "p90_ms": 389.5
+}

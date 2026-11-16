@@ -1,0 +1,702 @@
+live anthropic claude-sonnet-5-5: 600 answers + 100 repeats, workers=6
+1 answers test-3161 200 881.1 {'answer': 'happiness', 'confidence': 0.55}
+2 answers test-3529 200 899.7 {'answer': 'happiness', 'confidence': 0.5}
+3 answers test-3078 200 1173.8 {'answer': 'neutral', 'confidence': 0.55}
+4 answers test-3449 200 1198.2 {'answer': 'sadness', 'confidence': 0.4}
+5 answers test-3196 200 1247.2 {'answer': 'happiness', 'confidence': 0.8}
+6 answers test-3045 200 1263.0 {'answer': 'happiness', 'confidence': 0.72}
+7 answers test-3019 200 717.5 {'answer': 'neutral', 'confidence': 0.6}
+8 answers test-3596 200 809.9 {'answer': 'happiness', 'confidence': 0.55}
+9 answers test-3260 200 789.6 {'answer': 'happiness', 'confidence': 0.45}
+10 answers test-3582 200 788.2 {'answer': 'neutral', 'confidence': 0.8}
+11 answers test-3385 200 880.0 {'answer': 'happiness', 'confidence': 0.85}
+12 answers test-3190 200 1359.7 {'answer': 'neutral', 'confidence': 0.85}
+13 answers test-3433 200 876.0 {'answer': 'neutral', 'confidence': 0.8}
+14 answers test-3239 200 710.8 {'answer': 'happiness', 'confidence': 0.96}
+15 answers test-3509 200 888.2 {'answer': 'neutral', 'confidence': 0.55}
+16 answers test-3221 200 839.8 {'answer': 'neutral', 'confidence': 0.8}
+17 answers test-3432 200 1245.4 {'answer': 'neutral', 'confidence': 0.85}
+18 answers test-3305 200 1399.8 {'answer': 'neutral', 'confidence': 0.5}
+19 answers test-3300 200 811.0 {'answer': 'neutral', 'confidence': 0.85}
+20 answers test-3597 200 1402.1 {'answer': 'happiness', 'confidence': 0.95}
+21 answers test-3140 200 1225.0 {'answer': 'happiness', 'confidence': 0.97}
+22 answers test-3327 200 770.3 {'answer': 'neutral', 'confidence': 0.6}
+23 answers test-3586 200 1127.9 {'answer': 'surprise', 'confidence': 0.6}
+24 answers test-3287 200 783.2 {'answer': 'neutral', 'confidence': 0.8}
+25 answers test-3012 200 1322.5 {'answer': 'neutral', 'confidence': 0.62}
+26 answers test-3412 200 864.8 {'answer': 'neutral', 'confidence': 0.88}
+27 answers test-3266 200 911.5 {'answer': 'anger', 'confidence': 0.45}
+28 answers test-3466 200 1330.7 {'answer': 'neutral', 'confidence': 0.6}
+29 answers test-3388 200 1114.9 {'answer': 'happiness', 'confidence': 0.6}
+30 answers test-3375 200 870.1 {'answer': 'anger', 'confidence': 0.72}
+31 answers test-3160 200 721.0 {'answer': 'neutral', 'confidence': 0.6}
+32 answers test-3458 200 627.0 {'answer': 'neutral', 'confidence': 0.6}
+33 answers test-3512 200 1305.5 {'answer': 'neutral', 'confidence': 0.72}
+34 answers test-3386 200 1446.8 {'answer': 'happiness', 'confidence': 0.55}
+35 answers test-3396 200 793.7 {'answer': 'neutral', 'confidence': 0.8}
+36 answers test-3377 200 1294.4 {'answer': 'happiness', 'confidence': 0.8}
+37 answers test-3347 200 1285.4 {'answer': 'neutral', 'confidence': 0.85}
+38 answers test-3284 200 1636.6 {'answer': 'anger', 'confidence': 0.5}
+39 answers test-3232 200 1148.0 {'answer': 'neutral', 'confidence': 0.55}
+40 answers test-3441 200 835.2 {'answer': 'happiness', 'confidence': 0.5}
+41 answers test-3199 200 958.8 {'answer': 'neutral', 'confidence': 0.6}
+42 answers test-3162 200 848.3 {'answer': 'neutral', 'confidence': 0.6}
+43 answers test-3094 200 800.4 {'answer': 'neutral', 'confidence': 0.9}
+44 answers test-3209 200 1176.0 {'answer': 'happiness', 'confidence': 0.6}
+45 answers test-3255 200 879.2 {'answer': 'neutral', 'confidence': 0.72}
+46 answers test-3295 200 897.8 {'answer': 'neutral', 'confidence': 0.8}
+47 answers test-3271 200 796.2 {'answer': 'happiness', 'confidence': 0.72}
+48 answers test-3513 200 788.8 {'answer': 'neutral', 'confidence': 0.8}
+49 answers test-4154 200 781.8 {'answer': 'sentimental', 'confidence': 0.9}
+50 answers test-3380 200 1254.9 {'answer': 'happiness', 'confidence': 0.7}
+51 answers test-3797 200 799.4 {'answer': 'disgusted', 'confidence': 0.5}
+52 answers test-3723 200 1171.9 {'answer': 'anxious', 'confidence': 0.97}
+53 answers test-4126 200 863.6 {'answer': 'sentimental', 'confidence': 0.55}
+54 answers test-3217 200 2020.0 {'answer': 'anger', 'confidence': 0.5}
+55 answers test-3758 200 1374.1 {'answer': 'grateful', 'confidence': 0.6}
+56 answers test-4070 200 1304.1 {'answer': 'hopeful', 'confidence': 0.97}
+57 answers test-3621 200 760.0 {'answer': 'sentimental', 'confidence': 0.55}
+58 answers test-4044 200 836.7 {'answer': 'terrified', 'confidence': 0.55}
+59 answers test-3709 200 946.9 {'answer': 'sad', 'confidence': 0.72}
+60 answers test-3634 200 852.4 {'answer': 'joyful', 'confidence': 0.96}
+61 answers test-4193 200 1201.4 {'answer': 'embarrassed', 'confidence': 0.8}
+62 answers test-3668 200 791.7 {'answer': 'grateful', 'confidence': 0.96}
+63 answers test-4190 200 1009.3 {'answer': 'guilty', 'confidence': 0.8}
+64 answers test-3739 200 748.8 {'answer': 'grateful', 'confidence': 0.9}
+65 answers test-3975 200 1208.8 {'answer': 'excited', 'confidence': 0.95}
+66 answers test-3645 200 1278.4 {'answer': 'surprised', 'confidence': 0.88}
+67 answers test-3904 200 1385.3 {'answer': 'nostalgic', 'confidence': 0.96}
+68 answers test-4137 200 810.1 {'answer': 'sentimental', 'confidence': 0.72}
+69 answers test-3951 200 1433.7 {'answer': 'joyful', 'confidence': 0.6}
+70 answers test-4151 200 1731.3 {'answer': 'ashamed', 'confidence': 0.55}
+71 answers test-3660 200 839.9 {'answer': 'apprehensive', 'confidence': 0.8}
+72 answers test-3928 200 814.9 {'answer': 'confident', 'confidence': 0.5}
+73 answers test-3846 200 749.7 {'answer': 'surprised', 'confidence': 0.8}
+74 answers test-4168 200 711.2 {'answer': 'grateful', 'confidence': 0.93}
+75 answers test-3874 200 984.7 {'answer': 'disappointed', 'confidence': 0.6}
+76 answers test-3760 200 786.6 {'answer': 'caring', 'confidence': 0.5}
+77 answers test-4083 200 1554.5 {'answer': 'hopeful', 'confidence': 0.55}
+78 answers test-3762 200 1363.6 {'answer': 'angry', 'confidence': 0.6}
+79 answers test-3795 200 832.8 {'answer': 'nostalgic', 'confidence': 0.9}
+80 answers test-4110 200 1618.5 {'answer': 'anxious', 'confidence': 0.5}
+81 answers test-3878 200 1160.1 {'answer': 'annoyed', 'confidence': 0.9}
+82 answers test-3873 200 786.7 {'answer': 'proud', 'confidence': 0.9}
+83 answers test-4050 200 863.8 {'answer': 'impressed', 'confidence': 0.55}
+84 answers test-3737 200 797.1 {'answer': 'apprehensive', 'confidence': 0.4}
+85 answers test-4047 200 777.1 {'answer': 'terrified', 'confidence': 0.82}
+86 answers test-3711 200 826.2 {'answer': 'devastated', 'confidence': 0.93}
+87 answers test-3602 200 823.5 {'answer': 'ashamed', 'confidence': 0.96}
+88 answers test-3777 200 749.0 {'answer': 'sad', 'confidence': 0.93}
+89 answers test-3862 200 819.1 {'answer': 'confident', 'confidence': 0.8}
+90 answers test-3970 200 690.6 {'answer': 'grateful', 'confidence': 0.9}
+91 answers test-4167 200 919.4 {'answer': 'disappointed', 'confidence': 0.5}
+92 answers test-3915 200 800.8 {'answer': 'excited', 'confidence': 0.5}
+93 answers test-3825 200 1085.7 {'answer': 'angry', 'confidence': 0.8}
+94 answers test-3963 200 816.2 {'answer': 'joyful', 'confidence': 0.85}
+95 answers test-3673 200 1244.1 {'answer': 'faithful', 'confidence': 0.93}
+96 answers test-3976 200 893.5 {'answer': 'confident', 'confidence': 0.9}
+97 answers test-4172 200 1371.6 {'answer': 'sentimental', 'confidence': 0.35}
+98 answers test-3832 200 747.7 {'answer': 'disgusted', 'confidence': 0.45}
+99 answers test-4051 200 789.9 {'answer': 'disappointed', 'confidence': 0.93}
+100 answers test-4331 200 825.9 {'answer': 'anxiety', 'confidence': 0.5}
+101 answers test-3618 200 1283.5 {'answer': 'angry', 'confidence': 0.72}
+102 answers test-4693 200 797.5 {'answer': 'fear', 'confidence': 0.9}
+103 answers test-4533 200 820.3 {'answer': 'sadness', 'confidence': 0.8}
+104 answers test-4670 200 797.4 {'answer': 'fear', 'confidence': 0.5}
+105 answers test-4706 200 750.9 {'answer': 'shame', 'confidence': 0.55}
+106 answers test-4312 200 787.5 {'answer': 'anxiety', 'confidence': 0.72}
+107 answers test-4632 200 2102.3 {'answer': 'anxiety', 'confidence': 0.05}
+108 answers test-4753 200 1094.5 {'answer': 'sadness', 'confidence': 0.95}
+109 answers test-4550 200 1148.5 {'answer': 'sadness', 'confidence': 0.05}
+110 answers test-4640 200 1414.7 {'answer': 'sadness', 'confidence': 0.93}
+111 answers test-4469 200 838.8 {'answer': 'anger', 'confidence': 0.6}
+112 answers test-4798 200 780.8 {'answer': 'sadness', 'confidence': 0.2}
+113 answers test-4280 200 768.4 {'answer': 'sadness', 'confidence': 0.8}
+114 answers test-4622 200 801.9 {'answer': 'anxiety', 'confidence': 0.85}
+115 answers test-4747 200 1220.7 {'answer': 'sadness', 'confidence': 0.93}
+116 answers test-4419 200 1245.6 {'answer': 'depression', 'confidence': 0.2}
+117 answers test-4476 200 760.4 {'answer': 'depression', 'confidence': 0.4}
+118 answers test-4767 200 600.9 {'answer': 'depression', 'confidence': 0.5}
+119 answers test-4439 200 1273.2 {'answer': 'sadness', 'confidence': 0.1}
+120 answers test-4248 200 761.6 {'answer': 'sadness', 'confidence': 0.5}
+121 answers test-4305 200 1544.4 {'answer': 'sadness', 'confidence': 0.3}
+122 answers test-4657 200 817.5 {'answer': 'sadness', 'confidence': 0.1}
+123 answers test-4647 200 1298.0 {'answer': 'sadness', 'confidence': 0.8}
+124 answers test-4583 200 737.9 {'answer': 'anger', 'confidence': 0.55}
+125 answers test-4635 200 857.4 {'answer': 'depression', 'confidence': 0.7}
+126 answers test-4204 200 1493.5 {'answer': 'anxiety', 'confidence': 0.8}
+127 answers test-4680 200 1522.1 {'answer': 'sadness', 'confidence': 0.96}
+128 answers test-4374 200 867.7 {'answer': 'anxiety', 'confidence': 0.2}
+129 answers test-4230 200 864.8 {'answer': 'sadness', 'confidence': 0.62}
+130 answers test-4645 200 1189.2 {'answer': 'depression', 'confidence': 0.9}
+131 answers test-4591 200 774.0 {'answer': 'anxiety', 'confidence': 0.9}
+132 answers test-4435 200 825.3 {'answer': 'anxiety', 'confidence': 0.1}
+133 answers test-4612 200 967.9 {'answer': 'anger', 'confidence': 0.55}
+134 answers test-4505 200 1388.5 {'answer': 'sadness', 'confidence': 0.72}
+135 answers test-4562 200 1346.8 {'answer': 'anger', 'confidence': 0.55}
+136 answers test-4577 200 911.5 {'answer': 'anxiety', 'confidence': 0.25}
+137 answers test-4546 200 1358.3 {'answer': 'anxiety', 'confidence': 0.3}
+138 answers test-4376 200 845.1 {'answer': 'anxiety', 'confidence': 0.5}
+139 answers test-4238 200 738.6 {'answer': 'sadness', 'confidence': 0.1}
+140 answers test-4202 200 1116.1 {'answer': 'anxiety', 'confidence': 0.8}
+141 answers test-4310 200 1175.3 {'answer': 'shame', 'confidence': 0.5}
+142 answers test-4729 200 860.1 {'answer': 'depression', 'confidence': 0.6}
+143 answers test-4271 200 706.0 {'answer': 'sadness', 'confidence': 0.86}
+144 answers test-4745 200 1284.3 {'answer': 'sadness', 'confidence': 0.3}
+145 answers test-4489 200 808.2 {'answer': 'sadness', 'confidence': 0.93}
+146 answers test-4491 200 1367.5 {'answer': 'fear', 'confidence': 0.72}
+147 answers test-4270 200 858.6 {'answer': 'anxiety', 'confidence': 0.97}
+148 answers test-4650 200 701.9 {'answer': 'anxiety', 'confidence': 0.3}
+149 answers test-2961 200 743.6 {'answer': 'neutral', 'confidence': 0.5}
+150 answers test-4456 200 1487.1 {'answer': 'anxiety', 'confidence': 0.62}
+151 answers test-4765 200 1240.8 {'answer': 'anxiety', 'confidence': 0.5}
+152 answers test-2770 200 748.3 {'answer': 'surprise', 'confidence': 0.5}
+153 answers test-2794 200 1352.3 {'answer': 'joy', 'confidence': 0.4}
+154 answers test-2846 200 1110.9 {'answer': 'anger', 'confidence': 0.6}
+155 answers test-2928 200 1138.6 {'answer': 'disgust', 'confidence': 0.3}
+156 answers test-2755 200 2138.6 {'answer': 'neutral', 'confidence': 0.4}
+157 answers test-2708 200 951.1 {'answer': 'joy', 'confidence': 0.4}
+158 answers test-2632 200 901.4 {'answer': 'sadness', 'confidence': 0.4}
+159 answers test-2786 200 867.1 {'answer': 'joy', 'confidence': 0.55}
+160 answers test-2870 200 1103.6 {'answer': 'disgust', 'confidence': 0.6}
+161 answers test-2781 200 2007.9 {'answer': 'neutral', 'confidence': 0.4}
+162 answers test-2559 200 870.0 {'answer': 'fear', 'confidence': 0.86}
+163 answers test-2419 200 859.4 {'answer': 'disgust', 'confidence': 0.45}
+164 answers test-2804 200 837.5 {'answer': 'anger', 'confidence': 0.8}
+165 answers test-2957 200 1324.6 {'answer': 'sadness', 'confidence': 0.85}
+166 answers test-2664 200 1342.4 {'answer': 'joy', 'confidence': 0.55}
+167 answers test-2593 200 1363.2 {'answer': 'anger', 'confidence': 0.4}
+168 answers test-2850 200 845.6 {'answer': 'surprise', 'confidence': 0.6}
+169 answers test-2734 200 1242.4 {'answer': 'sadness', 'confidence': 0.9}
+170 answers test-2871 200 1168.3 {'answer': 'disgust', 'confidence': 0.4}
+171 answers test-2629 200 1186.5 {'answer': 'fear', 'confidence': 0.6}
+172 answers test-2774 200 1319.5 {'answer': 'neutral', 'confidence': 0.5}
+173 answers test-2467 200 839.5 {'answer': 'joy', 'confidence': 0.85}
+174 answers test-2625 200 1205.8 {'answer': 'neutral', 'confidence': 0.5}
+175 answers test-2483 200 1052.3 {'answer': 'neutral', 'confidence': 0.8}
+176 answers test-2586 200 880.5 {'answer': 'joy', 'confidence': 0.9}
+177 answers test-2456 200 957.5 {'answer': 'neutral', 'confidence': 0.5}
+178 answers test-2427 200 743.4 {'answer': 'fear', 'confidence': 0.3}
+179 answers test-2428 200 1243.8 {'answer': 'joy', 'confidence': 0.5}
+180 answers test-2613 200 726.3 {'answer': 'joy', 'confidence': 0.8}
+181 answers test-2979 200 863.7 {'answer': 'sadness', 'confidence': 0.4}
+182 answers test-2929 200 810.5 {'answer': 'joy', 'confidence': 0.72}
+183 answers test-2453 200 854.7 {'answer': 'joy', 'confidence': 0.72}
+184 answers test-2556 200 819.6 {'answer': 'anger', 'confidence': 0.4}
+185 answers test-2903 200 1448.5 {'answer': 'neutral', 'confidence': 0.5}
+186 answers test-2768 200 812.2 {'answer': 'joy', 'confidence': 0.72}
+187 answers test-2775 200 1199.2 {'answer': 'sadness', 'confidence': 0.55}
+188 answers test-2641 200 769.3 {'answer': 'neutral', 'confidence': 0.6}
+189 answers test-2452 200 1257.0 {'answer': 'joy', 'confidence': 0.96}
+190 answers test-2692 200 827.9 {'answer': 'neutral', 'confidence': 0.8}
+191 answers test-2776 200 773.2 {'answer': 'disgust', 'confidence': 0.5}
+192 answers test-2472 200 804.0 {'answer': 'joy', 'confidence': 0.9}
+193 answers test-2917 200 851.6 {'answer': 'sadness', 'confidence': 0.6}
+194 answers test-2660 200 845.7 {'answer': 'sadness', 'confidence': 0.4}
+195 answers test-2918 200 1928.6 {'answer': 'neutral', 'confidence': 0.5}
+196 answers test-2596 200 1345.6 {'answer': 'joy', 'confidence': 0.8}
+197 answers test-2409 200 1185.4 {'answer': 'neutral', 'confidence': 0.4}
+198 answers test-2852 200 1185.6 {'answer': 'neutral', 'confidence': 0.6}
+199 answers test-2699 200 1892.4 {'answer': 'anger', 'confidence': 0.45}
+200 answers test-783 200 812.5 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+201 answers test-680 200 849.3 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+202 answers test-1018 200 777.9 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+203 answers test-2538 200 2231.6 {'answer': 'joy', 'confidence': 0.4}
+204 answers test-1159 200 794.4 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+205 answers test-778 200 844.8 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+206 answers test-625 200 914.5 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+207 answers test-1177 200 1144.9 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+208 answers test-1102 200 1300.5 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+209 answers test-769 200 1120.1 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+210 answers test-917 200 1245.6 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+211 answers test-643 200 780.0 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+212 answers test-909 200 804.7 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+213 answers test-616 200 1111.4 {'answer': False, 'p_yes': 0.020000000000000018, 'confidence': 0.98}
+214 answers test-914 200 875.3 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+215 answers test-1017 200 804.4 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+216 answers test-1046 200 1372.4 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+217 answers test-1126 200 756.4 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+218 answers test-1198 200 735.8 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+219 answers test-710 200 768.9 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+220 answers test-726 200 1169.2 {'answer': True, 'p_yes': 0.55, 'confidence': 0.55}
+221 answers test-922 200 807.5 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+222 answers test-737 200 810.5 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+223 answers test-634 200 1609.8 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+224 answers test-1185 200 1237.1 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+225 answers test-1050 200 896.3 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+226 answers test-797 200 775.9 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+227 answers test-1061 200 1276.3 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+228 answers test-650 200 706.8 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+229 answers test-1009 200 1274.4 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+230 answers test-881 200 794.1 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+231 answers test-1019 200 1222.6 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+232 answers test-848 200 822.3 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+233 answers test-868 200 854.5 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+234 answers test-758 200 1708.7 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+235 answers test-775 200 797.7 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+236 answers test-793 200 825.3 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+237 answers test-1192 200 1269.0 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+238 answers test-694 200 994.5 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+239 answers test-998 200 793.8 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+240 answers test-973 200 1267.5 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+241 answers test-953 200 843.8 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+242 answers test-1060 200 1192.7 {'answer': False, 'p_yes': 0.010000000000000009, 'confidence': 0.99}
+243 answers test-1100 200 905.5 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+244 answers test-1164 200 966.5 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+245 answers test-896 200 808.0 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+246 answers test-735 200 1186.8 {'answer': False, 'p_yes': 0.18000000000000005, 'confidence': 0.82}
+247 answers test-935 200 961.3 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+248 answers test-604 200 1192.0 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+249 answers test-1249 200 752.0 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+250 answers test-696 200 1484.8 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+251 answers test-1287 200 808.8 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+252 answers test-754 200 1185.3 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+253 answers test-1252 200 869.9 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+254 answers test-1791 200 827.1 {'answer': False, 'p_yes': 0.31999999999999995, 'confidence': 0.68}
+255 answers test-1617 200 1291.9 {'answer': True, 'p_yes': 0.99, 'confidence': 0.99}
+256 answers test-1209 200 883.5 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+257 answers test-1590 200 1151.9 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+258 answers test-1740 200 914.9 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+259 answers test-1213 200 797.9 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+260 answers test-1351 200 701.7 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+261 answers test-1504 200 888.3 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+262 answers test-1676 200 1096.2 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+263 answers test-1432 200 1198.1 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+264 answers test-1201 200 859.8 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+265 answers test-1690 200 779.1 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+266 answers test-1371 200 1212.5 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+267 answers test-1474 200 807.0 {'answer': False, 'p_yes': 0.07999999999999996, 'confidence': 0.92}
+268 answers test-1782 200 1522.1 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+269 answers test-1724 200 778.7 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+270 answers test-1336 200 829.9 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+271 answers test-1278 200 1125.8 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+272 answers test-1332 200 1234.3 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+273 answers test-1288 200 784.4 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+274 answers test-1434 200 855.6 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+275 answers test-1239 200 1650.4 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+276 answers test-1682 200 1209.9 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+277 answers test-1485 200 1111.8 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+278 answers test-1424 200 1147.1 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+279 answers test-1386 200 1264.0 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+280 answers test-1375 200 872.7 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+281 answers test-1358 200 795.3 {'answer': False, 'p_yes': 0.31999999999999995, 'confidence': 0.68}
+282 answers test-1661 200 837.8 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+283 answers test-1362 200 852.0 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+284 answers test-1673 200 853.5 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+285 answers test-1642 200 796.2 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+286 answers test-1205 200 841.5 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+287 answers test-1204 200 1203.4 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+288 answers test-1421 200 836.6 {'answer': False, 'p_yes': 0.010000000000000009, 'confidence': 0.99}
+289 answers test-1232 200 830.4 {'answer': False, 'p_yes': 0.18000000000000005, 'confidence': 0.82}
+290 answers test-1626 200 787.0 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+291 answers test-1668 200 1393.9 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+292 answers test-1694 200 792.5 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+293 answers test-1340 200 1345.7 {'answer': False, 'p_yes': 0.44999999999999996, 'confidence': 0.55}
+294 answers test-1586 200 833.5 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+295 answers test-1579 200 1323.7 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+296 answers test-1390 200 2823.9 {'answer': True, 'p_yes': 0.5, 'confidence': 0.5}
+297 answers test-1602 200 1117.8 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+298 answers test-1259 200 805.0 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+299 answers test-1231 200 886.3 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+300 answers test-1441 200 864.3 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+301 answers test-2198 200 797.8 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+302 answers test-2186 200 765.9 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+303 answers test-1831 200 756.4 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+304 answers test-2317 200 818.6 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+305 answers test-2276 200 632.3 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+306 answers test-2220 200 797.3 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+307 answers test-2192 200 1283.7 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+308 answers test-2315 200 750.8 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+309 answers test-1959 200 1130.1 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+310 answers test-1903 200 1173.3 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+311 answers test-2224 200 814.2 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+312 answers test-1935 200 797.3 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+313 answers test-2024 200 1179.4 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+314 answers test-2073 200 809.9 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+315 answers test-2140 200 1322.4 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+316 answers test-1926 200 888.8 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+317 answers test-1970 200 1285.7 {'answer': False, 'p_yes': 0.020000000000000018, 'confidence': 0.98}
+318 answers test-2123 200 810.4 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+319 answers test-2023 200 783.3 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+320 answers test-2042 200 1345.5 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+321 answers test-2344 200 1275.4 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+322 answers test-1951 200 1150.9 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+323 answers test-2111 200 904.6 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+324 answers test-1827 200 850.0 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+325 answers test-1899 200 797.8 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+326 answers test-2008 200 1250.7 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+327 answers test-2041 200 2190.8 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+328 answers test-1874 200 1246.2 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+329 answers test-2296 200 1211.1 {'answer': False, 'p_yes': 0.28, 'confidence': 0.72}
+330 answers test-2144 200 808.1 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+331 answers test-2272 200 765.3 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+332 answers test-2366 200 768.1 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+333 answers test-2129 200 803.7 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+334 answers test-1991 200 737.6 {'answer': False, 'p_yes': 0.020000000000000018, 'confidence': 0.98}
+335 answers test-2110 200 1272.7 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+336 answers test-2373 200 1151.4 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+337 answers test-2350 200 803.8 {'answer': True, 'p_yes': 0.96, 'confidence': 0.96}
+338 answers test-2380 200 842.4 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+339 answers test-2365 200 709.2 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+340 answers test-1977 200 1160.0 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+341 answers test-2182 200 704.4 {'answer': False, 'p_yes': 0.28, 'confidence': 0.72}
+342 answers test-1930 200 1027.5 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+343 answers test-2062 200 828.1 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+344 answers test-1914 200 514.4 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+345 answers test-2003 200 755.4 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+346 answers test-2051 200 779.8 {'answer': False, 'p_yes': 0.020000000000000018, 'confidence': 0.98}
+347 answers test-1839 200 826.3 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+348 answers test-2293 200 837.2 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+349 answers test-2174 200 845.6 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+350 answers test-1820 200 1536.9 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+351 answers test-531 200 772.7 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+352 answers test-306 200 747.9 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+353 answers test-54 200 848.1 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+354 answers test-291 200 1328.9 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+355 answers test-322 200 899.5 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+356 answers test-330 200 1664.5 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+357 answers test-294 200 804.0 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+358 answers test-316 200 1364.1 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+359 answers test-195 200 1381.0 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+360 answers test-560 200 837.9 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+361 answers test-242 200 844.2 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+362 answers test-461 200 904.6 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+363 answers test-596 200 879.0 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+364 answers test-415 200 1236.5 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+365 answers test-377 200 730.2 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+366 answers test-449 200 1235.1 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+367 answers test-554 200 889.6 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+368 answers test-323 200 1176.6 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+369 answers test-12 200 1507.2 {'answer': False, 'p_yes': 0.31999999999999995, 'confidence': 0.68}
+370 answers test-162 200 2162.4 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+371 answers test-115 200 753.0 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+372 answers test-599 200 801.7 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+373 answers test-376 200 841.3 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+374 answers test-204 200 877.8 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+375 answers test-544 200 1335.2 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+376 answers test-442 200 858.1 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+377 answers test-203 200 1404.5 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+378 answers test-89 200 814.5 {'answer': False, 'p_yes': 0.44999999999999996, 'confidence': 0.55}
+379 answers test-522 200 777.1 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+380 answers test-183 200 821.0 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+381 answers test-211 200 1676.2 {'answer': False, 'p_yes': 0.30000000000000004, 'confidence': 0.7}
+382 answers test-321 200 1195.5 {'answer': False, 'p_yes': 0.31999999999999995, 'confidence': 0.68}
+383 answers test-40 200 1165.0 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+384 answers test-315 200 1089.6 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+385 answers test-144 200 1087.8 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+386 answers test-403 200 994.9 {'answer': False, 'p_yes': 0.28, 'confidence': 0.72}
+387 answers test-563 200 800.1 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+388 answers test-530 200 809.4 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+389 answers test-5 200 1717.7 {'answer': False, 'p_yes': 0.28, 'confidence': 0.72}
+390 answers test-73 200 810.0 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+391 answers test-192 200 1840.2 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+392 answers test-386 200 792.8 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+393 answers test-329 200 853.1 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+394 answers test-311 200 862.7 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+395 answers test-181 200 805.8 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+396 answers test-408 200 1308.0 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+397 answers test-477 200 1407.2 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+398 answers test-31 200 846.6 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+399 answers test-584 200 1134.2 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+400 answers test-7085 200 858.0 {'score': 1.0, 'confidence': 0.8}
+401 answers test-452 200 1206.0 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+402 answers test-7080 200 793.3 {'score': 1.0, 'confidence': 0.8}
+403 answers test-6863 200 1069.8 {'score': 3.0, 'confidence': 0.5}
+404 answers test-6845 200 846.4 {'score': 1.0, 'confidence': 0.9}
+405 answers test-6812 200 803.8 {'score': 1.0, 'confidence': 0.9}
+406 answers test-6764 200 1145.2 {'score': 2.0, 'confidence': 0.5}
+407 answers test-6961 200 1317.5 {'score': 3.0, 'confidence': 0.4}
+408 answers test-6723 200 1204.7 {'score': 1.0, 'confidence': 0.95}
+409 answers test-6783 200 793.6 {'score': 1.0, 'confidence': 0.85}
+410 answers test-6975 200 1333.6 {'score': 1.0, 'confidence': 0.93}
+411 answers test-6807 200 939.0 {'score': 4.0, 'confidence': 0.45}
+412 answers test-6971 200 835.8 {'score': 1.0, 'confidence': 0.5}
+413 answers test-6689 200 1270.8 {'score': 2.0, 'confidence': 0.5}
+414 answers test-6905 200 844.7 {'score': 1.0, 'confidence': 0.95}
+415 answers test-6900 200 1119.8 {'score': 1.0, 'confidence': 0.85}
+416 answers test-7010 200 745.2 {'score': 2.0, 'confidence': 0.5}
+417 answers test-6818 200 1439.8 {'score': 2.0, 'confidence': 0.5}
+418 answers test-7018 200 798.2 {'score': 3.0, 'confidence': 0.5}
+419 answers test-6958 200 835.4 {'score': 1.0, 'confidence': 0.8}
+420 answers test-6642 200 804.5 {'score': 3.0, 'confidence': 0.5}
+421 answers test-6754 200 1439.3 {'score': 2.0, 'confidence': 0.5}
+422 answers test-6914 200 1137.5 {'score': 2.0, 'confidence': 0.6}
+423 answers test-6833 200 1359.0 {'score': 1.0, 'confidence': 0.9}
+424 answers test-6675 200 1230.0 {'score': 4.0, 'confidence': 0.5}
+425 answers test-6762 200 840.2 {'score': 1.0, 'confidence': 0.62}
+426 answers test-7181 200 847.6 {'score': 2.0, 'confidence': 0.6}
+427 answers test-6685 200 1050.6 {'score': 1.0, 'confidence': 0.85}
+428 answers test-7040 200 1281.8 {'score': 2.0, 'confidence': 0.5}
+429 answers test-6846 200 749.3 {'score': 1.0, 'confidence': 0.9}
+430 answers test-7052 200 774.4 {'score': 2.0, 'confidence': 0.4}
+431 answers test-6629 200 766.8 {'score': 2.0, 'confidence': 0.5}
+432 answers test-7146 200 1199.8 {'score': 2.0, 'confidence': 0.6}
+433 answers test-6837 200 709.5 {'score': 3.0, 'confidence': 0.4}
+434 answers test-6708 200 770.5 {'score': 3.0, 'confidence': 0.4}
+435 answers test-6710 200 771.1 {'score': 2.0, 'confidence': 0.6}
+436 answers test-6734 200 1188.8 {'score': 2.0, 'confidence': 0.5}
+437 answers test-7020 200 908.2 {'score': 2.0, 'confidence': 0.5}
+438 answers test-7166 200 759.2 {'score': 2.0, 'confidence': 0.5}
+439 answers test-6604 200 1267.1 {'score': 2.0, 'confidence': 0.5}
+440 answers test-6674 200 811.9 {'score': 2.0, 'confidence': 0.5}
+441 answers test-7095 200 783.8 {'score': 1.0, 'confidence': 0.8}
+442 answers test-6829 200 860.0 {'score': 3.0, 'confidence': 0.5}
+443 answers test-7037 200 1148.8 {'score': 2.0, 'confidence': 0.6}
+444 answers test-6631 200 899.1 {'score': 1.0, 'confidence': 0.9}
+445 answers test-6917 200 1167.0 {'score': 1.0, 'confidence': 0.6}
+446 answers test-6638 200 1526.5 {'score': 2.0, 'confidence': 0.6}
+447 answers test-6888 200 1226.2 {'score': 2.0, 'confidence': 0.55}
+448 answers test-7049 200 805.3 {'score': 1.0, 'confidence': 0.93}
+449 answers test-6694 200 1296.9 {'score': 1.0, 'confidence': 0.8}
+450 answers test-7157 200 859.5 {'score': 1.0, 'confidence': 0.8}
+451 answers test-5783 200 772.1 {'score': 3.0, 'confidence': 0.8}
+452 answers test-5553 200 725.6 {'score': 1.0, 'confidence': 0.8}
+453 answers test-5628 200 937.0 {'score': 1.0, 'confidence': 0.55}
+454 answers test-5656 200 839.2 {'score': 1.0, 'confidence': 0.8}
+455 answers test-5864 200 751.1 {'score': 4.0, 'confidence': 0.62}
+456 answers test-5525 200 898.4 {'score': 3.0, 'confidence': 0.8}
+457 answers test-5448 200 1129.8 {'score': 2.0, 'confidence': 0.55}
+458 answers test-5701 200 1028.7 {'score': 2.0, 'confidence': 0.55}
+459 answers test-5956 200 671.5 {'score': 3.0, 'confidence': 0.45}
+460 answers test-5443 200 1040.9 {'score': 2.0, 'confidence': 0.5}
+461 answers test-5585 200 841.1 {'score': 2.0, 'confidence': 0.6}
+462 answers test-5881 200 1160.4 {'score': 4.0, 'confidence': 0.5}
+463 answers test-5756 200 809.4 {'score': 3.0, 'confidence': 0.7}
+464 answers test-5965 200 775.5 {'score': 2.0, 'confidence': 0.5}
+465 answers test-5417 200 907.1 {'score': 1.0, 'confidence': 0.9}
+466 answers test-5989 200 825.5 {'score': 3.0, 'confidence': 0.7}
+467 answers test-5844 200 1201.4 {'score': 3.0, 'confidence': 0.9}
+468 answers test-5942 200 1154.9 {'score': 3.0, 'confidence': 0.8}
+469 answers test-5676 200 867.4 {'score': 3.0, 'confidence': 0.8}
+470 answers test-5696 200 836.1 {'score': 3.0, 'confidence': 0.4}
+471 answers test-5674 200 788.8 {'score': 2.0, 'confidence': 0.35}
+472 answers test-5865 200 1450.9 {'score': 3.0, 'confidence': 0.8}
+473 answers test-5767 200 881.5 {'score': 3.0, 'confidence': 0.8}
+474 answers test-5548 200 806.7 {'score': 3.0, 'confidence': 0.8}
+475 answers test-5895 200 782.8 {'score': 2.0, 'confidence': 0.5}
+476 answers test-5703 200 1694.7 {'score': 1.0, 'confidence': 0.93}
+477 answers test-5472 200 743.3 {'score': 1.0, 'confidence': 0.9}
+478 answers test-5787 200 721.5 {'score': 2.0, 'confidence': 0.55}
+479 answers test-5477 200 1115.2 {'score': 3.0, 'confidence': 0.8}
+480 answers test-5802 200 1199.0 {'score': 3.0, 'confidence': 0.8}
+481 answers test-5918 200 1502.3 {'score': 3.0, 'confidence': 0.8}
+482 answers test-5976 200 1056.2 {'score': 3.0, 'confidence': 0.8}
+483 answers test-5583 200 788.3 {'score': 2.0, 'confidence': 0.65}
+484 answers test-5671 200 880.8 {'score': 2.0, 'confidence': 0.45}
+485 answers test-5427 200 791.5 {'score': 1.0, 'confidence': 0.7}
+486 answers test-5637 200 865.2 {'score': 3.0, 'confidence': 0.5}
+487 answers test-5595 200 761.9 {'score': 2.0, 'confidence': 0.5}
+488 answers test-5600 200 729.8 {'score': 1.0, 'confidence': 0.8}
+489 answers test-5509 200 788.1 {'score': 3.0, 'confidence': 0.9}
+490 answers test-5852 200 790.2 {'score': 1.0, 'confidence': 0.8}
+491 answers test-5704 200 820.1 {'score': 3.0, 'confidence': 0.8}
+492 answers test-5714 200 1378.9 {'score': 2.0, 'confidence': 0.5}
+493 answers test-5705 200 1223.6 {'score': 3.0, 'confidence': 0.8}
+494 answers test-5754 200 1300.0 {'score': 2.0, 'confidence': 0.5}
+495 answers test-5872 200 1158.5 {'score': 3.0, 'confidence': 0.8}
+496 answers test-5795 200 862.0 {'score': 3.0, 'confidence': 0.5}
+497 answers test-5920 200 1192.3 {'score': 1.0, 'confidence': 0.93}
+498 answers test-5761 200 1068.9 {'score': 3.0, 'confidence': 0.8}
+499 answers test-5892 200 771.8 {'score': 3.0, 'confidence': 0.6}
+500 answers test-5463 200 1297.4 {'score': 3.0, 'confidence': 0.7}
+501 answers test-4804 200 877.5 {'score': 1.0, 'confidence': 0.8}
+502 answers test-5201 200 794.8 {'score': 1.0, 'confidence': 0.8}
+503 answers test-5385 200 693.4 {'score': 2.0, 'confidence': 0.5}
+504 answers test-5255 200 1649.1 {'score': 1.0, 'confidence': 0.93}
+505 answers test-5035 200 1276.8 {'score': 3.0, 'confidence': 0.5}
+506 answers test-4942 200 1243.5 {'score': 1.0, 'confidence': 0.97}
+507 answers test-5150 200 1148.2 {'score': 4.0, 'confidence': 0.5}
+508 answers test-4845 200 1191.7 {'score': 1.0, 'confidence': 0.9}
+509 answers test-5069 200 772.6 {'score': 3.0, 'confidence': 0.45}
+510 answers test-5030 200 741.0 {'score': 3.0, 'confidence': 0.5}
+511 answers test-4905 200 848.5 {'score': 3.0, 'confidence': 0.5}
+512 answers test-5285 200 829.6 {'score': 1.0, 'confidence': 0.85}
+513 answers test-5316 200 773.6 {'score': 2.0, 'confidence': 0.5}
+514 answers test-5198 200 778.3 {'score': 2.0, 'confidence': 0.5}
+515 answers test-5161 200 1699.8 {'score': 2.0, 'confidence': 0.5}
+516 answers test-5361 200 863.5 {'score': 2.0, 'confidence': 0.45}
+517 answers test-5004 200 848.0 {'score': 2.0, 'confidence': 0.5}
+518 answers test-5368 200 1308.0 {'score': 1.0, 'confidence': 0.8}
+519 answers test-5356 200 1190.4 {'score': 2.0, 'confidence': 0.55}
+520 answers test-4978 200 775.1 {'score': 1.0, 'confidence': 0.93}
+521 answers test-4874 200 837.5 {'score': 2.0, 'confidence': 0.45}
+522 answers test-5121 200 1211.8 {'score': 2.0, 'confidence': 0.5}
+523 answers test-5092 200 1076.0 {'score': 1.0, 'confidence': 0.97}
+524 answers test-5393 200 1527.1 {'score': 3.0, 'confidence': 0.5}
+525 answers test-5304 200 746.0 {'score': 1.0, 'confidence': 0.95}
+526 answers test-5006 200 1307.5 {'score': 3.0, 'confidence': 0.5}
+527 answers test-5218 200 1404.3 {'score': 4.0, 'confidence': 0.5}
+528 answers test-5130 200 796.7 {'score': 2.0, 'confidence': 0.5}
+529 answers test-5224 200 810.3 {'score': 3.0, 'confidence': 0.5}
+530 answers test-5362 200 1355.9 {'score': 3.0, 'confidence': 0.5}
+531 answers test-4970 200 828.7 {'score': 1.0, 'confidence': 0.8}
+532 answers test-5074 200 760.0 {'score': 1.0, 'confidence': 0.72}
+533 answers test-4892 200 1097.0 {'score': 1.0, 'confidence': 0.85}
+534 answers test-5103 200 812.3 {'score': 2.0, 'confidence': 0.4}
+535 answers test-4956 200 1323.8 {'score': 2.0, 'confidence': 0.5}
+536 answers test-5182 200 889.8 {'score': 1.0, 'confidence': 0.97}
+537 answers test-5174 200 843.7 {'score': 3.0, 'confidence': 0.45}
+538 answers test-5327 200 1226.8 {'score': 2.0, 'confidence': 0.5}
+539 answers test-5297 200 2642.6 {'score': 4.0, 'confidence': 0.55}
+540 answers test-5108 200 725.9 {'score': 3.0, 'confidence': 0.5}
+541 answers test-5084 200 854.2 {'score': 2.0, 'confidence': 0.5}
+542 answers test-4853 200 1222.6 {'score': 2.0, 'confidence': 0.5}
+543 answers test-5169 200 780.9 {'score': 2.0, 'confidence': 0.5}
+544 answers test-5176 200 947.3 {'score': 1.0, 'confidence': 0.85}
+545 answers test-4971 200 1887.6 {'score': 1.0, 'confidence': 0.8}
+546 answers test-4882 200 858.5 {'score': 2.0, 'confidence': 0.5}
+547 answers test-5332 200 830.4 {'score': 2.0, 'confidence': 0.5}
+548 answers test-5106 200 821.4 {'score': 4.0, 'confidence': 0.5}
+549 answers test-5389 200 966.5 {'score': 4.0, 'confidence': 0.5}
+550 answers test-6065 200 800.1 {'score': 2.0, 'confidence': 0.5}
+551 answers test-6488 200 910.1 {'score': 2.0, 'confidence': 0.5}
+552 answers test-5336 200 1110.0 {'score': 2.0, 'confidence': 0.5}
+553 answers test-6431 200 878.6 {'score': 2.0, 'confidence': 0.5}
+554 answers test-6163 200 718.6 {'score': 2.0, 'confidence': 0.6}
+555 answers test-6506 200 830.3 {'score': 3.0, 'confidence': 0.5}
+556 answers test-6410 200 773.9 {'score': 4.0, 'confidence': 0.5}
+557 answers test-6088 200 765.9 {'score': 2.0, 'confidence': 0.5}
+558 answers test-6289 200 1323.6 {'score': 2.0, 'confidence': 0.6}
+559 answers test-6409 200 851.6 {'score': 1.0, 'confidence': 0.72}
+560 answers test-6315 200 850.4 {'score': 3.0, 'confidence': 0.5}
+561 answers test-6024 200 1660.3 {'score': 3.0, 'confidence': 0.5}
+562 answers test-6351 200 1183.6 {'score': 1.0, 'confidence': 0.6}
+563 answers test-6404 200 1410.7 {'score': 4.0, 'confidence': 0.5}
+564 answers test-6241 200 883.4 {'score': 1.0, 'confidence': 0.95}
+565 answers test-6265 200 927.0 {'score': 1.0, 'confidence': 0.6}
+566 answers test-6286 200 818.9 {'score': 4.0, 'confidence': 0.5}
+567 answers test-6239 200 921.5 {'score': 3.0, 'confidence': 0.4}
+568 answers test-6290 200 1232.6 {'score': 3.0, 'confidence': 0.5}
+569 answers test-6543 200 854.1 {'score': 1.0, 'confidence': 0.6}
+570 answers test-6174 200 836.5 {'score': 1.0, 'confidence': 0.7}
+571 answers test-6343 200 926.3 {'score': 1.0, 'confidence': 0.85}
+572 answers test-6466 200 864.2 {'score': 3.0, 'confidence': 0.45}
+573 answers test-6015 200 1193.9 {'score': 2.0, 'confidence': 0.5}
+574 answers test-6204 200 792.7 {'score': 2.0, 'confidence': 0.5}
+575 answers test-6567 200 759.2 {'score': 1.0, 'confidence': 0.8}
+576 answers test-6090 200 756.2 {'score': 4.0, 'confidence': 0.45}
+577 answers test-6333 200 724.5 {'score': 2.0, 'confidence': 0.55}
+578 answers test-6544 200 1274.2 {'score': 1.0, 'confidence': 0.8}
+579 answers test-6054 200 846.6 {'score': 2.0, 'confidence': 0.6}
+580 answers test-6371 200 1272.4 {'score': 3.0, 'confidence': 0.55}
+581 answers test-6270 200 837.0 {'score': 3.0, 'confidence': 0.4}
+582 answers test-6494 200 706.4 {'score': 3.0, 'confidence': 0.5}
+583 answers test-6483 200 1233.7 {'score': 2.0, 'confidence': 0.6}
+584 answers test-6059 200 1315.7 {'score': 2.0, 'confidence': 0.5}
+585 answers test-6258 200 854.5 {'score': 3.0, 'confidence': 0.5}
+586 answers test-6443 200 881.5 {'score': 1.0, 'confidence': 0.8}
+587 answers test-6002 200 785.7 {'score': 2.0, 'confidence': 0.6}
+588 answers test-6529 200 921.9 {'score': 1.0, 'confidence': 0.85}
+589 answers test-6156 200 747.2 {'score': 4.0, 'confidence': 0.5}
+590 answers test-6312 200 803.8 {'score': 1.0, 'confidence': 0.85}
+591 answers test-6250 200 769.2 {'score': 1.0, 'confidence': 0.85}
+592 answers test-6038 200 1294.6 {'score': 3.0, 'confidence': 0.5}
+593 answers test-6545 200 2166.9 {'score': 4.0, 'confidence': 0.4}
+594 answers test-6287 200 1181.4 {'score': 2.0, 'confidence': 0.5}
+595 answers test-6173 200 1394.2 {'score': 1.0, 'confidence': 0.6}
+596 answers test-6487 200 807.1 {'score': 2.0, 'confidence': 0.55}
+597 answers test-6362 200 885.4 {'score': 3.0, 'confidence': 0.5}
+598 answers test-6178 200 1456.0 {'score': 3.0, 'confidence': 0.45}
+599 answers test-6441 200 1536.0 {'score': 4.0, 'confidence': 0.5}
+600 repeats test-3266 200 785.4 {'answer': 'anger', 'confidence': 0.4}
+601 answers test-6467 200 1290.8 {'score': 1.0, 'confidence': 0.85}
+602 repeats test-3161 200 823.9 {'answer': 'happiness', 'confidence': 0.55}
+603 repeats test-3441 200 840.9 {'answer': 'happiness', 'confidence': 0.55}
+604 repeats test-3873 200 665.1 {'answer': 'proud', 'confidence': 0.9}
+605 repeats test-2850 200 825.9 {'answer': 'surprise', 'confidence': 0.8}
+606 repeats test-4248 200 772.4 {'answer': 'sadness', 'confidence': 0.5}
+607 repeats test-4693 200 878.7 {'answer': 'fear', 'confidence': 0.9}
+608 repeats test-2708 200 789.1 {'answer': 'joy', 'confidence': 0.4}
+609 repeats test-3602 200 770.2 {'answer': 'ashamed', 'confidence': 0.95}
+610 repeats test-3432 200 1369.1 {'answer': 'neutral', 'confidence': 0.85}
+611 repeats test-3019 200 820.8 {'answer': 'neutral', 'confidence': 0.6}
+612 repeats test-4647 200 1188.1 {'answer': 'sadness', 'confidence': 0.8}
+613 repeats test-3975 200 1251.9 {'answer': 'excited', 'confidence': 0.95}
+614 repeats test-4168 200 695.2 {'answer': 'grateful', 'confidence': 0.93}
+615 repeats test-4151 200 1501.5 {'answer': 'ashamed', 'confidence': 0.5}
+616 repeats test-3196 200 1121.4 {'answer': 'happiness', 'confidence': 0.85}
+617 repeats test-4640 200 1189.1 {'answer': 'sadness', 'confidence': 0.93}
+618 repeats test-4172 200 1402.4 {'answer': 'sentimental', 'confidence': 0.3}
+619 repeats test-4280 200 865.4 {'answer': 'sadness', 'confidence': 0.8}
+620 repeats test-3512 200 1468.4 {'answer': 'neutral', 'confidence': 0.72}
+621 repeats test-4374 200 745.5 {'answer': 'anxiety', 'confidence': 0.1}
+622 repeats test-2699 200 1707.2 {'answer': 'disgust', 'confidence': 0.45}
+623 repeats test-3458 200 752.3 {'answer': 'neutral', 'confidence': 0.62}
+624 repeats test-3466 200 1380.8 {'answer': 'neutral', 'confidence': 0.6}
+625 repeats test-3078 200 1160.2 {'answer': 'neutral', 'confidence': 0.55}
+626 repeats test-3904 200 1128.7 {'answer': 'nostalgic', 'confidence': 0.96}
+627 repeats test-4622 200 839.4 {'answer': 'anxiety', 'confidence': 0.85}
+628 repeats test-3386 200 1128.3 {'answer': 'happiness', 'confidence': 0.6}
+629 repeats test-2409 200 1105.8 {'answer': 'neutral', 'confidence': 0.4}
+630 repeats test-2632 200 1020.2 {'answer': 'sadness', 'confidence': 0.4}
+631 repeats test-2929 200 874.4 {'answer': 'joy', 'confidence': 0.72}
+632 repeats test-4419 200 1310.4 {'answer': 'depression', 'confidence': 0.12}
+633 repeats test-2979 200 828.3 {'answer': 'sadness', 'confidence': 0.45}
+634 repeats test-4505 200 1093.3 {'answer': 'sadness', 'confidence': 0.72}
+635 repeats test-563 200 834.8 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+636 repeats test-12 200 1268.3 {'answer': False, 'p_yes': 0.31999999999999995, 'confidence': 0.68}
+637 repeats test-1432 200 1134.5 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+638 repeats test-1239 200 1064.5 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+639 repeats test-914 200 959.6 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+640 repeats test-321 200 1199.9 {'answer': False, 'p_yes': 0.31999999999999995, 'confidence': 0.68}
+641 repeats test-909 200 721.5 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+642 repeats test-2129 200 795.1 {'answer': True, 'p_yes': 0.68, 'confidence': 0.68}
+643 repeats test-415 200 1387.7 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+644 repeats test-2062 200 827.5 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+645 repeats test-2293 200 796.0 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+646 repeats test-377 200 761.5 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+647 repeats test-376 200 840.4 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+648 repeats test-1441 200 807.0 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+649 repeats test-531 200 760.2 {'answer': False, 'p_yes': 0.040000000000000036, 'confidence': 0.96}
+650 repeats test-2317 200 741.7 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+651 repeats test-1102 200 1276.0 {'answer': False, 'p_yes': 0.19999999999999996, 'confidence': 0.8}
+652 repeats test-1201 200 807.0 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+653 repeats test-1590 200 1203.6 {'answer': False, 'p_yes': 0.030000000000000027, 'confidence': 0.97}
+654 repeats test-1724 200 709.8 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+655 repeats test-758 200 1237.8 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+656 repeats test-2192 200 1309.6 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+657 repeats test-599 200 824.7 {'answer': False, 'p_yes': 0.09999999999999998, 'confidence': 0.9}
+658 repeats test-1386 200 1368.4 {'answer': False, 'p_yes': 0.28, 'confidence': 0.72}
+659 repeats test-2144 200 828.5 {'answer': False, 'p_yes': 0.050000000000000044, 'confidence': 0.95}
+660 repeats test-1336 200 844.3 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+661 repeats test-1232 200 753.0 {'answer': False, 'p_yes': 0.15000000000000002, 'confidence': 0.85}
+662 repeats test-73 200 886.2 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+663 repeats test-696 200 1189.9 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+664 repeats test-2315 200 777.0 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+665 repeats test-2042 200 1343.1 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+666 repeats test-775 200 813.1 {'answer': False, 'p_yes': 0.06999999999999995, 'confidence': 0.93}
+667 repeats test-5600 200 683.3 {'score': 1.0, 'confidence': 0.8}
+668 repeats test-1060 200 1401.3 {'answer': False, 'p_yes': 0.010000000000000009, 'confidence': 0.99}
+669 repeats test-6290 200 1242.4 {'score': 3.0, 'confidence': 0.5}
+670 repeats test-7095 200 780.6 {'score': 1.0, 'confidence': 0.85}
+671 repeats test-7049 200 738.3 {'score': 1.0, 'confidence': 0.93}
+672 repeats test-6404 200 1237.7 {'score': 4.0, 'confidence': 0.5}
+673 repeats test-6065 200 857.6 {'score': 2.0, 'confidence': 0.55}
+674 repeats test-6443 200 735.1 {'score': 1.0, 'confidence': 0.8}
+675 repeats test-6846 200 814.8 {'score': 1.0, 'confidence': 0.9}
+676 repeats test-5920 200 1095.2 {'score': 1.0, 'confidence': 0.93}
+677 repeats test-5463 200 1494.4 {'score': 3.0, 'confidence': 0.7}
+678 repeats test-5918 200 1367.6 {'score': 3.0, 'confidence': 0.8}
+679 repeats test-5756 200 800.8 {'score': 3.0, 'confidence': 0.7}
+680 repeats test-5703 200 1525.7 {'score': 1.0, 'confidence': 0.93}
+681 repeats test-6567 200 755.9 {'score': 1.0, 'confidence': 0.8}
+682 repeats test-7157 200 813.0 {'score': 1.0, 'confidence': 0.8}
+683 repeats test-6258 200 769.1 {'score': 3.0, 'confidence': 0.5}
+684 repeats test-6315 200 838.8 {'score': 3.0, 'confidence': 0.5}
+685 repeats test-5585 200 735.4 {'score': 2.0, 'confidence': 0.7}
+686 repeats test-6754 200 1291.5 {'score': 2.0, 'confidence': 0.5}
+687 repeats test-6543 200 834.0 {'score': 2.0, 'confidence': 0.62}
+688 repeats test-5150 200 1338.9 {'score': 4.0, 'confidence': 0.5}
+689 repeats test-5084 200 769.1 {'score': 2.0, 'confidence': 0.5}
+690 repeats test-7166 200 764.9 {'score': 2.0, 'confidence': 0.5}
+691 repeats test-6917 200 1456.7 {'score': 1.0, 'confidence': 0.6}
+692 repeats test-4905 200 795.1 {'score': 3.0, 'confidence': 0.5}
+693 repeats test-5548 200 790.4 {'score': 3.0, 'confidence': 0.8}
+694 repeats test-5443 200 814.7 {'score': 2.0, 'confidence': 0.5}
+695 repeats test-5169 200 835.5 {'score': 2.0, 'confidence': 0.5}
+696 repeats test-6250 200 718.4 {'score': 1.0, 'confidence': 0.85}
+697 repeats test-5872 200 1200.8 {'score': 3.0, 'confidence': 0.8}
+698 repeats test-6024 200 1562.6 {'score': 3.0, 'confidence': 0.5}
+699 repeats test-6764 200 1174.4 {'score': 2.0, 'confidence': 0.5}
+700 repeats test-6059 200 1344.6 {'score': 2.0, 'confidence': 0.5}
+wrote llm_anthropic_claude-sonnet-5-5_raw.json

@@ -1,0 +1,11 @@
+# Trained weights are not part of this repo (about 596 MB; available on request).
+*.safetensors
+*.bin
+*.pt
+emotion_s1_model/
+
+__pycache__/
+*.py[cod]
+
+.env
+.env.*

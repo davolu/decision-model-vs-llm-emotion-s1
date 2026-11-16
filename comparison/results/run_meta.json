@@ -1,0 +1,33 @@
+{
+ "run_date": "2026-11-16",
+ "timezone": "Africa/Lagos (UTC+1)",
+ "n_questions": 600,
+ "n_repeats": 100,
+ "failures": 0,
+ "models": {
+  "emotion_s1": "local ModernBERT-base + 3 heads (emotion_s1_model), fp32 CPU",
+  "claude": "requested claude-sonnet-5-5, served claude-sonnet-5-5, output_config.effort=low",
+  "gpt": "requested gpt-6.1-sol, served gpt-6.1-sol, reasoning_effort=low",
+  "jev": "requested jev-latest, served jev-1.14.0"
+ },
+ "price_sources": {
+  "gpt-6.1-sol": {
+   "input": 2.0,
+   "output": 10.0,
+   "url": "https://developers.openai.com/api/docs/pricing"
+  },
+  "claude-sonnet-5-5": {
+   "input": 2.0,
+   "output": 10.0,
+   "url": "https://platform.claude.com/docs/en/about-claude/pricing"
+  },
+  "jev-latest": {
+   "input": 0.042,
+   "output": 0.0,
+   "url": "https://docs.typesafe.ai/models"
+  }
+ },
+ "jev_self_disagreement_note": "exact-match 0.29 is almost all score wobble of 0.01-0.07; at 0.10 tolerance the rate is 0.03 (3 categorical flips, 0 scores).",
+ "cpu_latency_file": "results/cpu_latency.json",
+ "int8_file": "results/int8.json"
+}

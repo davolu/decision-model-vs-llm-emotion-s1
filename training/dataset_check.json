@@ -1,0 +1,168 @@
+{
+ "go_emotions": {
+  "splits": {
+   "train": 43410,
+   "validation": 5426,
+   "test": 5427
+  },
+  "labels": [
+   "admiration",
+   "amusement",
+   "anger",
+   "annoyance",
+   "approval",
+   "caring",
+   "confusion",
+   "curiosity",
+   "desire",
+   "disappointment",
+   "disapproval",
+   "disgust",
+   "embarrassment",
+   "excitement",
+   "fear",
+   "gratitude",
+   "grief",
+   "joy",
+   "love",
+   "nervousness",
+   "optimism",
+   "pride",
+   "realization",
+   "relief",
+   "remorse",
+   "sadness",
+   "surprise",
+   "neutral"
+  ],
+  "cols": [
+   "text",
+   "labels",
+   "id"
+  ],
+  "secs": 2.7
+ },
+ "daily_dialog_parquet_branch": {
+  "splits": {
+   "train": 11118,
+   "validation": 1000,
+   "test": 1000
+  },
+  "cols": [
+   "dialog",
+   "act",
+   "emotion"
+  ],
+  "emotion": "List(ClassLabel(names=['no emotion', 'anger', 'disgust', 'fear', 'happiness', 'sadness', 'surprise']))",
+  "turn_emotion_counts": {
+   "0": 72143,
+   "4": 11182,
+   "6": 1600,
+   "3": 146,
+   "2": 303,
+   "5": 969,
+   "1": 827
+  },
+  "secs": 1.5
+ },
+ "better_daily_dialog": {
+  "splits": {
+   "train": 87170,
+   "validation": 8069,
+   "test": 7740
+  },
+  "features": "{'dialog_id': Value('int64'), 'utterance': Value('string'), 'turn_type': Value('int64'), 'emotion': Value('int64')}",
+  "secs": 1.7
+ },
+ "esconv": {
+  "splits": {
+   "train": 910,
+   "validation": 195,
+   "test": 195
+  },
+  "cols": [
+   "text"
+  ],
+  "sample": "{'text': '{\"experience_type\": \"Current Experience\", \"emotion_type\": \"anxiety\", \"problem_type\": \"job crisis\", \"situation\": \"I am on short term disability and I am afraid I will lose my job if I don\\'t go back soon.\", \"survey_score\": {\"seeker\": {\"initial_emotion_intensity\": \"3\", \"empathy\": \"5\", \"relevance\": \"5\", \"final_emotion_intensity\": \"2\"}, \"supporter\": {\"relevance\": \"5\"}}, \"dialog\": [{\"text\": \"Hello good afternoon.\", \"speaker\": \"usr\"}, {\"text\": \"Hi, good afternoon.\", \"speaker\": \"sys\", \"strategy\": \"Question\"}, {\"text\": \"I\\'m feeling anxious that I am going to lose my job.\", \"speaker\": \"usr\"}",
+  "secs": 0.5
+ },
+ "ei_reg": {
+  "anger": {
+   "train": 1701,
+   "validation": 388,
+   "test": 1002
+  },
+  "fear": {
+   "train": 2252,
+   "validation": 389,
+   "test": 986
+  },
+  "joy": {
+   "train": 1616,
+   "validation": 290,
+   "test": 1105
+  },
+  "sadness": {
+   "train": 1533,
+   "validation": 397,
+   "test": 975
+  },
+  "secs": 6.1
+ },
+ "emobank_github_csv": {
+  "error": "ImportError('HTTPFileSystem requires \"requests\" and \"aiohttp\" to be installed')"
+ },
+ "empathetic_dialogues_parquet_branch": {
+  "splits": {
+   "train": 76673,
+   "validation": 12030,
+   "test": 10943
+  },
+  "cols": [
+   "conv_id",
+   "utterance_idx",
+   "context",
+   "prompt",
+   "speaker_idx",
+   "utterance",
+   "selfeval",
+   "tags"
+  ],
+  "n_emotions": 32,
+  "secs": 1.9
+ },
+ "tweet_emotion_intensity": {
+  "splits": {
+   "train": 3960,
+   "test": 3142
+  },
+  "classes": {
+   "fear": 1257,
+   "sadness": 860,
+   "anger": 941,
+   "joy": 902
+  },
+  "intens": {
+   "low": 878,
+   "high": 825,
+   "medium": 2257
+  },
+  "secs": 0.5
+ },
+ "dair_emotion": {
+  "splits": {
+   "train": 16000,
+   "validation": 2000,
+   "test": 2000
+  },
+  "labels": [
+   "sadness",
+   "joy",
+   "love",
+   "anger",
+   "fear",
+   "surprise"
+  ],
+  "secs": 1.4
+ }
+}
