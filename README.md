@@ -8,7 +8,7 @@ Emotion-S1 is an emotion-recognition decision model. The encoder is ModernBERT-b
 
 It returns a calibrated probability for that question. The comparison in this repo runs the same questions through Emotion-S1, Claude (`claude-sonnet-5-5`), GPT (`gpt-6.1-sol`) and Jev (`jev-latest`, served as `jev-1.14.0`). Claude and GPT were called with reasoning effort `low`.
 
-The model was trained in Colab. The weights are not in this repository. See [Weights](#weights).
+The model was trained in Colab. See [Model on Hugging Face](#model-on-hugging-face).
 
 ## Repository layout
 
@@ -121,7 +121,7 @@ Keys are read from the environment at run time. Set them in your shell. Do not c
 
 `run_llm.py` and `run_jev.py` make no paid calls unless you pass `--live`.
 
-Held-out comparison, from `comparison/` (also see `comparison/README.md`). `W` is a local copy of the weights folder, which is not in this repo:
+Held-out comparison, from `comparison/` (also see `comparison/README.md`). `W` is a local copy of the weights from the Hub:
 
 ```bash
 cd comparison
@@ -185,9 +185,15 @@ ask(m, "It's STILL broken after three resets.", {
   context=[("Assistant", "Could you try restarting the router?")])
 ```
 
-## Weights
+## Model on Hugging Face
 
-The trained weights are not in this repository. The fp32 state dict is 596.1 MB (the optional int8 build in the held-out report is 265.3 MB). Training was done in Colab, and the notebook keeps the folder in Google Drive at `My Drive/emotion_s1_model`. The weights are available on request.
+The model is published at [https://huggingface.co/davolu/emotion-s1](https://huggingface.co/davolu/emotion-s1) (CC BY-NC-SA 4.0). The fp32 state dict is 596.1 MB (the optional int8 build in the held-out report is 265.3 MB). Training was done in Colab.
+
+```bash
+pip install torch "transformers>=4.48.0" huggingface_hub
+huggingface-cli download davolu/emotion-s1 --local-dir emotion-s1
+python emotion-s1/example.py --model-dir emotion-s1 --device cpu
+```
 
 ## Datasets and licences
 
