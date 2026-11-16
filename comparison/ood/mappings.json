@@ -1,0 +1,89 @@
+{
+  "note": "Official TEST splits only. No intensity/score labels exist on these datasets, so score questions are omitted rather than proxied.",
+  "datasets": {
+    "meld": {
+      "name": "MELD (text annotations)",
+      "domain": "Multi-party scripted TV dialogue from Friends",
+      "source": "https://github.com/declare-lab/MELD/blob/master/data/MELD/test_sent_emo.csv",
+      "paper": "https://arxiv.org/pdf/1810.02508.pdf",
+      "split": "official test (2,610 utterances, 280 dialogues)",
+      "licence": "Repository is GPL-3.0. The transcripts are from the copyrighted TV series Friends; used here for research/evaluation only, text annotations only (no audio or video).",
+      "choice_options": [
+        "anger",
+        "disgust",
+        "fear",
+        "joy",
+        "neutral",
+        "sadness",
+        "surprise"
+      ],
+      "choice_mapping": "Gold is the official Emotion field, lowercased. Labels are not renamed (MELD uses joy, not happiness).",
+      "noul_mapping": {
+        "emotion": "Yes iff the official Emotion equals the named option.",
+        "frustrated": "Derived: yes iff Emotion is anger or disgust.",
+        "support": "Derived: yes iff Emotion is sadness or fear.",
+        "positive": "Yes iff Emotion is joy.",
+        "neutral": "Yes iff Emotion is neutral."
+      }
+    },
+    "ew": {
+      "name": "EmoWOZ",
+      "domain": "Task-oriented user\u2013system dialogue (MultiWOZ + DialMAGE human\u2013machine)",
+      "source": "https://zenodo.org/records/6506504",
+      "paper": "https://aclanthology.org/2022.lrec-1.436/",
+      "split": "official test (1,000 MultiWOZ + 100 DialMAGE dialogues; 8,634 labelled user turns)",
+      "licence": "CC BY-NC 4.0 (non-commercial, attribution required). Authors also say research use only.",
+      "choice_options": [
+        "abusive",
+        "apologetic",
+        "dissatisfied",
+        "excited",
+        "fearful",
+        "neutral",
+        "satisfied"
+      ],
+      "choice_mapping": "Gold is the official majority-vote emotion integer mapped to the paper's tokens: 0 neutral, 1 fearful (also sad/disappointed), 2 dissatisfied (also disliking), 3 apologetic, 4 abusive, 5 excited (also happy/anticipating), 6 satisfied (also liking). Options are these tokens, not remapped onto Ekman.",
+      "noul_mapping": {
+        "emotion": "Yes iff the official token equals the named option.",
+        "frustrated": "Derived: yes iff the token is dissatisfied or abusive (negative emotion elicited by the system, polite or impolite).",
+        "support": "Derived: yes iff the token is fearful (sad/disappointed/fearful elicited by events outside the system's control). Dissatisfied is not treated as needing support.",
+        "positive": "Yes iff the token is satisfied or excited.",
+        "neutral": "Yes iff the token is neutral."
+      }
+    },
+    "carer": {
+      "name": "CARER / dair-ai/emotion",
+      "domain": "Single-turn English Twitter messages (not multi-turn chat)",
+      "source": "https://huggingface.co/datasets/dair-ai/emotion",
+      "homepage": "https://github.com/dair-ai/emotion_dataset",
+      "paper": "https://aclanthology.org/D18-1404/",
+      "split": "official test split of the 'split' config (2,000 tweets)",
+      "licence": "Educational and research purposes only (dataset card / GitHub).",
+      "choice_options": [
+        "anger",
+        "fear",
+        "joy",
+        "love",
+        "sadness",
+        "surprise"
+      ],
+      "choice_mapping": "Gold is the official six-way label: sadness, joy, love, anger, fear, surprise. There is no neutral class.",
+      "noul_mapping": {
+        "emotion": "Yes iff the official label equals the named option.",
+        "frustrated": "Derived: yes iff the label is anger.",
+        "support": "Derived: yes iff the label is sadness or fear.",
+        "positive": "Yes iff the label is joy or love."
+      }
+    }
+  },
+  "score": "Skipped. None of MELD, EmoWOZ or CARER has an official emotion-intensity score. No proxy was invented.",
+  "seed": 7,
+  "counts": {
+    "choice/carer": 100,
+    "choice/ew": 100,
+    "choice/meld": 100,
+    "noul/carer": 100,
+    "noul/ew": 100,
+    "noul/meld": 100
+  }
+}

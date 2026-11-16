@@ -1,0 +1,28 @@
+{
+ "device": "cpu",
+ "cpu": "Intel(R) Xeon(R) Processor",
+ "logical_cpus": 8,
+ "torch_threads": 8,
+ "torch": "2.15.0+cpu",
+ "warmup": 5,
+ "one_yes_no_question": {
+  "encoder_rows": 1,
+  "n": 40,
+  "median_ms": 44.7,
+  "p90_ms": 50.8,
+  "p95_ms": 57.1,
+  "mean_ms": 47.0,
+  "min_ms": 41.8,
+  "max_ms": 83.6
+ },
+ "all_4_questions": {
+  "encoder_rows": 9,
+  "n": 40,
+  "median_ms": 310.6,
+  "p90_ms": 373.7,
+  "p95_ms": 387.3,
+  "mean_ms": 317.3,
+  "min_ms": 268.4,
+  "max_ms": 398.0
+ }
+}

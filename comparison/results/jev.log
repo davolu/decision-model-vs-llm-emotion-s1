@@ -1,0 +1,702 @@
+live Jev jev-latest: 600 answers + 100 repeats, workers=6
+1 answers test-3078 200 146.6 {'answer': 'neutral', 'confidence': 0.31, 'probabilities': {'surprise': 0.0, 'neutral': 0.41, 'anger': 0.09, 'happiness': 0.0, 'fear': 0.17, 'disgust': 0.0, 'sadness': 0.33}}
+2 answers test-3529 200 148.2 {'answer': 'happiness', 'confidence': 0.78, 'probabilities': {'neutral': 0.19, 'anger': 0.0, 'disgust': 0.0, 'surprise': 0.0, 'fear': 0.0, 'sadness': 0.0, 'happiness': 0.81}}
+3 answers test-3449 200 160.0 {'answer': 'sadness', 'confidence': 0.59, 'probabilities': {'sadness': 0.65, 'disgust': 0.0, 'fear': 0.08, 'anger': 0.0, 'happiness': 0.0, 'surprise': 0.0, 'neutral': 0.27}}
+4 answers test-3161 200 161.0 {'answer': 'happiness', 'confidence': 0.58, 'probabilities': {'sadness': 0.11, 'disgust': 0.0, 'happiness': 0.64, 'neutral': 0.25, 'anger': 0.0, 'surprise': 0.0, 'fear': 0.0}}
+5 answers test-3045 200 170.7 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'neutral': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happiness': 1.0, 'sadness': 0.0, 'surprise': 0.0, 'anger': 0.0}}
+6 answers test-3190 200 92.9 {'answer': 'neutral', 'confidence': 0.82, 'probabilities': {'disgust': 0.0, 'neutral': 0.85, 'surprise': 0.0, 'sadness': 0.0, 'anger': 0.0, 'happiness': 0.15, 'fear': 0.0}}
+7 answers test-3019 200 117.6 {'answer': 'happiness', 'confidence': 0.54, 'probabilities': {'sadness': 0.0, 'anger': 0.0, 'neutral': 0.39, 'surprise': 0.0, 'happiness': 0.61, 'fear': 0.0, 'disgust': 0.0}}
+8 answers test-3260 200 95.4 {'answer': 'happiness', 'confidence': 0.92, 'probabilities': {'surprise': 0.0, 'fear': 0.0, 'happiness': 0.93, 'anger': 0.0, 'sadness': 0.0, 'neutral': 0.07, 'disgust': 0.0}}
+9 answers test-3596 200 104.1 {'answer': 'happiness', 'confidence': 0.94, 'probabilities': {'fear': 0.0, 'anger': 0.0, 'neutral': 0.04, 'disgust': 0.0, 'happiness': 0.95, 'sadness': 0.0, 'surprise': 0.01}}
+10 answers test-3385 200 120.4 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'surprise': 0.0, 'disgust': 0.0, 'fear': 0.0, 'sadness': 0.0, 'neutral': 0.0, 'happiness': 1.0, 'anger': 0.0}}
+11 answers test-3196 200 323.4 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'surprise': 0.0, 'happiness': 1.0, 'fear': 0.0}}
+12 answers test-3582 200 102.0 {'answer': 'neutral', 'confidence': 0.63, 'probabilities': {'fear': 0.0, 'disgust': 0.0, 'neutral': 0.68, 'happiness': 0.0, 'sadness': 0.31, 'surprise': 0.01, 'anger': 0.0}}
+13 answers test-3433 200 102.1 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'happiness': 0.0, 'neutral': 1.0, 'disgust': 0.0, 'fear': 0.0, 'surprise': 0.0, 'sadness': 0.0}}
+14 answers test-3305 200 135.2 {'answer': 'neutral', 'confidence': 0.42, 'probabilities': {'fear': 0.0, 'surprise': 0.38, 'disgust': 0.05, 'neutral': 0.5, 'sadness': 0.01, 'happiness': 0.0, 'anger': 0.06}}
+15 answers test-3432 200 154.0 {'answer': 'neutral', 'confidence': 0.68, 'probabilities': {'fear': 0.0, 'neutral': 0.73, 'surprise': 0.0, 'anger': 0.0, 'disgust': 0.0, 'happiness': 0.27, 'sadness': 0.0}}
+16 answers test-3239 200 97.7 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'neutral': 0.0, 'sadness': 0.0, 'fear': 0.0, 'happiness': 1.0, 'disgust': 0.0, 'surprise': 0.0, 'anger': 0.0}}
+17 answers test-3597 200 71.2 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'surprise': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'fear': 0.0, 'happiness': 1.0}}
+18 answers test-3140 200 69.3 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'happiness': 1.0, 'surprise': 0.0, 'fear': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'neutral': 0.0, 'anger': 0.0}}
+19 answers test-3221 200 143.6 {'answer': 'neutral', 'confidence': 0.48, 'probabilities': {'anger': 0.0, 'neutral': 0.55, 'sadness': 0.01, 'happiness': 0.41, 'disgust': 0.0, 'fear': 0.0, 'surprise': 0.03}}
+20 answers test-3509 200 227.3 {'answer': 'happiness', 'confidence': 0.84, 'probabilities': {'surprise': 0.01, 'disgust': 0.0, 'happiness': 0.86, 'sadness': 0.0, 'anger': 0.0, 'fear': 0.0, 'neutral': 0.13}}
+21 answers test-3586 200 116.0 {'answer': 'surprise', 'confidence': 0.85, 'probabilities': {'surprise': 0.87, 'anger': 0.0, 'neutral': 0.13, 'disgust': 0.0, 'fear': 0.0, 'happiness': 0.0, 'sadness': 0.0}}
+22 answers test-3300 200 119.2 {'answer': 'neutral', 'confidence': 0.96, 'probabilities': {'anger': 0.0, 'sadness': 0.03, 'fear': 0.0, 'neutral': 0.97, 'surprise': 0.0, 'disgust': 0.0, 'happiness': 0.0}}
+23 answers test-3327 200 63.9 {'answer': 'neutral', 'confidence': 0.67, 'probabilities': {'disgust': 0.0, 'neutral': 0.72, 'surprise': 0.04, 'fear': 0.0, 'sadness': 0.0, 'anger': 0.0, 'happiness': 0.24}}
+24 answers test-3287 200 64.4 {'answer': 'neutral', 'confidence': 0.93, 'probabilities': {'happiness': 0.06, 'fear': 0.0, 'anger': 0.0, 'disgust': 0.0, 'neutral': 0.94, 'surprise': 0.0, 'sadness': 0.0}}
+25 answers test-3012 200 125.7 {'answer': 'neutral', 'confidence': 0.87, 'probabilities': {'sadness': 0.0, 'neutral': 0.89, 'fear': 0.0, 'happiness': 0.11, 'anger': 0.0, 'surprise': 0.0, 'disgust': 0.0}}
+26 answers test-3466 200 82.0 {'answer': 'happiness', 'confidence': 0.96, 'probabilities': {'surprise': 0.0, 'fear': 0.0, 'neutral': 0.03, 'happiness': 0.97, 'sadness': 0.0, 'anger': 0.0, 'disgust': 0.0}}
+27 answers test-3412 200 70.5 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'sadness': 0.0, 'neutral': 1.0, 'fear': 0.0, 'surprise': 0.0, 'anger': 0.0, 'disgust': 0.0, 'happiness': 0.0}}
+28 answers test-3266 200 117.6 {'answer': 'sadness', 'confidence': 0.52, 'probabilities': {'fear': 0.0, 'neutral': 0.0, 'disgust': 0.05, 'happiness': 0.0, 'anger': 0.29, 'surprise': 0.07, 'sadness': 0.59}}
+29 answers test-3388 200 129.1 {'answer': 'happiness', 'confidence': 0.74, 'probabilities': {'disgust': 0.0, 'surprise': 0.1, 'anger': 0.0, 'fear': 0.0, 'happiness': 0.78, 'neutral': 0.12, 'sadness': 0.0}}
+30 answers test-3512 200 143.3 {'answer': 'neutral', 'confidence': 0.92, 'probabilities': {'surprise': 0.0, 'disgust': 0.0, 'sadness': 0.06, 'anger': 0.01, 'happiness': 0.0, 'fear': 0.0, 'neutral': 0.93}}
+31 answers test-3160 200 107.3 {'answer': 'happiness', 'confidence': 0.91, 'probabilities': {'anger': 0.0, 'surprise': 0.0, 'sadness': 0.0, 'fear': 0.0, 'happiness': 0.92, 'disgust': 0.0, 'neutral': 0.08}}
+32 answers test-3386 200 115.4 {'answer': 'happiness', 'confidence': 0.48, 'probabilities': {'fear': 0.0, 'anger': 0.27, 'disgust': 0.07, 'happiness': 0.55, 'surprise': 0.02, 'neutral': 0.09, 'sadness': 0.0}}
+33 answers test-3458 200 87.4 {'answer': 'happiness', 'confidence': 0.46, 'probabilities': {'neutral': 0.46, 'anger': 0.0, 'disgust': 0.0, 'sadness': 0.0, 'happiness': 0.54, 'surprise': 0.0, 'fear': 0.0}}
+34 answers test-3284 200 128.1 {'answer': 'anger', 'confidence': 0.81, 'probabilities': {'disgust': 0.02, 'sadness': 0.01, 'happiness': 0.01, 'surprise': 0.03, 'fear': 0.01, 'neutral': 0.08, 'anger': 0.84}}
+35 answers test-3377 200 130.8 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'fear': 0.0, 'neutral': 0.0, 'disgust': 0.0, 'anger': 0.0, 'surprise': 0.0, 'sadness': 0.0, 'happiness': 1.0}}
+36 answers test-3347 200 130.8 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'happiness': 0.01, 'neutral': 0.99, 'fear': 0.0, 'sadness': 0.0, 'surprise': 0.0, 'disgust': 0.0}}
+37 answers test-3396 200 116.9 {'answer': 'happiness', 'confidence': 0.42, 'probabilities': {'happiness': 0.5, 'disgust': 0.0, 'sadness': 0.0, 'anger': 0.0, 'surprise': 0.0, 'fear': 0.0, 'neutral': 0.5}}
+38 answers test-3375 200 284.9 {'answer': 'anger', 'confidence': 0.92, 'probabilities': {'anger': 0.93, 'neutral': 0.0, 'sadness': 0.0, 'disgust': 0.07, 'happiness': 0.0, 'surprise': 0.0, 'fear': 0.0}}
+39 answers test-3199 200 60.8 {'answer': 'neutral', 'confidence': 0.86, 'probabilities': {'surprise': 0.0, 'neutral': 0.88, 'anger': 0.06, 'sadness': 0.06, 'happiness': 0.0, 'disgust': 0.0, 'fear': 0.0}}
+40 answers test-3162 200 66.9 {'answer': 'happiness', 'confidence': 0.73, 'probabilities': {'happiness': 0.77, 'disgust': 0.0, 'fear': 0.0, 'surprise': 0.02, 'sadness': 0.0, 'neutral': 0.21, 'anger': 0.0}}
+41 answers test-3209 200 149.3 {'answer': 'happiness', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'happiness': 0.98, 'sadness': 0.0, 'disgust': 0.0, 'neutral': 0.02, 'surprise': 0.0}}
+42 answers test-3094 200 105.8 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'fear': 0.0, 'happiness': 0.01, 'surprise': 0.0, 'anger': 0.0, 'disgust': 0.0, 'sadness': 0.0, 'neutral': 0.99}}
+43 answers test-3441 200 149.8 {'answer': 'happiness', 'confidence': 0.87, 'probabilities': {'neutral': 0.07, 'sadness': 0.0, 'fear': 0.0, 'disgust': 0.0, 'happiness': 0.89, 'anger': 0.0, 'surprise': 0.04}}
+44 answers test-3255 200 116.9 {'answer': 'neutral', 'confidence': 0.7, 'probabilities': {'neutral': 0.74, 'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'sadness': 0.0, 'happiness': 0.26, 'surprise': 0.0}}
+45 answers test-3232 200 258.6 {'answer': 'neutral', 'confidence': 0.87, 'probabilities': {'fear': 0.0, 'neutral': 0.89, 'sadness': 0.0, 'anger': 0.0, 'disgust': 0.01, 'surprise': 0.07, 'happiness': 0.03}}
+46 answers test-3271 200 70.6 {'answer': 'happiness', 'confidence': 0.95, 'probabilities': {'sadness': 0.0, 'happiness': 0.96, 'disgust': 0.0, 'surprise': 0.0, 'fear': 0.0, 'neutral': 0.04, 'anger': 0.0}}
+47 answers test-3380 200 145.3 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'neutral': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'anger': 0.0, 'happiness': 1.0, 'fear': 0.0, 'sadness': 0.0}}
+48 answers test-3295 200 126.0 {'answer': 'neutral', 'confidence': 0.78, 'probabilities': {'neutral': 0.81, 'surprise': 0.0, 'fear': 0.0, 'happiness': 0.17, 'anger': 0.0, 'disgust': 0.01, 'sadness': 0.01}}
+49 answers test-3217 200 95.4 {'answer': 'anger', 'confidence': 0.35, 'probabilities': {'disgust': 0.41, 'surprise': 0.0, 'sadness': 0.15, 'fear': 0.0, 'happiness': 0.0, 'neutral': 0.0, 'anger': 0.44}}
+50 answers test-4154 200 95.3 {'answer': 'sentimental', 'confidence': 1.0, 'probabilities': {'sentimental': 1.0, 'trusting': 0.0, 'content': 0.0, 'ashamed': 0.0, 'disappointed': 0.0, 'caring': 0.0}}
+51 answers test-3513 200 130.7 {'answer': 'neutral', 'confidence': 0.89, 'probabilities': {'anger': 0.0, 'neutral': 0.91, 'fear': 0.0, 'surprise': 0.0, 'happiness': 0.09, 'sadness': 0.0, 'disgust': 0.0}}
+52 answers test-3758 200 133.8 {'answer': 'grateful', 'confidence': 1.0, 'probabilities': {'disappointed': 0.0, 'grateful': 1.0, 'embarrassed': 0.0, 'angry': 0.0, 'devastated': 0.0, 'afraid': 0.0}}
+53 answers test-3723 200 147.6 {'answer': 'anxious', 'confidence': 1.0, 'probabilities': {'anxious': 1.0, 'guilty': 0.0, 'surprised': 0.0, 'trusting': 0.0, 'sentimental': 0.0, 'angry': 0.0}}
+54 answers test-4126 200 81.8 {'answer': 'sentimental', 'confidence': 0.99, 'probabilities': {'surprised': 0.01, 'sentimental': 0.99, 'jealous': 0.0, 'devastated': 0.0, 'grateful': 0.0, 'proud': 0.0}}
+55 answers test-3621 200 82.6 {'answer': 'sentimental', 'confidence': 0.96, 'probabilities': {'disgusted': 0.0, 'guilty': 0.0, 'lonely': 0.02, 'annoyed': 0.01, 'sentimental': 0.97, 'excited': 0.0}}
+56 answers test-3797 200 147.2 {'answer': 'disgusted', 'confidence': 0.41, 'probabilities': {'disgusted': 0.51, 'furious': 0.47, 'guilty': 0.0, 'anxious': 0.01, 'impressed': 0.0, 'apprehensive': 0.01}}
+57 answers test-4070 200 163.9 {'answer': 'hopeful', 'confidence': 1.0, 'probabilities': {'hopeful': 1.0, 'furious': 0.0, 'annoyed': 0.0, 'afraid': 0.0, 'disgusted': 0.0, 'anxious': 0.0}}
+58 answers test-4044 200 63.3 {'answer': 'terrified', 'confidence': 0.96, 'probabilities': {'anticipating': 0.03, 'angry': 0.0, 'terrified': 0.97, 'sad': 0.0, 'trusting': 0.0, 'disgusted': 0.0}}
+59 answers test-3709 200 113.7 {'answer': 'sad', 'confidence': 1.0, 'probabilities': {'excited': 0.0, 'confident': 0.0, 'sad': 1.0, 'grateful': 0.0, 'nostalgic': 0.0, 'caring': 0.0}}
+60 answers test-3668 200 70.0 {'answer': 'grateful', 'confidence': 1.0, 'probabilities': {'surprised': 0.0, 'grateful': 1.0, 'devastated': 0.0, 'anxious': 0.0, 'furious': 0.0, 'apprehensive': 0.0}}
+61 answers test-4193 200 171.2 {'answer': 'embarrassed', 'confidence': 0.99, 'probabilities': {'disgusted': 0.01, 'embarrassed': 0.99, 'angry': 0.0, 'caring': 0.0, 'sentimental': 0.0, 'furious': 0.0}}
+62 answers test-4190 200 143.2 {'answer': 'guilty', 'confidence': 0.99, 'probabilities': {'furious': 0.0, 'angry': 0.01, 'disgusted': 0.0, 'impressed': 0.0, 'apprehensive': 0.0, 'guilty': 0.99}}
+63 answers test-3634 200 145.8 {'answer': 'joyful', 'confidence': 1.0, 'probabilities': {'lonely': 0.0, 'nostalgic': 0.0, 'joyful': 1.0, 'disappointed': 0.0, 'furious': 0.0, 'devastated': 0.0}}
+64 answers test-4151 200 55.4 {'answer': 'ashamed', 'confidence': 0.56, 'probabilities': {'anticipating': 0.0, 'ashamed': 0.63, 'hopeful': 0.01, 'angry': 0.19, 'surprised': 0.01, 'disgusted': 0.16}}
+65 answers test-3975 200 121.8 {'answer': 'excited', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'excited': 1.0, 'sentimental': 0.0, 'impressed': 0.0, 'angry': 0.0, 'sad': 0.0}}
+66 answers test-3739 200 130.2 {'answer': 'grateful', 'confidence': 1.0, 'probabilities': {'sentimental': 0.0, 'ashamed': 0.0, 'jealous': 0.0, 'embarrassed': 0.0, 'impressed': 0.0, 'grateful': 1.0}}
+67 answers test-3645 200 179.4 {'answer': 'surprised', 'confidence': 0.98, 'probabilities': {'anticipating': 0.0, 'ashamed': 0.0, 'furious': 0.0, 'surprised': 0.98, 'trusting': 0.0, 'nostalgic': 0.02}}
+68 answers test-3904 200 147.8 {'answer': 'nostalgic', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'caring': 0.0, 'trusting': 0.0, 'nostalgic': 1.0, 'guilty': 0.0, 'angry': 0.0}}
+69 answers test-3951 200 127.9 {'answer': 'joyful', 'confidence': 0.8, 'probabilities': {'nostalgic': 0.0, 'joyful': 0.83, 'jealous': 0.0, 'disappointed': 0.06, 'afraid': 0.0, 'anxious': 0.11}}
+70 answers test-3660 200 118.8 {'answer': 'apprehensive', 'confidence': 0.99, 'probabilities': {'faithful': 0.0, 'guilty': 0.0, 'angry': 0.0, 'terrified': 0.01, 'embarrassed': 0.0, 'apprehensive': 0.99}}
+71 answers test-4137 200 149.7 {'answer': 'sentimental', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'disappointed': 0.0, 'sentimental': 1.0, 'terrified': 0.0, 'confident': 0.0, 'lonely': 0.0}}
+72 answers test-4083 200 114.9 {'answer': 'hopeful', 'confidence': 0.99, 'probabilities': {'afraid': 0.0, 'devastated': 0.0, 'jealous': 0.0, 'terrified': 0.0, 'impressed': 0.01, 'hopeful': 0.99}}
+73 answers test-3928 200 141.7 {'answer': 'confident', 'confidence': 1.0, 'probabilities': {'apprehensive': 0.0, 'embarrassed': 0.0, 'guilty': 0.0, 'disappointed': 0.0, 'disgusted': 0.0, 'confident': 1.0}}
+74 answers test-3874 200 120.4 {'answer': 'disappointed', 'confidence': 0.87, 'probabilities': {'afraid': 0.03, 'nostalgic': 0.0, 'disappointed': 0.89, 'grateful': 0.0, 'sentimental': 0.0, 'sad': 0.08}}
+75 answers test-3846 200 156.2 {'answer': 'surprised', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'anxious': 0.0, 'afraid': 0.0, 'joyful': 0.0, 'content': 0.0, 'surprised': 1.0}}
+76 answers test-4168 200 117.3 {'answer': 'grateful', 'confidence': 1.0, 'probabilities': {'nostalgic': 0.0, 'sentimental': 0.0, 'afraid': 0.0, 'devastated': 0.0, 'anxious': 0.0, 'grateful': 1.0}}
+77 answers test-4110 200 114.6 {'answer': 'anxious', 'confidence': 0.98, 'probabilities': {'trusting': 0.0, 'anxious': 0.98, 'embarrassed': 0.01, 'ashamed': 0.0, 'nostalgic': 0.0, 'disgusted': 0.01}}
+78 answers test-3760 200 118.8 {'answer': 'caring', 'confidence': 0.63, 'probabilities': {'sentimental': 0.31, 'nostalgic': 0.0, 'lonely': 0.0, 'surprised': 0.0, 'caring': 0.69, 'annoyed': 0.0}}
+79 answers test-3762 200 140.2 {'answer': 'angry', 'confidence': 0.71, 'probabilities': {'embarrassed': 0.0, 'angry': 0.76, 'trusting': 0.0, 'faithful': 0.0, 'impressed': 0.0, 'afraid': 0.24}}
+80 answers test-3795 200 82.3 {'answer': 'nostalgic', 'confidence': 1.0, 'probabilities': {'caring': 0.0, 'nostalgic': 1.0, 'lonely': 0.0, 'trusting': 0.0, 'apprehensive': 0.0, 'impressed': 0.0}}
+81 answers test-3878 200 129.6 {'answer': 'annoyed', 'confidence': 1.0, 'probabilities': {'caring': 0.0, 'impressed': 0.0, 'grateful': 0.0, 'hopeful': 0.0, 'disgusted': 0.0, 'annoyed': 1.0}}
+82 answers test-3873 200 110.9 {'answer': 'proud', 'confidence': 1.0, 'probabilities': {'ashamed': 0.0, 'guilty': 0.0, 'prepared': 0.0, 'proud': 1.0, 'impressed': 0.0, 'sentimental': 0.0}}
+83 answers test-3737 200 96.9 {'answer': 'apprehensive', 'confidence': 0.34, 'probabilities': {'embarrassed': 0.34, 'prepared': 0.0, 'terrified': 0.0, 'faithful': 0.0, 'afraid': 0.21, 'apprehensive': 0.45}}
+84 answers test-4050 200 130.7 {'answer': 'proud', 'confidence': 0.38, 'probabilities': {'disappointed': 0.0, 'embarrassed': 0.0, 'proud': 0.48, 'sentimental': 0.09, 'impressed': 0.35, 'nostalgic': 0.08}}
+85 answers test-4047 200 116.8 {'answer': 'terrified', 'confidence': 0.99, 'probabilities': {'sentimental': 0.0, 'guilty': 0.0, 'anticipating': 0.01, 'hopeful': 0.0, 'terrified': 0.99, 'grateful': 0.0}}
+86 answers test-3777 200 61.9 {'answer': 'sad', 'confidence': 1.0, 'probabilities': {'afraid': 0.0, 'caring': 0.0, 'annoyed': 0.0, 'disgusted': 0.0, 'proud': 0.0, 'sad': 1.0}}
+87 answers test-3711 200 140.2 {'answer': 'devastated', 'confidence': 1.0, 'probabilities': {'content': 0.0, 'grateful': 0.0, 'annoyed': 0.0, 'caring': 0.0, 'trusting': 0.0, 'devastated': 1.0}}
+88 answers test-4167 200 73.9 {'answer': 'disappointed', 'confidence': 0.54, 'probabilities': {'joyful': 0.0, 'disappointed': 0.62, 'furious': 0.38, 'ashamed': 0.0, 'embarrassed': 0.0, 'apprehensive': 0.0}}
+89 answers test-3602 200 163.9 {'answer': 'ashamed', 'confidence': 1.0, 'probabilities': {'trusting': 0.0, 'impressed': 0.0, 'surprised': 0.0, 'prepared': 0.0, 'ashamed': 1.0, 'faithful': 0.0}}
+90 answers test-3862 200 127.9 {'answer': 'confident', 'confidence': 1.0, 'probabilities': {'confident': 1.0, 'disappointed': 0.0, 'embarrassed': 0.0, 'surprised': 0.0, 'ashamed': 0.0, 'anxious': 0.0}}
+91 answers test-3970 200 139.6 {'answer': 'grateful', 'confidence': 1.0, 'probabilities': {'grateful': 1.0, 'furious': 0.0, 'devastated': 0.0, 'apprehensive': 0.0, 'annoyed': 0.0, 'lonely': 0.0}}
+92 answers test-3915 200 95.1 {'answer': 'excited', 'confidence': 0.76, 'probabilities': {'faithful': 0.0, 'afraid': 0.0, 'proud': 0.17, 'furious': 0.01, 'devastated': 0.02, 'excited': 0.8}}
+93 answers test-3825 200 134.2 {'answer': 'angry', 'confidence': 0.99, 'probabilities': {'joyful': 0.0, 'sentimental': 0.0, 'sad': 0.01, 'angry': 0.99, 'afraid': 0.0, 'lonely': 0.0}}
+94 answers test-3673 200 78.1 {'answer': 'faithful', 'confidence': 1.0, 'probabilities': {'jealous': 0.0, 'faithful': 1.0, 'guilty': 0.0, 'apprehensive': 0.0, 'lonely': 0.0, 'disgusted': 0.0}}
+95 answers test-3963 200 61.7 {'answer': 'joyful', 'confidence': 1.0, 'probabilities': {'prepared': 0.0, 'annoyed': 0.0, 'afraid': 0.0, 'surprised': 0.0, 'joyful': 1.0, 'terrified': 0.0}}
+96 answers test-4172 200 144.6 {'answer': 'excited', 'confidence': 0.4, 'probabilities': {'excited': 0.5, 'sentimental': 0.48, 'faithful': 0.01, 'surprised': 0.0, 'ashamed': 0.0, 'guilty': 0.01}}
+97 answers test-3832 200 114.5 {'answer': 'disgusted', 'confidence': 0.83, 'probabilities': {'embarrassed': 0.04, 'proud': 0.0, 'annoyed': 0.09, 'trusting': 0.0, 'disgusted': 0.86, 'afraid': 0.01}}
+98 answers test-3976 200 158.2 {'answer': 'confident', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'sentimental': 0.0, 'disgusted': 0.0, 'embarrassed': 0.0, 'nostalgic': 0.0, 'confident': 1.0}}
+99 answers test-4051 200 129.2 {'answer': 'disappointed', 'confidence': 1.0, 'probabilities': {'disappointed': 1.0, 'excited': 0.0, 'content': 0.0, 'joyful': 0.0, 'disgusted': 0.0, 'caring': 0.0}}
+100 answers test-4632 200 112.1 {'answer': 'anxiety', 'confidence': 0.86, 'probabilities': {'depression': 0.05, 'fear': 0.03, 'anger': 0.02, 'anxiety': 0.89, 'disgust': 0.01}}
+101 answers test-3618 200 138.3 {'answer': 'angry', 'confidence': 0.96, 'probabilities': {'caring': 0.0, 'angry': 0.97, 'excited': 0.0, 'anticipating': 0.0, 'disappointed': 0.03, 'apprehensive': 0.0}}
+102 answers test-4331 200 86.8 {'answer': 'anxiety', 'confidence': 0.88, 'probabilities': {'depression': 0.03, 'anger': 0.0, 'shame': 0.0, 'sadness': 0.07, 'disgust': 0.0, 'anxiety': 0.9}}
+103 answers test-4693 200 110.9 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 1.0, 'disgust': 0.0, 'shame': 0.0, 'depression': 0.0, 'sadness': 0.0}}
+104 answers test-4670 200 87.9 {'answer': 'fear', 'confidence': 0.48, 'probabilities': {'shame': 0.02, 'anger': 0.01, 'disgust': 0.0, 'fear': 0.57, 'depression': 0.03, 'sadness': 0.37}}
+105 answers test-4640 200 120.9 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'sadness': 1.0, 'fear': 0.0, 'disgust': 0.0, 'anger': 0.0, 'anxiety': 0.0}}
+106 answers test-4533 200 128.5 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'depression': 0.0, 'anger': 0.0, 'disgust': 0.0, 'shame': 0.0, 'fear': 0.0, 'sadness': 1.0}}
+107 answers test-4706 200 127.1 {'answer': 'shame', 'confidence': 0.9, 'probabilities': {'shame': 0.92, 'disgust': 0.01, 'fear': 0.0, 'anger': 0.07, 'anxiety': 0.0}}
+108 answers test-4753 200 137.2 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'anxiety': 0.0, 'sadness': 1.0}}
+109 answers test-4312 200 91.1 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'shame': 0.0, 'depression': 0.0, 'anxiety': 1.0}}
+110 answers test-4550 200 126.5 {'answer': 'sadness', 'confidence': 0.42, 'probabilities': {'anger': 0.04, 'depression': 0.23, 'shame': 0.05, 'fear': 0.13, 'disgust': 0.03, 'sadness': 0.52}}
+111 answers test-4469 200 109.5 {'answer': 'anger', 'confidence': 0.99, 'probabilities': {'disgust': 0.0, 'fear': 0.0, 'sadness': 0.01, 'depression': 0.0, 'anger': 0.99, 'anxiety': 0.0, 'shame': 0.0}}
+112 answers test-4747 200 108.6 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'sadness': 1.0, 'anxiety': 0.0}}
+113 answers test-4798 200 126.0 {'answer': 'sadness', 'confidence': 0.45, 'probabilities': {'anxiety': 0.31, 'anger': 0.04, 'disgust': 0.04, 'fear': 0.05, 'sadness': 0.56}}
+114 answers test-4622 200 58.0 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'anxiety': 1.0, 'depression': 0.0, 'shame': 0.0}}
+115 answers test-4419 200 97.2 {'answer': 'anxiety', 'confidence': 0.61, 'probabilities': {'disgust': 0.01, 'anger': 0.05, 'fear': 0.09, 'depression': 0.16, 'anxiety': 0.69}}
+116 answers test-4305 200 64.7 {'answer': 'sadness', 'confidence': 0.5, 'probabilities': {'shame': 0.03, 'sadness': 0.58, 'depression': 0.07, 'disgust': 0.04, 'anger': 0.26, 'fear': 0.02}}
+117 answers test-4280 200 159.3 {'answer': 'sadness', 'confidence': 0.98, 'probabilities': {'disgust': 0.0, 'anxiety': 0.02, 'fear': 0.0, 'anger': 0.0, 'sadness': 0.98}}
+118 answers test-4476 200 112.2 {'answer': 'sadness', 'confidence': 0.48, 'probabilities': {'shame': 0.0, 'anger': 0.0, 'disgust': 0.0, 'anxiety': 0.3, 'depression': 0.13, 'sadness': 0.57}}
+119 answers test-4767 200 125.1 {'answer': 'depression', 'confidence': 1.0, 'probabilities': {'anxiety': 0.0, 'fear': 0.0, 'depression': 1.0, 'anger': 0.0, 'disgust': 0.0}}
+120 answers test-4248 200 130.8 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'disgust': 0.0, 'anxiety': 0.0, 'sadness': 1.0, 'anger': 0.0, 'fear': 0.0}}
+121 answers test-4439 200 166.0 {'answer': 'anxiety', 'confidence': 0.6, 'probabilities': {'sadness': 0.19, 'anger': 0.04, 'depression': 0.03, 'disgust': 0.04, 'shame': 0.01, 'anxiety': 0.66, 'fear': 0.03}}
+122 answers test-4647 200 115.0 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'fear': 0.0, 'shame': 0.0, 'depression': 0.0, 'anger': 0.0, 'disgust': 0.0, 'sadness': 1.0}}
+123 answers test-4657 200 112.6 {'answer': 'anxiety', 'confidence': 0.39, 'probabilities': {'depression': 0.17, 'anxiety': 0.49, 'anger': 0.03, 'disgust': 0.02, 'sadness': 0.24, 'shame': 0.05}}
+124 answers test-4680 200 121.8 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anxiety': 0.0, 'anger': 0.0, 'fear': 0.0, 'disgust': 0.0, 'sadness': 1.0}}
+125 answers test-4645 200 85.1 {'answer': 'depression', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'anxiety': 0.0, 'depression': 1.0, 'fear': 0.0}}
+126 answers test-4635 200 117.9 {'answer': 'depression', 'confidence': 1.0, 'probabilities': {'fear': 0.0, 'anxiety': 0.0, 'depression': 1.0, 'anger': 0.0, 'disgust': 0.0}}
+127 answers test-4583 200 132.1 {'answer': 'anger', 'confidence': 0.42, 'probabilities': {'depression': 0.01, 'sadness': 0.39, 'disgust': 0.01, 'anger': 0.5, 'fear': 0.0, 'shame': 0.01, 'anxiety': 0.08}}
+128 answers test-4204 200 172.4 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'shame': 0.0, 'anger': 0.0, 'disgust': 0.0, 'depression': 0.0, 'anxiety': 1.0, 'sadness': 0.0}}
+129 answers test-4374 200 124.8 {'answer': 'anxiety', 'confidence': 0.73, 'probabilities': {'fear': 0.05, 'depression': 0.09, 'disgust': 0.03, 'anger': 0.05, 'anxiety': 0.78}}
+130 answers test-4230 200 116.1 {'answer': 'sadness', 'confidence': 0.94, 'probabilities': {'sadness': 0.95, 'anxiety': 0.0, 'anger': 0.05, 'fear': 0.0, 'disgust': 0.0}}
+131 answers test-4591 200 117.2 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'sadness': 0.0, 'disgust': 0.0, 'shame': 0.0, 'depression': 0.0, 'anxiety': 1.0, 'anger': 0.0}}
+132 answers test-4505 200 137.2 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'depression': 0.0, 'shame': 0.0, 'anxiety': 0.0, 'sadness': 1.0, 'fear': 0.0, 'disgust': 0.0}}
+133 answers test-4612 200 122.0 {'answer': 'anger', 'confidence': 0.51, 'probabilities': {'sadness': 0.12, 'fear': 0.0, 'depression': 0.0, 'disgust': 0.01, 'shame': 0.0, 'anxiety': 0.29, 'anger': 0.58}}
+134 answers test-4562 200 155.3 {'answer': 'anger', 'confidence': 0.69, 'probabilities': {'anxiety': 0.0, 'shame': 0.01, 'anger': 0.75, 'fear': 0.0, 'disgust': 0.24}}
+135 answers test-4435 200 124.9 {'answer': 'anxiety', 'confidence': 0.73, 'probabilities': {'disgust': 0.01, 'depression': 0.1, 'fear': 0.06, 'anger': 0.05, 'anxiety': 0.78}}
+136 answers test-4310 200 65.3 {'answer': 'shame', 'confidence': 0.36, 'probabilities': {'anxiety': 0.18, 'fear': 0.33, 'disgust': 0.0, 'anger': 0.0, 'shame': 0.49}}
+137 answers test-4546 200 128.5 {'answer': 'anxiety', 'confidence': 0.85, 'probabilities': {'sadness': 0.1, 'anxiety': 0.88, 'fear': 0.01, 'disgust': 0.01, 'anger': 0.0}}
+138 answers test-4577 200 133.6 {'answer': 'anxiety', 'confidence': 0.66, 'probabilities': {'shame': 0.07, 'anxiety': 0.72, 'anger': 0.02, 'disgust': 0.01, 'depression': 0.04, 'sadness': 0.14}}
+139 answers test-4376 200 126.6 {'answer': 'anxiety', 'confidence': 0.66, 'probabilities': {'anxiety': 0.71, 'sadness': 0.01, 'depression': 0.0, 'fear': 0.21, 'anger': 0.07, 'disgust': 0.0, 'shame': 0.0}}
+140 answers test-4238 200 100.3 {'answer': 'sadness', 'confidence': 0.51, 'probabilities': {'anger': 0.16, 'sadness': 0.59, 'depression': 0.16, 'fear': 0.04, 'shame': 0.02, 'disgust': 0.03}}
+141 answers test-4202 200 143.2 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'sadness': 0.0, 'anger': 0.0, 'anxiety': 1.0, 'shame': 0.0, 'depression': 0.0, 'disgust': 0.0}}
+142 answers test-4491 200 69.1 {'answer': 'fear', 'confidence': 0.95, 'probabilities': {'depression': 0.0, 'anger': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'fear': 0.96, 'shame': 0.04}}
+143 answers test-4729 200 112.0 {'answer': 'depression', 'confidence': 0.86, 'probabilities': {'anxiety': 0.11, 'fear': 0.0, 'disgust': 0.0, 'depression': 0.89, 'anger': 0.0}}
+144 answers test-4489 200 85.5 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anxiety': 0.0, 'sadness': 1.0, 'anger': 0.0, 'disgust': 0.0, 'fear': 0.0}}
+145 answers test-4745 200 150.8 {'answer': 'sadness', 'confidence': 0.7, 'probabilities': {'depression': 0.19, 'shame': 0.01, 'anxiety': 0.04, 'sadness': 0.75, 'anger': 0.01, 'disgust': 0.0}}
+146 answers test-4271 200 128.4 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anxiety': 0.0, 'disgust': 0.0, 'fear': 0.0, 'sadness': 1.0, 'anger': 0.0}}
+147 answers test-4270 200 78.1 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'anxiety': 1.0, 'anger': 0.0, 'depression': 0.0, 'shame': 0.0, 'disgust': 0.0, 'sadness': 0.0}}
+148 answers test-4456 200 151.9 {'answer': 'anxiety', 'confidence': 0.59, 'probabilities': {'disgust': 0.0, 'depression': 0.31, 'anger': 0.0, 'anxiety': 0.67, 'fear': 0.02}}
+149 answers test-2755 200 70.5 {'answer': 'neutral', 'confidence': 0.46, 'probabilities': {'surprise': 0.3, 'fear': 0.02, 'neutral': 0.54, 'disgust': 0.03, 'anger': 0.05, 'joy': 0.04, 'sadness': 0.02}}
+150 answers test-4765 200 156.6 {'answer': 'anxiety', 'confidence': 0.66, 'probabilities': {'sadness': 0.27, 'anger': 0.0, 'shame': 0.0, 'disgust': 0.0, 'depression': 0.01, 'anxiety': 0.72}}
+151 answers test-4650 200 133.0 {'answer': 'anxiety', 'confidence': 0.89, 'probabilities': {'depression': 0.01, 'disgust': 0.0, 'sadness': 0.07, 'anxiety': 0.91, 'anger': 0.01, 'shame': 0.0}}
+152 answers test-2961 200 157.2 {'answer': 'neutral', 'confidence': 0.67, 'probabilities': {'sadness': 0.23, 'joy': 0.02, 'anger': 0.01, 'neutral': 0.72, 'disgust': 0.0, 'surprise': 0.02, 'fear': 0.0}}
+153 answers test-2794 200 161.6 {'answer': 'anger', 'confidence': 0.85, 'probabilities': {'anger': 0.87, 'joy': 0.0, 'surprise': 0.0, 'sadness': 0.05, 'disgust': 0.03, 'neutral': 0.05, 'fear': 0.0}}
+154 answers test-2846 200 110.6 {'answer': 'anger', 'confidence': 1.0, 'probabilities': {'anger': 1.0, 'surprise': 0.0, 'joy': 0.0, 'sadness': 0.0, 'neutral': 0.0, 'disgust': 0.0, 'fear': 0.0}}
+155 answers test-2928 200 115.8 {'answer': 'disgust', 'confidence': 0.23, 'probabilities': {'neutral': 0.27, 'anger': 0.08, 'surprise': 0.01, 'joy': 0.01, 'sadness': 0.29, 'fear': 0.0, 'disgust': 0.34}}
+156 answers test-2632 200 75.6 {'answer': 'anger', 'confidence': 0.93, 'probabilities': {'anger': 0.94, 'neutral': 0.03, 'disgust': 0.02, 'fear': 0.0, 'surprise': 0.0, 'joy': 0.0, 'sadness': 0.01}}
+157 answers test-2708 200 90.7 {'answer': 'sadness', 'confidence': 0.35, 'probabilities': {'anger': 0.07, 'disgust': 0.0, 'joy': 0.3, 'fear': 0.01, 'sadness': 0.44, 'neutral': 0.18, 'surprise': 0.0}}
+158 answers test-2781 200 127.3 {'answer': 'sadness', 'confidence': 0.94, 'probabilities': {'joy': 0.0, 'sadness': 0.95, 'surprise': 0.0, 'fear': 0.04, 'neutral': 0.01}}
+159 answers test-2770 200 152.7 {'answer': 'surprise', 'confidence': 0.6, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'sadness': 0.0, 'joy': 0.24, 'neutral': 0.1, 'disgust': 0.0, 'surprise': 0.66}}
+160 answers test-2786 200 99.2 {'answer': 'neutral', 'confidence': 0.64, 'probabilities': {'joy': 0.31, 'neutral': 0.69, 'sadness': 0.0, 'fear': 0.0, 'anger': 0.0, 'disgust': 0.0, 'surprise': 0.0}}
+161 answers test-2870 200 140.5 {'answer': 'disgust', 'confidence': 0.94, 'probabilities': {'joy': 0.0, 'anger': 0.0, 'neutral': 0.03, 'sadness': 0.0, 'surprise': 0.02, 'disgust': 0.95}}
+162 answers test-2957 200 112.9 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'sadness': 1.0, 'neutral': 0.0, 'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'surprise': 0.0, 'disgust': 0.0}}
+163 answers test-2664 200 120.5 {'answer': 'joy', 'confidence': 0.95, 'probabilities': {'neutral': 0.04, 'joy': 0.96, 'sadness': 0.0, 'fear': 0.0, 'anger': 0.0, 'surprise': 0.0, 'disgust': 0.0}}
+164 answers test-2804 200 77.7 {'answer': 'anger', 'confidence': 1.0, 'probabilities': {'surprise': 0.0, 'neutral': 0.0, 'joy': 0.0, 'fear': 0.0, 'disgust': 0.0, 'anger': 1.0, 'sadness': 0.0}}
+165 answers test-2734 200 47.5 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'surprise': 0.0, 'neutral': 0.0, 'anger': 0.0, 'fear': 0.0, 'sadness': 1.0, 'disgust': 0.0, 'joy': 0.0}}
+166 answers test-2559 200 168.6 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'neutral': 0.0, 'sadness': 0.0, 'anger': 0.0, 'fear': 1.0, 'surprise': 0.0, 'joy': 0.0, 'disgust': 0.0}}
+167 answers test-2419 200 147.3 {'answer': 'disgust', 'confidence': 0.64, 'probabilities': {'surprise': 0.0, 'neutral': 0.01, 'anger': 0.3, 'disgust': 0.69, 'fear': 0.0, 'sadness': 0.0, 'joy': 0.0}}
+168 answers test-2593 200 122.4 {'answer': 'joy', 'confidence': 0.35, 'probabilities': {'neutral': 0.1, 'joy': 0.44, 'fear': 0.0, 'surprise': 0.01, 'anger': 0.33, 'sadness': 0.1, 'disgust': 0.02}}
+169 answers test-2774 200 65.8 {'answer': 'neutral', 'confidence': 0.8, 'probabilities': {'fear': 0.0, 'surprise': 0.0, 'joy': 0.17, 'disgust': 0.0, 'sadness': 0.0, 'anger': 0.0, 'neutral': 0.83}}
+170 answers test-2850 200 142.6 {'answer': 'surprise', 'confidence': 0.86, 'probabilities': {'surprise': 0.88, 'joy': 0.0, 'sadness': 0.0, 'anger': 0.1, 'disgust': 0.0, 'neutral': 0.02, 'fear': 0.0}}
+171 answers test-2871 200 139.9 {'answer': 'anger', 'confidence': 0.4, 'probabilities': {'neutral': 0.06, 'surprise': 0.0, 'anger': 0.5, 'fear': 0.0, 'joy': 0.0, 'disgust': 0.44}}
+172 answers test-2629 200 123.2 {'answer': 'fear', 'confidence': 0.85, 'probabilities': {'neutral': 0.12, 'anger': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'fear': 0.88}}
+173 answers test-2625 200 127.4 {'answer': 'surprise', 'confidence': 0.32, 'probabilities': {'sadness': 0.0, 'fear': 0.0, 'disgust': 0.0, 'neutral': 0.36, 'anger': 0.0, 'joy': 0.22, 'surprise': 0.42}}
+174 answers test-2467 200 153.1 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'disgust': 0.0, 'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+175 answers test-2456 200 70.7 {'answer': 'neutral', 'confidence': 0.81, 'probabilities': {'disgust': 0.0, 'surprise': 0.09, 'joy': 0.01, 'neutral': 0.84, 'sadness': 0.05, 'fear': 0.01, 'anger': 0.0}}
+176 answers test-2428 200 91.5 {'answer': 'joy', 'confidence': 0.84, 'probabilities': {'anger': 0.0, 'sadness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.86, 'neutral': 0.14}}
+177 answers test-2586 200 123.3 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'sadness': 0.0, 'fear': 0.0, 'anger': 0.0, 'joy': 1.0, 'disgust': 0.0, 'surprise': 0.0, 'neutral': 0.0}}
+178 answers test-2483 200 192.4 {'answer': 'neutral', 'confidence': 0.98, 'probabilities': {'fear': 0.01, 'sadness': 0.01, 'surprise': 0.0, 'neutral': 0.98, 'disgust': 0.0, 'anger': 0.0, 'joy': 0.0}}
+179 answers test-2427 200 145.8 {'answer': 'neutral', 'confidence': 0.86, 'probabilities': {'surprise': 0.0, 'anger': 0.0, 'disgust': 0.0, 'joy': 0.08, 'fear': 0.03, 'sadness': 0.01, 'neutral': 0.88}}
+180 answers test-2613 200 134.3 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'sadness': 0.0, 'fear': 0.0, 'surprise': 0.0, 'neutral': 0.0, 'joy': 1.0, 'disgust': 0.0, 'anger': 0.0}}
+181 answers test-2979 200 101.2 {'answer': 'sadness', 'confidence': 0.8, 'probabilities': {'surprise': 0.0, 'sadness': 0.83, 'neutral': 0.16, 'fear': 0.0, 'anger': 0.0, 'joy': 0.01, 'disgust': 0.0}}
+182 answers test-2903 200 138.4 {'answer': 'neutral', 'confidence': 0.73, 'probabilities': {'anger': 0.22, 'neutral': 0.77, 'surprise': 0.0, 'joy': 0.01, 'disgust': 0.0, 'fear': 0.0, 'sadness': 0.0}}
+183 answers test-2929 200 154.2 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'fear': 0.0, 'sadness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'neutral': 0.0, 'joy': 1.0, 'anger': 0.0}}
+184 answers test-2453 200 151.7 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'sadness': 0.0, 'surprise': 0.0, 'joy': 1.0, 'neutral': 0.0}}
+185 answers test-2452 200 79.5 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'disgust': 0.0, 'joy': 1.0, 'neutral': 0.0, 'surprise': 0.0, 'fear': 0.0, 'anger': 0.0, 'sadness': 0.0}}
+186 answers test-2775 200 154.7 {'answer': 'sadness', 'confidence': 0.96, 'probabilities': {'joy': 0.0, 'fear': 0.0, 'disgust': 0.03, 'surprise': 0.0, 'neutral': 0.0, 'sadness': 0.97}}
+187 answers test-2692 200 74.0 {'answer': 'neutral', 'confidence': 0.93, 'probabilities': {'disgust': 0.0, 'joy': 0.0, 'sadness': 0.0, 'anger': 0.01, 'fear': 0.0, 'surprise': 0.05, 'neutral': 0.94}}
+188 answers test-2556 200 152.7 {'answer': 'fear', 'confidence': 0.8, 'probabilities': {'neutral': 0.03, 'sadness': 0.0, 'surprise': 0.02, 'disgust': 0.01, 'joy': 0.0, 'fear': 0.83, 'anger': 0.11}}
+189 answers test-2768 200 139.5 {'answer': 'joy', 'confidence': 0.98, 'probabilities': {'disgust': 0.0, 'anger': 0.0, 'sadness': 0.02, 'surprise': 0.0, 'fear': 0.0, 'neutral': 0.0, 'joy': 0.98}}
+190 answers test-2472 200 139.2 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'sadness': 0.0, 'disgust': 0.0, 'fear': 0.0, 'neutral': 0.0, 'anger': 0.0, 'joy': 1.0, 'surprise': 0.0}}
+191 answers test-2641 200 154.5 {'answer': 'neutral', 'confidence': 0.49, 'probabilities': {'neutral': 0.56, 'disgust': 0.01, 'joy': 0.0, 'anger': 0.11, 'fear': 0.01, 'surprise': 0.0, 'sadness': 0.31}}
+192 answers test-2917 200 89.6 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'neutral': 0.0, 'joy': 0.0, 'fear': 0.0, 'sadness': 0.99, 'disgust': 0.0, 'surprise': 0.0, 'anger': 0.01}}
+193 answers test-2776 200 131.7 {'answer': 'disgust', 'confidence': 0.72, 'probabilities': {'sadness': 0.0, 'neutral': 0.0, 'anger': 0.24, 'joy': 0.0, 'fear': 0.0, 'surprise': 0.0, 'disgust': 0.76}}
+194 answers test-2918 200 134.1 {'answer': 'neutral', 'confidence': 0.68, 'probabilities': {'sadness': 0.01, 'joy': 0.04, 'surprise': 0.02, 'disgust': 0.07, 'fear': 0.01, 'neutral': 0.73, 'anger': 0.12}}
+195 answers test-2660 200 92.6 {'answer': 'sadness', 'confidence': 0.92, 'probabilities': {'disgust': 0.04, 'fear': 0.02, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.93, 'surprise': 0.01}}
+196 answers test-2699 200 105.0 {'answer': 'anger', 'confidence': 0.42, 'probabilities': {'surprise': 0.01, 'sadness': 0.47, 'anger': 0.5, 'disgust': 0.01, 'joy': 0.0, 'fear': 0.0, 'neutral': 0.01}}
+197 answers test-2596 200 143.9 {'answer': 'joy', 'confidence': 0.99, 'probabilities': {'fear': 0.01, 'neutral': 0.0, 'anger': 0.0, 'disgust': 0.0, 'sadness': 0.0, 'surprise': 0.0, 'joy': 0.99}}
+198 answers test-2852 200 128.4 {'answer': 'neutral', 'confidence': 0.53, 'probabilities': {'sadness': 0.12, 'anger': 0.22, 'joy': 0.01, 'surprise': 0.0, 'disgust': 0.05, 'fear': 0.0, 'neutral': 0.6}}
+199 answers test-680 200 85.7 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+200 answers test-2538 200 178.6 {'answer': 'surprise', 'confidence': 0.4, 'probabilities': {'anger': 0.02, 'neutral': 0.04, 'sadness': 0.0, 'disgust': 0.01, 'fear': 0.0, 'surprise': 0.49, 'joy': 0.44}}
+201 answers test-2409 200 150.2 {'answer': 'anger', 'confidence': 0.91, 'probabilities': {'surprise': 0.0, 'joy': 0.0, 'sadness': 0.01, 'disgust': 0.05, 'neutral': 0.02, 'fear': 0.0, 'anger': 0.92}}
+202 answers test-783 200 157.7 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+203 answers test-1018 200 143.0 {'answer': True, 'p_yes': 0.75, 'confidence': 0.75}
+204 answers test-1102 200 92.6 {'answer': False, 'p_yes': 0.23, 'confidence': 0.77}
+205 answers test-1159 200 103.6 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+206 answers test-778 200 117.8 {'answer': True, 'p_yes': 0.78, 'confidence': 0.78}
+207 answers test-625 200 109.8 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+208 answers test-1177 200 157.4 {'answer': False, 'p_yes': 0.23, 'confidence': 0.77}
+209 answers test-769 200 109.7 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+210 answers test-917 200 119.5 {'answer': False, 'p_yes': 0.17, 'confidence': 0.83}
+211 answers test-616 200 113.9 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+212 answers test-643 200 97.4 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+213 answers test-1046 200 79.1 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+214 answers test-909 200 119.0 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+215 answers test-1126 200 72.6 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+216 answers test-1017 200 82.3 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+217 answers test-634 200 67.7 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+218 answers test-1198 200 113.7 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+219 answers test-914 200 140.9 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+220 answers test-726 200 100.7 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+221 answers test-710 200 96.8 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+222 answers test-922 200 92.6 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+223 answers test-1185 200 86.5 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+224 answers test-737 200 121.4 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+225 answers test-1050 200 117.0 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+226 answers test-1061 200 123.5 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+227 answers test-1009 200 104.5 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+228 answers test-650 200 70.4 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+229 answers test-797 200 140.5 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+230 answers test-758 200 118.1 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+231 answers test-868 200 98.9 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+232 answers test-881 200 132.5 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+233 answers test-1019 200 148.5 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+234 answers test-1192 200 107.4 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+235 answers test-848 200 145.4 {'answer': True, 'p_yes': 0.74, 'confidence': 0.74}
+236 answers test-973 200 106.9 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+237 answers test-998 200 83.3 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+238 answers test-793 200 129.3 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+239 answers test-694 200 118.7 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+240 answers test-775 200 154.5 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+241 answers test-1060 200 113.0 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+242 answers test-896 200 56.3 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+243 answers test-1164 200 88.9 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+244 answers test-1100 200 105.6 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+245 answers test-735 200 119.0 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+246 answers test-696 200 109.8 {'answer': True, 'p_yes': 0.59, 'confidence': 0.59}
+247 answers test-953 200 134.3 {'answer': True, 'p_yes': 0.84, 'confidence': 0.84}
+248 answers test-935 200 119.3 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+249 answers test-604 200 106.3 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+250 answers test-1249 200 89.7 {'answer': False, 'p_yes': 0.17, 'confidence': 0.83}
+251 answers test-754 200 138.2 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+252 answers test-1617 200 133.7 {'answer': True, 'p_yes': 0.99, 'confidence': 0.99}
+253 answers test-1287 200 137.1 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+254 answers test-1252 200 126.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+255 answers test-1209 200 114.7 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+256 answers test-1791 200 141.4 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+257 answers test-1740 200 72.5 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+258 answers test-1590 200 116.1 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+259 answers test-1213 200 146.4 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+260 answers test-1504 200 92.7 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+261 answers test-1676 200 112.5 {'answer': True, 'p_yes': 0.94, 'confidence': 0.94}
+262 answers test-1351 200 110.5 {'answer': True, 'p_yes': 0.76, 'confidence': 0.76}
+263 answers test-1432 200 112.2 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+264 answers test-1371 200 103.6 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+265 answers test-1201 200 112.4 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+266 answers test-1474 200 104.6 {'answer': True, 'p_yes': 0.52, 'confidence': 0.52}
+267 answers test-1690 200 140.3 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+268 answers test-1336 200 123.2 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+269 answers test-1724 200 131.4 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+270 answers test-1782 200 172.2 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+271 answers test-1278 200 127.0 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+272 answers test-1288 200 107.8 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+273 answers test-1332 200 132.2 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+274 answers test-1682 200 103.1 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+275 answers test-1239 200 127.4 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+276 answers test-1434 200 125.7 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+277 answers test-1424 200 93.4 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+278 answers test-1485 200 135.1 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+279 answers test-1386 200 127.8 {'answer': False, 'p_yes': 0.49, 'confidence': 0.51}
+280 answers test-1375 200 122.9 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+281 answers test-1661 200 108.9 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+282 answers test-1362 200 98.8 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+283 answers test-1358 200 181.1 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+284 answers test-1673 200 109.6 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+285 answers test-1204 200 119.7 {'answer': False, 'p_yes': 0.3, 'confidence': 0.7}
+286 answers test-1390 200 147.0 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+287 answers test-1668 200 113.7 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+288 answers test-1642 200 190.5 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+289 answers test-1205 200 124.4 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+290 answers test-1421 200 90.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+291 answers test-1232 200 132.4 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+292 answers test-1626 200 136.4 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+293 answers test-1586 200 115.9 {'answer': True, 'p_yes': 0.68, 'confidence': 0.68}
+294 answers test-1340 200 128.6 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+295 answers test-1579 200 153.6 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+296 answers test-1694 200 153.7 {'answer': True, 'p_yes': 0.58, 'confidence': 0.58}
+297 answers test-1602 200 112.5 {'answer': True, 'p_yes': 0.94, 'confidence': 0.94}
+298 answers test-1231 200 106.0 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+299 answers test-2186 200 126.1 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+300 answers test-1259 200 172.3 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+301 answers test-2198 200 136.6 {'answer': True, 'p_yes': 0.55, 'confidence': 0.55}
+302 answers test-1441 200 170.5 {'answer': True, 'p_yes': 0.61, 'confidence': 0.61}
+303 answers test-1831 200 134.0 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+304 answers test-2317 200 104.5 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+305 answers test-1959 200 113.8 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+306 answers test-2192 200 125.9 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+307 answers test-2276 200 117.0 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+308 answers test-2220 200 150.9 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+309 answers test-1903 200 160.6 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+310 answers test-2224 200 71.9 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+311 answers test-2315 200 151.7 {'answer': True, 'p_yes': 0.94, 'confidence': 0.94}
+312 answers test-1935 200 65.9 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+313 answers test-2140 200 105.0 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+314 answers test-2024 200 116.6 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+315 answers test-2073 200 86.2 {'answer': False, 'p_yes': 0.17, 'confidence': 0.83}
+316 answers test-1970 200 99.9 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+317 answers test-1926 200 146.7 {'answer': False, 'p_yes': 0.45, 'confidence': 0.55}
+318 answers test-2123 200 136.4 {'answer': True, 'p_yes': 0.94, 'confidence': 0.94}
+319 answers test-2344 200 129.3 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+320 answers test-2042 200 155.8 {'answer': True, 'p_yes': 0.84, 'confidence': 0.84}
+321 answers test-2041 200 121.6 {'answer': False, 'p_yes': 0.27, 'confidence': 0.73}
+322 answers test-1951 200 131.8 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+323 answers test-2023 200 99.4 {'answer': False, 'p_yes': 0.36, 'confidence': 0.64}
+324 answers test-1827 200 60.3 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+325 answers test-2111 200 122.7 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+326 answers test-2008 200 122.5 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+327 answers test-1874 200 106.6 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+328 answers test-2296 200 130.3 {'answer': False, 'p_yes': 0.2, 'confidence': 0.8}
+329 answers test-2110 200 85.5 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+330 answers test-2272 200 108.0 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+331 answers test-2366 200 81.1 {'answer': False, 'p_yes': 0.41, 'confidence': 0.5900000000000001}
+332 answers test-1899 200 153.9 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+333 answers test-2144 200 155.1 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+334 answers test-2129 200 143.2 {'answer': True, 'p_yes': 0.79, 'confidence': 0.79}
+335 answers test-1991 200 108.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+336 answers test-2380 200 97.4 {'answer': True, 'p_yes': 0.99, 'confidence': 0.99}
+337 answers test-1977 200 114.0 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+338 answers test-2350 200 123.7 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+339 answers test-2373 200 141.8 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+340 answers test-2365 200 107.3 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+341 answers test-1820 200 106.5 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+342 answers test-2062 200 110.1 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+343 answers test-1914 200 124.2 {'answer': True, 'p_yes': 0.55, 'confidence': 0.55}
+344 answers test-1930 200 147.6 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+345 answers test-2182 200 182.8 {'answer': False, 'p_yes': 0.41, 'confidence': 0.5900000000000001}
+346 answers test-2051 200 110.9 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+347 answers test-2174 200 117.0 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+348 answers test-1839 200 136.0 {'answer': False, 'p_yes': 0.22, 'confidence': 0.78}
+349 answers test-2003 200 151.8 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+350 answers test-2293 200 132.0 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+351 answers test-531 200 147.6 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+352 answers test-54 200 98.7 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+353 answers test-330 200 134.7 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+354 answers test-306 200 160.6 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+355 answers test-316 200 119.8 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+356 answers test-291 200 153.3 {'answer': False, 'p_yes': 0.2, 'confidence': 0.8}
+357 answers test-195 200 117.1 {'answer': True, 'p_yes': 0.53, 'confidence': 0.53}
+358 answers test-322 200 132.2 {'answer': False, 'p_yes': 0.31, 'confidence': 0.69}
+359 answers test-294 200 108.9 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+360 answers test-560 200 110.2 {'answer': False, 'p_yes': 0.33, 'confidence': 0.6699999999999999}
+361 answers test-461 200 62.9 {'answer': False, 'p_yes': 0.27, 'confidence': 0.73}
+362 answers test-415 200 149.0 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+363 answers test-242 200 143.1 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+364 answers test-162 200 121.1 {'answer': False, 'p_yes': 0.42, 'confidence': 0.5800000000000001}
+365 answers test-449 200 115.3 {'answer': True, 'p_yes': 0.97, 'confidence': 0.97}
+366 answers test-596 200 133.8 {'answer': False, 'p_yes': 0.31, 'confidence': 0.69}
+367 answers test-12 200 127.2 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+368 answers test-554 200 97.7 {'answer': True, 'p_yes': 0.96, 'confidence': 0.96}
+369 answers test-377 200 125.2 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+370 answers test-599 200 67.3 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+371 answers test-323 200 95.7 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+372 answers test-376 200 102.5 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+373 answers test-544 200 106.7 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+374 answers test-204 200 89.4 {'answer': True, 'p_yes': 0.75, 'confidence': 0.75}
+375 answers test-115 200 154.9 {'answer': False, 'p_yes': 0.19, 'confidence': 0.81}
+376 answers test-211 200 122.3 {'answer': False, 'p_yes': 0.23, 'confidence': 0.77}
+377 answers test-203 200 134.6 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+378 answers test-89 200 124.2 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+379 answers test-442 200 131.3 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+380 answers test-522 200 113.0 {'answer': True, 'p_yes': 0.68, 'confidence': 0.68}
+381 answers test-183 200 141.0 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+382 answers test-40 200 112.7 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+383 answers test-321 200 151.7 {'answer': False, 'p_yes': 0.22, 'confidence': 0.78}
+384 answers test-5 200 105.9 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+385 answers test-315 200 125.7 {'answer': True, 'p_yes': 0.66, 'confidence': 0.66}
+386 answers test-144 200 125.6 {'answer': False, 'p_yes': 0.19, 'confidence': 0.81}
+387 answers test-192 200 106.9 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+388 answers test-403 200 109.0 {'answer': False, 'p_yes': 0.28, 'confidence': 0.72}
+389 answers test-563 200 104.2 {'answer': True, 'p_yes': 0.61, 'confidence': 0.61}
+390 answers test-530 200 100.9 {'answer': False, 'p_yes': 0.19, 'confidence': 0.81}
+391 answers test-73 200 136.6 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+392 answers test-477 200 147.8 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+393 answers test-329 200 98.6 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+394 answers test-386 200 158.2 {'answer': True, 'p_yes': 0.83, 'confidence': 0.83}
+395 answers test-408 200 111.8 {'answer': True, 'p_yes': 0.96, 'confidence': 0.96}
+396 answers test-311 200 114.1 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+397 answers test-181 200 110.2 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+398 answers test-452 200 81.8 {'answer': True, 'p_yes': 0.69, 'confidence': 0.69}
+399 answers test-584 200 102.3 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+400 answers test-31 200 122.4 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+401 answers test-6863 200 71.9 {'score': 2.59, 'top_level': 2.5700000000000003, 'confidence': 0.42}
+402 answers test-7085 200 114.0 {'score': 1.3199999999999998, 'top_level': 1.33, 'confidence': 0.73}
+403 answers test-7080 200 109.7 {'score': 1.05, 'top_level': 1.06, 'confidence': 0.96}
+404 answers test-6764 200 114.7 {'score': 2.7800000000000002, 'top_level': 2.79, 'confidence': 0.6}
+405 answers test-6845 200 126.4 {'score': 1.01, 'top_level': 1.01, 'confidence': 0.99}
+406 answers test-6961 200 72.8 {'score': 2.87, 'top_level': 2.87, 'confidence': 0.14}
+407 answers test-6723 200 120.3 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+408 answers test-6783 200 96.2 {'score': 1.0699999999999998, 'top_level': 1.07, 'confidence': 0.94}
+409 answers test-6812 200 141.2 {'score': 1.02, 'top_level': 1.03, 'confidence': 0.98}
+410 answers test-6975 200 136.5 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+411 answers test-6689 200 119.4 {'score': 2.4499999999999997, 'top_level': 2.46, 'confidence': 0.46}
+412 answers test-6807 200 118.9 {'score': 3.96, 'top_level': 3.96, 'confidence': 0.72}
+413 answers test-6971 200 127.8 {'score': 1.02, 'top_level': 1.03, 'confidence': 0.98}
+414 answers test-7010 200 71.0 {'score': 2.64, 'top_level': 2.65, 'confidence': 0.53}
+415 answers test-6900 200 119.4 {'score': 1.34, 'top_level': 1.34, 'confidence': 0.72}
+416 answers test-6818 200 128.6 {'score': 1.0799999999999998, 'top_level': 1.09, 'confidence': 0.93}
+417 answers test-6905 200 128.8 {'score': 1.01, 'top_level': 1.01, 'confidence': 0.99}
+418 answers test-6754 200 130.9 {'score': 2.31, 'top_level': 2.31, 'confidence': 0.68}
+419 answers test-7018 200 104.4 {'score': 3.4499999999999997, 'top_level': 3.44, 'confidence': 0.56}
+420 answers test-6833 200 129.1 {'score': 1.02, 'top_level': 1.03, 'confidence': 0.98}
+421 answers test-6675 200 81.1 {'score': 4.29, 'top_level': 4.27, 'confidence': 0.41}
+422 answers test-6914 200 151.0 {'score': 2.11, 'top_level': 2.1100000000000003, 'confidence': 0.66}
+423 answers test-6642 200 122.9 {'score': 4.0, 'top_level': 3.99, 'confidence': 0.73}
+424 answers test-6958 200 143.7 {'score': 1.11, 'top_level': 1.12, 'confidence': 0.91}
+425 answers test-6762 200 79.0 {'score': 1.6800000000000002, 'top_level': 1.6800000000000002, 'confidence': 0.63}
+426 answers test-6685 200 84.8 {'score': 1.1, 'top_level': 1.11, 'confidence': 0.92}
+427 answers test-7146 200 112.8 {'score': 1.9500000000000002, 'top_level': 1.96, 'confidence': 0.51}
+428 answers test-7040 200 126.9 {'score': 3.18, 'top_level': 3.18, 'confidence': 0.48}
+429 answers test-7052 200 111.2 {'score': 1.36, 'top_level': 1.37, 'confidence': 0.7}
+430 answers test-6846 200 138.4 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+431 answers test-7181 200 149.8 {'score': 2.09, 'top_level': 2.1, 'confidence': 0.82}
+432 answers test-6629 200 130.7 {'score': 3.35, 'top_level': 3.35, 'confidence': 0.52}
+433 answers test-6734 200 115.2 {'score': 1.21, 'top_level': 1.21, 'confidence': 0.82}
+434 answers test-6837 200 113.3 {'score': 2.27, 'top_level': 2.26, 'confidence': 0.36}
+435 answers test-6708 200 123.6 {'score': 2.59, 'top_level': 2.59, 'confidence': 0.36}
+436 answers test-6710 200 123.2 {'score': 1.8, 'top_level': 1.79, 'confidence': 0.62}
+437 answers test-7020 200 136.4 {'score': 2.43, 'top_level': 2.4299999999999997, 'confidence': 0.36}
+438 answers test-7166 200 65.1 {'score': 2.22, 'top_level': 2.23, 'confidence': 0.65}
+439 answers test-6604 200 102.1 {'score': 1.8800000000000001, 'top_level': 1.8900000000000001, 'confidence': 0.6}
+440 answers test-7095 200 85.8 {'score': 1.2, 'top_level': 1.19, 'confidence': 0.83}
+441 answers test-6638 200 68.1 {'score': 1.7, 'top_level': 1.7, 'confidence': 0.67}
+442 answers test-7037 200 95.8 {'score': 1.03, 'top_level': 1.03, 'confidence': 0.98}
+443 answers test-6674 200 147.4 {'score': 1.51, 'top_level': 1.52, 'confidence': 0.57}
+444 answers test-6829 200 118.7 {'score': 2.68, 'top_level': 2.6799999999999997, 'confidence': 0.63}
+445 answers test-6631 200 122.8 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+446 answers test-6888 200 114.4 {'score': 2.11, 'top_level': 2.1100000000000003, 'confidence': 0.68}
+447 answers test-6917 200 128.1 {'score': 1.71, 'top_level': 1.71, 'confidence': 0.68}
+448 answers test-7157 200 101.8 {'score': 1.26, 'top_level': 1.27, 'confidence': 0.78}
+449 answers test-7049 200 132.7 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+450 answers test-5628 200 64.3 {'score': 1.3900000000000001, 'top_level': 1.41, 'confidence': 0.68}
+451 answers test-6694 200 178.0 {'score': 1.09, 'top_level': 1.09, 'confidence': 0.92}
+452 answers test-5783 200 124.2 {'score': 3.34, 'top_level': 3.34, 'confidence': 0.72}
+453 answers test-5553 200 113.3 {'score': 1.05, 'top_level': 1.06, 'confidence': 0.96}
+454 answers test-5656 200 107.8 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+455 answers test-5864 200 81.4 {'score': 4.16, 'top_level': 4.15, 'confidence': 0.78}
+456 answers test-5525 200 137.9 {'score': 3.2399999999999998, 'top_level': 3.24, 'confidence': 0.72}
+457 answers test-5448 200 111.4 {'score': 1.56, 'top_level': 1.56, 'confidence': 0.62}
+458 answers test-5701 200 120.6 {'score': 1.94, 'top_level': 1.94, 'confidence': 0.65}
+459 answers test-5881 200 109.8 {'score': 4.24, 'top_level': 4.23, 'confidence': 0.77}
+460 answers test-5756 200 61.3 {'score': 3.33, 'top_level': 3.33, 'confidence': 0.66}
+461 answers test-5956 200 89.1 {'score': 3.18, 'top_level': 3.18, 'confidence': 0.52}
+462 answers test-5443 200 147.8 {'score': 2.23, 'top_level': 2.24, 'confidence': 0.54}
+463 answers test-5585 200 141.3 {'score': 1.9900000000000002, 'top_level': 1.99, 'confidence': 0.59}
+464 answers test-5989 200 66.1 {'score': 2.98, 'top_level': 2.98, 'confidence': 0.62}
+465 answers test-5965 200 120.7 {'score': 2.41, 'top_level': 2.4299999999999997, 'confidence': 0.48}
+466 answers test-5417 200 135.1 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+467 answers test-5942 200 104.6 {'score': 1.56, 'top_level': 1.5699999999999998, 'confidence': 0.6}
+468 answers test-5844 200 138.5 {'score': 2.9899999999999998, 'top_level': 2.98, 'confidence': 0.89}
+469 answers test-5865 200 119.2 {'score': 3.8099999999999996, 'top_level': 3.8, 'confidence': 0.68}
+470 answers test-5676 200 118.3 {'score': 3.1100000000000003, 'top_level': 3.12, 'confidence': 0.68}
+471 answers test-5767 200 97.2 {'score': 2.96, 'top_level': 2.96, 'confidence': 0.88}
+472 answers test-5696 200 145.8 {'score': 2.3400000000000003, 'top_level': 2.3200000000000003, 'confidence': 0.38}
+473 answers test-5674 200 101.9 {'score': 2.24, 'top_level': 2.21, 'confidence': 0.47}
+474 answers test-5548 200 121.1 {'score': 2.81, 'top_level': 2.8200000000000003, 'confidence': 0.81}
+475 answers test-5703 200 183.0 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+476 answers test-5895 200 118.3 {'score': 1.9200000000000002, 'top_level': 1.92, 'confidence': 0.83}
+477 answers test-5802 200 99.2 {'score': 3.13, 'top_level': 3.12, 'confidence': 0.88}
+478 answers test-5918 200 109.7 {'score': 2.88, 'top_level': 2.9, 'confidence': 0.88}
+479 answers test-5787 200 95.8 {'score': 1.12, 'top_level': 1.12, 'confidence': 0.9}
+480 answers test-5477 200 159.1 {'score': 3.76, 'top_level': 3.76, 'confidence': 0.7}
+481 answers test-5976 200 107.7 {'score': 3.03, 'top_level': 3.03, 'confidence': 0.91}
+482 answers test-5472 200 156.4 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+483 answers test-5671 200 121.1 {'score': 2.8899999999999997, 'top_level': 2.9, 'confidence': 0.41}
+484 answers test-5583 200 147.7 {'score': 1.41, 'top_level': 1.42, 'confidence': 0.66}
+485 answers test-5637 200 95.9 {'score': 2.89, 'top_level': 2.8899999999999997, 'confidence': 0.71}
+486 answers test-5714 200 67.2 {'score': 2.45, 'top_level': 2.45, 'confidence': 0.36}
+487 answers test-5600 200 113.8 {'score': 1.01, 'top_level': 1.03, 'confidence': 0.99}
+488 answers test-5427 200 141.3 {'score': 1.03, 'top_level': 1.03, 'confidence': 0.98}
+489 answers test-5595 200 145.0 {'score': 1.91, 'top_level': 1.92, 'confidence': 0.79}
+490 answers test-5509 200 111.0 {'score': 2.7500000000000004, 'top_level': 2.75, 'confidence': 0.76}
+491 answers test-5852 200 94.6 {'score': 1.05, 'top_level': 1.05, 'confidence': 0.96}
+492 answers test-5705 200 121.9 {'score': 3.15, 'top_level': 3.15, 'confidence': 0.88}
+493 answers test-5704 200 98.3 {'score': 2.26, 'top_level': 2.26, 'confidence': 0.6}
+494 answers test-5754 200 118.8 {'score': 2.3600000000000003, 'top_level': 2.38, 'confidence': 0.47}
+495 answers test-5795 200 103.4 {'score': 3.7, 'top_level': 3.71, 'confidence': 0.35}
+496 answers test-5463 200 121.9 {'score': 3.52, 'top_level': 3.51, 'confidence': 0.55}
+497 answers test-5920 200 139.2 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+498 answers test-5761 200 120.5 {'score': 3.08, 'top_level': 3.08, 'confidence': 0.92}
+499 answers test-5892 200 108.5 {'score': 3.99, 'top_level': 3.98, 'confidence': 0.57}
+500 answers test-5201 200 74.2 {'score': 1.75, 'top_level': 1.75, 'confidence': 0.38}
+501 answers test-5255 200 88.4 {'score': 1.89, 'top_level': 1.8900000000000001, 'confidence': 0.26}
+502 answers test-5872 200 257.0 {'score': 3.1900000000000004, 'top_level': 3.19, 'confidence': 0.82}
+503 answers test-4804 200 127.5 {'score': 1.18, 'top_level': 1.16, 'confidence': 0.85}
+504 answers test-5035 200 114.4 {'score': 4.03, 'top_level': 4.02, 'confidence': 0.72}
+505 answers test-5150 200 69.6 {'score': 4.3100000000000005, 'top_level': 4.3, 'confidence': 0.72}
+506 answers test-5385 200 77.4 {'score': 1.19, 'top_level': 1.23, 'confidence': 0.84}
+507 answers test-4942 200 128.7 {'score': 1.0, 'top_level': 1.02, 'confidence': 1.0}
+508 answers test-5069 200 93.1 {'score': 3.6399999999999997, 'top_level': 3.65, 'confidence': 0.57}
+509 answers test-4845 200 113.1 {'score': 1.3, 'top_level': 1.3, 'confidence': 0.75}
+510 answers test-5161 200 117.8 {'score': 1.7, 'top_level': 1.7, 'confidence': 0.42}
+511 answers test-4905 200 130.5 {'score': 4.15, 'top_level': 4.140000000000001, 'confidence': 0.71}
+512 answers test-5316 200 106.4 {'score': 2.14, 'top_level': 2.15, 'confidence': 0.65}
+513 answers test-5368 200 104.3 {'score': 2.47, 'top_level': 2.48, 'confidence': 0.49}
+514 answers test-5285 200 116.8 {'score': 1.01, 'top_level': 1.04, 'confidence': 0.99}
+515 answers test-5198 200 62.5 {'score': 3.48, 'top_level': 3.48, 'confidence': 0.38}
+516 answers test-5030 200 198.7 {'score': 3.81, 'top_level': 3.82, 'confidence': 0.76}
+517 answers test-4978 200 67.5 {'score': 1.06, 'top_level': 1.06, 'confidence': 0.95}
+518 answers test-5121 200 74.0 {'score': 1.95, 'top_level': 1.96, 'confidence': 0.64}
+519 answers test-5361 200 119.2 {'score': 2.68, 'top_level': 2.6799999999999997, 'confidence': 0.53}
+520 answers test-5393 200 69.2 {'score': 3.6, 'top_level': 3.6, 'confidence': 0.5}
+521 answers test-5356 200 125.9 {'score': 1.56, 'top_level': 1.56, 'confidence': 0.53}
+522 answers test-5004 200 154.9 {'score': 2.11, 'top_level': 2.1100000000000003, 'confidence': 0.62}
+523 answers test-5218 200 78.7 {'score': 3.7900000000000005, 'top_level': 3.81, 'confidence': 0.56}
+524 answers test-5092 200 95.2 {'score': 1.0, 'top_level': 1.02, 'confidence': 1.0}
+525 answers test-4874 200 149.3 {'score': 2.4499999999999997, 'top_level': 2.45, 'confidence': 0.41}
+526 answers test-5304 200 93.7 {'score': 1.04, 'top_level': 1.04, 'confidence': 0.97}
+527 answers test-5006 200 110.5 {'score': 3.89, 'top_level': 3.88, 'confidence': 0.84}
+528 answers test-5224 200 82.1 {'score': 3.64, 'top_level': 3.63, 'confidence': 0.67}
+529 answers test-5362 200 143.8 {'score': 3.26, 'top_level': 3.25, 'confidence': 0.55}
+530 answers test-5130 200 94.8 {'score': 2.4299999999999997, 'top_level': 2.4299999999999997, 'confidence': 0.57}
+531 answers test-4892 200 113.7 {'score': 1.27, 'top_level': 1.28, 'confidence': 0.77}
+532 answers test-4970 200 110.1 {'score': 1.58, 'top_level': 1.5899999999999999, 'confidence': 0.52}
+533 answers test-5297 200 131.3 {'score': 4.430000000000001, 'top_level': 4.42, 'confidence': 0.59}
+534 answers test-5074 200 81.6 {'score': 1.8900000000000001, 'top_level': 1.8900000000000001, 'confidence': 0.26}
+535 answers test-4956 200 79.8 {'score': 2.37, 'top_level': 2.38, 'confidence': 0.64}
+536 answers test-5103 200 108.8 {'score': 1.9300000000000002, 'top_level': 1.9100000000000001, 'confidence': 0.22}
+537 answers test-5174 200 110.1 {'score': 3.45, 'top_level': 3.44, 'confidence': 0.43}
+538 answers test-4971 200 79.9 {'score': 2.66, 'top_level': 2.65, 'confidence': 0.13}
+539 answers test-5182 200 129.0 {'score': 1.07, 'top_level': 1.07, 'confidence': 0.94}
+540 answers test-5327 200 127.8 {'score': 1.81, 'top_level': 1.85, 'confidence': 0.32}
+541 answers test-5084 200 149.5 {'score': 1.91, 'top_level': 1.9100000000000001, 'confidence': 0.66}
+542 answers test-5108 200 135.1 {'score': 2.63, 'top_level': 2.6399999999999997, 'confidence': 0.51}
+543 answers test-4853 200 107.6 {'score': 2.67, 'top_level': 2.6799999999999997, 'confidence': 0.26}
+544 answers test-5169 200 114.7 {'score': 2.04, 'top_level': 2.04, 'confidence': 0.73}
+545 answers test-5176 200 137.6 {'score': 1.02, 'top_level': 1.05, 'confidence': 0.98}
+546 answers test-4882 200 132.8 {'score': 3.33, 'top_level': 3.35, 'confidence': 0.36}
+547 answers test-5389 200 83.1 {'score': 4.35, 'top_level': 4.35, 'confidence': 0.68}
+548 answers test-5332 200 116.0 {'score': 2.58, 'top_level': 2.58, 'confidence': 0.5}
+549 answers test-6488 200 74.9 {'score': 1.95, 'top_level': 1.96, 'confidence': 0.57}
+550 answers test-5336 200 113.0 {'score': 2.96, 'top_level': 2.9699999999999998, 'confidence': 0.05}
+551 answers test-5106 200 112.3 {'score': 4.32, 'top_level': 4.32, 'confidence': 0.7}
+552 answers test-6065 200 108.2 {'score': 2.83, 'top_level': 2.8200000000000003, 'confidence': 0.74}
+553 answers test-6410 200 70.8 {'score': 3.77, 'top_level': 3.76, 'confidence': 0.71}
+554 answers test-6431 200 118.3 {'score': 1.9300000000000002, 'top_level': 1.92, 'confidence': 0.72}
+555 answers test-6024 200 64.2 {'score': 3.1900000000000004, 'top_level': 3.19, 'confidence': 0.71}
+556 answers test-6163 200 142.4 {'score': 1.98, 'top_level': 1.99, 'confidence': 0.85}
+557 answers test-6506 200 125.3 {'score': 2.81, 'top_level': 2.8200000000000003, 'confidence': 0.62}
+558 answers test-6088 200 85.5 {'score': 1.76, 'top_level': 1.75, 'confidence': 0.7}
+559 answers test-6289 200 111.1 {'score': 1.95, 'top_level': 1.95, 'confidence': 0.77}
+560 answers test-6351 200 106.6 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+561 answers test-6409 200 154.6 {'score': 1.16, 'top_level': 1.17, 'confidence': 0.87}
+562 answers test-6315 200 133.6 {'score': 3.0, 'top_level': 3.01, 'confidence': 0.72}
+563 answers test-6404 200 158.9 {'score': 4.45, 'top_level': 4.45, 'confidence': 0.61}
+564 answers test-6265 200 112.9 {'score': 1.09, 'top_level': 1.1, 'confidence': 0.92}
+565 answers test-6286 200 109.5 {'score': 4.08, 'top_level': 4.08, 'confidence': 0.83}
+566 answers test-6241 200 142.0 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+567 answers test-6239 200 125.6 {'score': 2.49, 'top_level': 2.5, 'confidence': 0.57}
+568 answers test-6543 200 101.1 {'score': 1.1400000000000001, 'top_level': 1.15, 'confidence': 0.88}
+569 answers test-6290 200 141.6 {'score': 3.6999999999999997, 'top_level': 3.71, 'confidence': 0.73}
+570 answers test-6174 200 91.4 {'score': 1.17, 'top_level': 1.17, 'confidence': 0.86}
+571 answers test-6015 200 133.3 {'score': 1.99, 'top_level': 1.99, 'confidence': 0.66}
+572 answers test-6343 200 126.8 {'score': 1.04, 'top_level': 1.04, 'confidence': 0.97}
+573 answers test-6204 200 65.6 {'score': 2.5500000000000003, 'top_level': 2.54, 'confidence': 0.61}
+574 answers test-6567 200 70.1 {'score': 1.18, 'top_level': 1.18, 'confidence': 0.85}
+575 answers test-6466 200 142.0 {'score': 4.05, 'top_level': 4.0600000000000005, 'confidence': 0.72}
+576 answers test-6544 200 121.8 {'score': 1.2, 'top_level': 1.2, 'confidence': 0.83}
+577 answers test-6090 200 126.7 {'score': 3.71, 'top_level': 3.71, 'confidence': 0.69}
+578 answers test-6371 200 121.4 {'score': 3.26, 'top_level': 3.27, 'confidence': 0.68}
+579 answers test-6333 200 117.0 {'score': 2.5, 'top_level': 2.51, 'confidence': 0.53}
+580 answers test-6270 200 71.8 {'score': 2.81, 'top_level': 2.79, 'confidence': 0.07}
+581 answers test-6054 200 137.5 {'score': 1.98, 'top_level': 1.99, 'confidence': 0.65}
+582 answers test-6059 200 114.2 {'score': 3.3000000000000003, 'top_level': 3.28, 'confidence': 0.62}
+583 answers test-6483 200 133.0 {'score': 2.5500000000000003, 'top_level': 2.55, 'confidence': 0.61}
+584 answers test-6258 200 133.5 {'score': 3.27, 'top_level': 3.28, 'confidence': 0.61}
+585 answers test-6002 200 68.8 {'score': 1.8399999999999999, 'top_level': 1.85, 'confidence': 0.75}
+586 answers test-6494 200 160.1 {'score': 3.0100000000000002, 'top_level': 3.01, 'confidence': 0.71}
+587 answers test-6545 200 104.3 {'score': 4.04, 'top_level': 4.05, 'confidence': 0.52}
+588 answers test-6443 200 117.4 {'score': 1.05, 'top_level': 1.06, 'confidence': 0.96}
+589 answers test-6529 200 141.0 {'score': 1.0, 'top_level': 1.02, 'confidence': 1.0}
+590 answers test-6156 200 106.5 {'score': 3.69, 'top_level': 3.69, 'confidence': 0.69}
+591 answers test-6038 200 132.9 {'score': 2.81, 'top_level': 2.8200000000000003, 'confidence': 0.66}
+592 answers test-6312 200 118.1 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+593 answers test-6287 200 127.9 {'score': 1.59, 'top_level': 1.5899999999999999, 'confidence': 0.51}
+594 answers test-6250 200 126.7 {'score': 1.04, 'top_level': 1.06, 'confidence': 0.97}
+595 answers test-6173 200 120.4 {'score': 1.5, 'top_level': 1.51, 'confidence': 0.58}
+596 answers test-6178 200 86.6 {'score': 3.23, 'top_level': 3.23, 'confidence': 0.28}
+597 answers test-6441 200 119.0 {'score': 4.5, 'top_level': 4.5, 'confidence': 0.58}
+598 answers test-6487 200 120.2 {'score': 2.73, 'top_level': 2.74, 'confidence': 0.59}
+599 answers test-6362 200 127.9 {'score': 2.61, 'top_level': 2.6, 'confidence': 0.59}
+600 answers test-6467 200 130.8 {'score': 1.09, 'top_level': 1.09, 'confidence': 0.92}
+601 repeats test-3161 200 125.0 {'answer': 'happiness', 'confidence': 0.57, 'probabilities': {'sadness': 0.1, 'disgust': 0.0, 'happiness': 0.63, 'neutral': 0.27, 'anger': 0.0, 'surprise': 0.0, 'fear': 0.0}}
+602 repeats test-3266 200 142.8 {'answer': 'sadness', 'confidence': 0.62, 'probabilities': {'fear': 0.0, 'neutral': 0.0, 'disgust': 0.05, 'happiness': 0.0, 'anger': 0.21, 'surprise': 0.07, 'sadness': 0.67}}
+603 repeats test-2850 200 100.2 {'answer': 'surprise', 'confidence': 0.89, 'probabilities': {'surprise': 0.91, 'joy': 0.0, 'sadness': 0.0, 'anger': 0.08, 'disgust': 0.0, 'neutral': 0.01, 'fear': 0.0}}
+604 repeats test-3441 200 113.8 {'answer': 'happiness', 'confidence': 0.85, 'probabilities': {'neutral': 0.09, 'sadness': 0.0, 'fear': 0.0, 'disgust': 0.0, 'happiness': 0.87, 'anger': 0.0, 'surprise': 0.04}}
+605 repeats test-3873 200 129.9 {'answer': 'proud', 'confidence': 1.0, 'probabilities': {'ashamed': 0.0, 'guilty': 0.0, 'prepared': 0.0, 'proud': 1.0, 'impressed': 0.0, 'sentimental': 0.0}}
+606 repeats test-4693 200 121.9 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 1.0, 'disgust': 0.0, 'shame': 0.0, 'depression': 0.0, 'sadness': 0.0}}
+607 repeats test-4248 200 128.5 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'disgust': 0.0, 'anxiety': 0.0, 'sadness': 1.0, 'anger': 0.0, 'fear': 0.0}}
+608 repeats test-2708 200 157.3 {'answer': 'joy', 'confidence': 0.32, 'probabilities': {'anger': 0.07, 'disgust': 0.0, 'joy': 0.42, 'fear': 0.01, 'sadness': 0.36, 'neutral': 0.14, 'surprise': 0.0}}
+609 repeats test-3432 200 140.2 {'answer': 'neutral', 'confidence': 0.78, 'probabilities': {'fear': 0.0, 'neutral': 0.81, 'surprise': 0.0, 'anger': 0.0, 'disgust': 0.0, 'happiness': 0.19, 'sadness': 0.0}}
+610 repeats test-3975 200 138.9 {'answer': 'excited', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'excited': 1.0, 'sentimental': 0.0, 'impressed': 0.0, 'angry': 0.0, 'sad': 0.0}}
+611 repeats test-4647 200 118.7 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'fear': 0.0, 'shame': 0.0, 'depression': 0.0, 'anger': 0.0, 'disgust': 0.0, 'sadness': 1.0}}
+612 repeats test-3602 200 123.1 {'answer': 'ashamed', 'confidence': 1.0, 'probabilities': {'trusting': 0.0, 'impressed': 0.0, 'surprised': 0.0, 'prepared': 0.0, 'ashamed': 1.0, 'faithful': 0.0}}
+613 repeats test-3019 200 104.6 {'answer': 'happiness', 'confidence': 0.6, 'probabilities': {'sadness': 0.0, 'anger': 0.0, 'neutral': 0.34, 'surprise': 0.0, 'happiness': 0.66, 'fear': 0.0, 'disgust': 0.0}}
+614 repeats test-4168 200 110.5 {'answer': 'grateful', 'confidence': 1.0, 'probabilities': {'nostalgic': 0.0, 'sentimental': 0.0, 'afraid': 0.0, 'devastated': 0.0, 'anxious': 0.0, 'grateful': 1.0}}
+615 repeats test-4151 200 130.9 {'answer': 'ashamed', 'confidence': 0.57, 'probabilities': {'anticipating': 0.0, 'ashamed': 0.64, 'hopeful': 0.01, 'angry': 0.18, 'surprised': 0.0, 'disgusted': 0.17}}
+616 repeats test-4172 200 127.6 {'answer': 'sentimental', 'confidence': 0.41, 'probabilities': {'excited': 0.48, 'sentimental': 0.51, 'faithful': 0.01, 'surprised': 0.0, 'ashamed': 0.0, 'guilty': 0.0}}
+617 repeats test-3196 200 135.3 {'answer': 'happiness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'surprise': 0.0, 'happiness': 1.0, 'fear': 0.0}}
+618 repeats test-4640 200 123.6 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'sadness': 1.0, 'fear': 0.0, 'disgust': 0.0, 'anger': 0.0, 'anxiety': 0.0}}
+619 repeats test-3512 200 144.1 {'answer': 'neutral', 'confidence': 0.88, 'probabilities': {'surprise': 0.0, 'disgust': 0.0, 'sadness': 0.08, 'anger': 0.02, 'happiness': 0.0, 'fear': 0.0, 'neutral': 0.9}}
+620 repeats test-2699 200 124.6 {'answer': 'anger', 'confidence': 0.42, 'probabilities': {'surprise': 0.01, 'sadness': 0.47, 'anger': 0.5, 'disgust': 0.01, 'joy': 0.0, 'fear': 0.0, 'neutral': 0.01}}
+621 repeats test-4280 200 130.8 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'disgust': 0.0, 'anxiety': 0.01, 'fear': 0.0, 'anger': 0.0, 'sadness': 0.99}}
+622 repeats test-3078 200 106.8 {'answer': 'neutral', 'confidence': 0.3, 'probabilities': {'surprise': 0.01, 'neutral': 0.4, 'anger': 0.1, 'happiness': 0.0, 'fear': 0.19, 'disgust': 0.0, 'sadness': 0.3}}
+623 repeats test-4374 200 148.1 {'answer': 'anxiety', 'confidence': 0.71, 'probabilities': {'fear': 0.06, 'depression': 0.09, 'disgust': 0.03, 'anger': 0.05, 'anxiety': 0.77}}
+624 repeats test-3458 200 116.5 {'answer': 'happiness', 'confidence': 0.5, 'probabilities': {'neutral': 0.42, 'anger': 0.0, 'disgust': 0.0, 'sadness': 0.0, 'happiness': 0.57, 'surprise': 0.01, 'fear': 0.0}}
+625 repeats test-3466 200 163.5 {'answer': 'happiness', 'confidence': 0.95, 'probabilities': {'surprise': 0.0, 'fear': 0.0, 'neutral': 0.04, 'happiness': 0.96, 'sadness': 0.0, 'anger': 0.0, 'disgust': 0.0}}
+626 repeats test-3904 200 73.7 {'answer': 'nostalgic', 'confidence': 1.0, 'probabilities': {'furious': 0.0, 'caring': 0.0, 'trusting': 0.0, 'nostalgic': 1.0, 'guilty': 0.0, 'angry': 0.0}}
+627 repeats test-3386 200 121.1 {'answer': 'happiness', 'confidence': 0.52, 'probabilities': {'fear': 0.0, 'anger': 0.22, 'disgust': 0.06, 'happiness': 0.59, 'surprise': 0.02, 'neutral': 0.11, 'sadness': 0.0}}
+628 repeats test-4622 200 112.3 {'answer': 'anxiety', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'sadness': 0.0, 'disgust': 0.0, 'anxiety': 1.0, 'depression': 0.0, 'shame': 0.0}}
+629 repeats test-2929 200 73.8 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'fear': 0.0, 'sadness': 0.0, 'surprise': 0.0, 'disgust': 0.0, 'neutral': 0.0, 'joy': 1.0, 'anger': 0.0}}
+630 repeats test-4419 200 120.9 {'answer': 'anxiety', 'confidence': 0.59, 'probabilities': {'disgust': 0.01, 'anger': 0.05, 'fear': 0.08, 'depression': 0.19, 'anxiety': 0.67}}
+631 repeats test-2632 200 124.2 {'answer': 'anger', 'confidence': 0.92, 'probabilities': {'anger': 0.93, 'neutral': 0.04, 'disgust': 0.02, 'fear': 0.0, 'surprise': 0.0, 'joy': 0.0, 'sadness': 0.01}}
+632 repeats test-2409 200 142.4 {'answer': 'anger', 'confidence': 0.93, 'probabilities': {'surprise': 0.0, 'joy': 0.0, 'sadness': 0.01, 'disgust': 0.04, 'neutral': 0.01, 'fear': 0.0, 'anger': 0.94}}
+633 repeats test-4505 200 85.6 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'depression': 0.0, 'shame': 0.0, 'anxiety': 0.0, 'sadness': 1.0, 'fear': 0.0, 'disgust': 0.0}}
+634 repeats test-2979 200 95.0 {'answer': 'sadness', 'confidence': 0.79, 'probabilities': {'surprise': 0.0, 'sadness': 0.82, 'neutral': 0.16, 'fear': 0.0, 'anger': 0.0, 'joy': 0.02, 'disgust': 0.0}}
+635 repeats test-563 200 120.6 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+636 repeats test-1432 200 100.8 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+637 repeats test-12 200 109.3 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+638 repeats test-914 200 96.6 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+639 repeats test-1239 200 136.3 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+640 repeats test-321 200 120.2 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+641 repeats test-415 200 101.0 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+642 repeats test-2062 200 69.6 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+643 repeats test-2129 200 71.0 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+644 repeats test-2293 200 59.3 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+645 repeats test-909 200 116.9 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+646 repeats test-376 200 66.1 {'answer': False, 'p_yes': 0.36, 'confidence': 0.64}
+647 repeats test-1441 200 72.3 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+648 repeats test-377 200 126.0 {'answer': False, 'p_yes': 0.17, 'confidence': 0.83}
+649 repeats test-531 200 118.7 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+650 repeats test-1201 200 69.4 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+651 repeats test-1102 200 152.7 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+652 repeats test-2317 200 128.4 {'answer': True, 'p_yes': 0.98, 'confidence': 0.98}
+653 repeats test-1590 200 155.6 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+654 repeats test-758 200 99.7 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+655 repeats test-1724 200 77.5 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+656 repeats test-2192 200 110.4 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+657 repeats test-1386 200 125.9 {'answer': True, 'p_yes': 0.51, 'confidence': 0.51}
+658 repeats test-599 200 109.3 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+659 repeats test-2144 200 81.3 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+660 repeats test-696 200 80.4 {'answer': True, 'p_yes': 0.58, 'confidence': 0.58}
+661 repeats test-1336 200 72.3 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+662 repeats test-2042 200 99.6 {'answer': True, 'p_yes': 0.83, 'confidence': 0.83}
+663 repeats test-73 200 126.3 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+664 repeats test-1232 200 131.4 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+665 repeats test-2315 200 103.5 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+666 repeats test-1060 200 118.6 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+667 repeats test-775 200 131.1 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+668 repeats test-7095 200 66.9 {'score': 1.19, 'top_level': 1.19, 'confidence': 0.84}
+669 repeats test-7049 200 66.5 {'score': 1.02, 'top_level': 1.03, 'confidence': 0.98}
+670 repeats test-6404 200 109.2 {'score': 4.430000000000001, 'top_level': 4.43, 'confidence': 0.62}
+671 repeats test-6290 200 132.7 {'score': 3.65, 'top_level': 3.65, 'confidence': 0.69}
+672 repeats test-5600 200 129.5 {'score': 1.01, 'top_level': 1.03, 'confidence': 0.99}
+673 repeats test-6065 200 108.0 {'score': 2.79, 'top_level': 2.79, 'confidence': 0.74}
+674 repeats test-5463 200 96.5 {'score': 3.54, 'top_level': 3.53, 'confidence': 0.55}
+675 repeats test-5920 200 120.5 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+676 repeats test-6846 200 106.9 {'score': 1.01, 'top_level': 1.02, 'confidence': 0.99}
+677 repeats test-5918 200 126.7 {'score': 2.89, 'top_level': 2.9, 'confidence': 0.89}
+678 repeats test-5756 200 86.3 {'score': 3.3, 'top_level': 3.31, 'confidence': 0.67}
+679 repeats test-5703 200 115.8 {'score': 1.0, 'top_level': 1.01, 'confidence': 1.0}
+680 repeats test-6443 200 139.9 {'score': 1.06, 'top_level': 1.06, 'confidence': 0.95}
+681 repeats test-6567 200 86.4 {'score': 1.1400000000000001, 'top_level': 1.15, 'confidence': 0.88}
+682 repeats test-7157 200 88.1 {'score': 1.29, 'top_level': 1.29, 'confidence': 0.76}
+683 repeats test-6754 200 110.0 {'score': 2.32, 'top_level': 2.3200000000000003, 'confidence': 0.68}
+684 repeats test-6315 200 109.9 {'score': 2.9299999999999997, 'top_level': 2.9299999999999997, 'confidence': 0.74}
+685 repeats test-5585 200 104.4 {'score': 1.94, 'top_level': 1.94, 'confidence': 0.58}
+686 repeats test-6258 200 131.2 {'score': 3.21, 'top_level': 3.21, 'confidence': 0.61}
+687 repeats test-5150 200 105.4 {'score': 4.27, 'top_level': 4.27, 'confidence': 0.74}
+688 repeats test-6917 200 116.3 {'score': 1.78, 'top_level': 1.79, 'confidence': 0.72}
+689 repeats test-5084 200 121.5 {'score': 1.88, 'top_level': 1.88, 'confidence': 0.67}
+690 repeats test-6543 200 144.6 {'score': 1.1400000000000001, 'top_level': 1.15, 'confidence': 0.88}
+691 repeats test-7166 200 142.1 {'score': 2.2399999999999998, 'top_level': 2.24, 'confidence': 0.62}
+692 repeats test-4905 200 141.4 {'score': 4.17, 'top_level': 4.16, 'confidence': 0.71}
+693 repeats test-5548 200 121.3 {'score': 2.77, 'top_level': 2.77, 'confidence': 0.79}
+694 repeats test-5872 200 126.0 {'score': 3.19, 'top_level': 3.18, 'confidence': 0.82}
+695 repeats test-6764 200 85.4 {'score': 2.77, 'top_level': 2.7800000000000002, 'confidence': 0.61}
+696 repeats test-6024 200 121.5 {'score': 3.2199999999999998, 'top_level': 3.22, 'confidence': 0.68}
+697 repeats test-6250 200 105.3 {'score': 1.08, 'top_level': 1.07, 'confidence': 0.93}
+698 repeats test-5169 200 118.6 {'score': 2.0900000000000003, 'top_level': 2.09, 'confidence': 0.72}
+699 repeats test-5443 200 154.6 {'score': 2.25, 'top_level': 2.27, 'confidence': 0.54}
+700 repeats test-6059 200 127.8 {'score': 3.3000000000000003, 'top_level': 3.29, 'confidence': 0.62}
+wrote jev_raw.json

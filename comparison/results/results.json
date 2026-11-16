@@ -1,0 +1,261 @@
+[
+ {
+  "system": "Emotion-S1 (CPU)",
+  "n_answers": 600,
+  "status_counts": {
+   "missing": 600
+  },
+  "choice": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.7,
+   "ece": 0.078,
+   "accuracy_counting_failures_wrong": 0.7
+  },
+  "noul": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.795,
+   "ece": 0.0772,
+   "accuracy_counting_failures_wrong": 0.795
+  },
+  "score": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "mae": 0.4122,
+   "within_1": 0.89,
+   "pearson": 0.8816,
+   "ece": 0.0563
+  },
+  "latency_ms": {
+   "median": 40.5,
+   "p90": 146.2,
+   "p95": 184.0,
+   "n": 600
+  },
+  "mean_tokens_per_question": {
+   "choice": {
+    "input": 0.0,
+    "output": 0.0
+   },
+   "noul": {
+    "input": 0.0,
+    "output": 0.0
+   },
+   "score": {
+    "input": 0.0,
+    "output": 0.0
+   }
+  },
+  "usd_per_1000_turns": 0.0,
+  "self_disagreement_rate": 0.0,
+  "note": "runs locally; deterministic"
+ },
+ {
+  "system": "anthropic:claude-sonnet-5-5",
+  "n_answers": 600,
+  "status_counts": {
+   "200": 600
+  },
+  "served_model": [
+   "claude-sonnet-5-5"
+  ],
+  "choice": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.625,
+   "ece": 0.0831,
+   "accuracy_counting_failures_wrong": 0.625
+  },
+  "noul": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.77,
+   "ece": 0.1274,
+   "accuracy_counting_failures_wrong": 0.77
+  },
+  "score": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "mae": 1.0299,
+   "within_1": 0.65,
+   "pearson": 0.3602,
+   "ece": 0.3206
+  },
+  "latency_ms": {
+   "median": 877.6,
+   "p90": 1374.6,
+   "p95": 1536.0,
+   "n": 600
+  },
+  "mean_tokens_per_question": {
+   "choice": {
+    "input": 245.1,
+    "output": 28.4
+   },
+   "noul": {
+    "input": 219.8,
+    "output": 23.2
+   },
+   "score": {
+    "input": 245.4,
+    "output": 21.0
+   }
+  },
+  "usd_per_1000_turns": 2.1466,
+  "price_usd_per_1m_tokens": {
+   "input": 2.0,
+   "output": 10.0
+  },
+  "price_source": "https://platform.claude.com/docs/en/about-claude/pricing (fetched 2026-11-16)",
+  "self_disagreement_rate": 0.02,
+  "self_disagreement_n": 100,
+  "self_disagreement_by_type": {
+   "choice": 0.0294,
+   "noul": 0.0,
+   "score": 0.0303
+  }
+ },
+ {
+  "system": "openai:gpt-6.1-sol",
+  "n_answers": 600,
+  "status_counts": {
+   "200": 600
+  },
+  "served_model": [
+   "gpt-6.1-sol"
+  ],
+  "choice": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.64,
+   "ece": 0.2136,
+   "accuracy_counting_failures_wrong": 0.64
+  },
+  "noul": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.775,
+   "ece": 0.1788,
+   "accuracy_counting_failures_wrong": 0.775
+  },
+  "score": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "mae": 1.0374,
+   "within_1": 0.655,
+   "pearson": 0.3553,
+   "ece": 0.4869
+  },
+  "latency_ms": {
+   "median": 2133.1,
+   "p90": 3488.9,
+   "p95": 4163.9,
+   "n": 600
+  },
+  "mean_tokens_per_question": {
+   "choice": {
+    "input": 161.9,
+    "output": 21.9
+   },
+   "noul": {
+    "input": 144.2,
+    "output": 20.9
+   },
+   "score": {
+    "input": 163.3,
+    "output": 20.5
+   }
+  },
+  "usd_per_1000_turns": 1.5718,
+  "price_usd_per_1m_tokens": {
+   "input": 2.0,
+   "output": 10.0
+  },
+  "price_source": "https://developers.openai.com/api/docs/pricing (standard short-context, fetched 2026-11-16)",
+  "self_disagreement_rate": 0.03,
+  "self_disagreement_n": 100,
+  "self_disagreement_by_type": {
+   "choice": 0.0588,
+   "noul": 0.0,
+   "score": 0.0303
+  }
+ },
+ {
+  "system": "typesafe:jev-latest",
+  "n_answers": 600,
+  "status_counts": {
+   "200": 600
+  },
+  "served_model": [
+   "jev-1.14.0"
+  ],
+  "choice": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.665,
+   "ece": 0.1661,
+   "accuracy_counting_failures_wrong": 0.665
+  },
+  "noul": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "accuracy": 0.76,
+   "ece": 0.1117,
+   "accuracy_counting_failures_wrong": 0.76
+  },
+  "score": {
+   "n": 200,
+   "n_ok": 200,
+   "parse_fail_rate": 0.0,
+   "mae": 0.9928,
+   "within_1": 0.59,
+   "pearson": 0.3614,
+   "ece": 0.3604
+  },
+  "latency_ms": {
+   "median": 119.0,
+   "p90": 151.8,
+   "p95": 159.3,
+   "n": 600
+  },
+  "mean_tokens_per_question": {
+   "choice": {
+    "input": 370.0,
+    "output": 69.1
+   },
+   "noul": {
+    "input": 325.6,
+    "output": 20.0
+   },
+   "score": {
+    "input": 387.0,
+    "output": 17.0
+   }
+  },
+  "usd_per_1000_turns": 0.0455,
+  "price_usd_per_1m_tokens": {
+   "input": 0.042,
+   "output": 0.0
+  },
+  "price_source": "https://docs.typesafe.ai/models (fetched 2026-11-16)",
+  "self_disagreement_rate": 0.29,
+  "self_disagreement_n": 100,
+  "self_disagreement_by_type": {
+   "choice": 0.0588,
+   "noul": 0.0303,
+   "score": 0.7879
+  }
+ }
+]

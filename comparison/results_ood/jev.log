@@ -1,0 +1,702 @@
+live Jev jev-latest: 600 answers + 100 repeats, workers=6
+1 answers ood-carer-choice-0001 200 123.5 {'answer': 'anger', 'confidence': 0.42, 'probabilities': {'anger': 0.52, 'fear': 0.19, 'joy': 0.0, 'love': 0.0, 'sadness': 0.28, 'surprise': 0.01}}
+2 answers ood-carer-choice-0002 200 126.3 {'answer': 'fear', 'confidence': 0.84, 'probabilities': {'anger': 0.0, 'fear': 0.87, 'joy': 0.0, 'love': 0.0, 'sadness': 0.13, 'surprise': 0.0}}
+3 answers ood-carer-choice-0003 200 128.7 {'answer': 'love', 'confidence': 0.95, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.04, 'love': 0.96, 'sadness': 0.0, 'surprise': 0.0}}
+4 answers ood-carer-choice-0006 200 130.2 {'answer': 'surprise', 'confidence': 0.38, 'probabilities': {'anger': 0.05, 'fear': 0.03, 'joy': 0.01, 'love': 0.01, 'sadness': 0.42, 'surprise': 0.48}}
+5 answers ood-carer-choice-0005 200 133.1 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+6 answers ood-carer-choice-0004 200 148.0 {'answer': 'joy', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.93, 'love': 0.03, 'sadness': 0.01, 'surprise': 0.03}}
+7 answers ood-carer-choice-0012 200 54.2 {'answer': 'joy', 'confidence': 0.7, 'probabilities': {'anger': 0.0, 'fear': 0.01, 'joy': 0.75, 'love': 0.02, 'sadness': 0.0, 'surprise': 0.22}}
+8 answers ood-carer-choice-0009 200 94.2 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+9 answers ood-carer-choice-0010 200 112.7 {'answer': 'love', 'confidence': 0.75, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.21, 'love': 0.79, 'sadness': 0.0, 'surprise': 0.0}}
+10 answers ood-carer-choice-0011 200 111.3 {'answer': 'sadness', 'confidence': 0.96, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.03, 'sadness': 0.97, 'surprise': 0.0}}
+11 answers ood-carer-choice-0008 200 132.6 {'answer': 'fear', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'fear': 0.93, 'joy': 0.0, 'love': 0.0, 'sadness': 0.07, 'surprise': 0.0}}
+12 answers ood-carer-choice-0007 200 140.1 {'answer': 'fear', 'confidence': 0.59, 'probabilities': {'anger': 0.05, 'fear': 0.66, 'joy': 0.0, 'love': 0.0, 'sadness': 0.29, 'surprise': 0.0}}
+13 answers ood-carer-choice-0013 200 114.4 {'answer': 'sadness', 'confidence': 0.77, 'probabilities': {'anger': 0.1, 'fear': 0.01, 'joy': 0.04, 'love': 0.01, 'sadness': 0.81, 'surprise': 0.03}}
+14 answers ood-carer-choice-0017 200 80.1 {'answer': 'sadness', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'fear': 0.02, 'joy': 0.0, 'love': 0.0, 'sadness': 0.98, 'surprise': 0.0}}
+15 answers ood-carer-choice-0016 200 95.4 {'answer': 'sadness', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'fear': 0.06, 'joy': 0.0, 'love': 0.01, 'sadness': 0.93, 'surprise': 0.0}}
+16 answers ood-carer-choice-0014 200 126.8 {'answer': 'fear', 'confidence': 0.23, 'probabilities': {'anger': 0.0, 'fear': 0.36, 'joy': 0.32, 'love': 0.32, 'sadness': 0.0, 'surprise': 0.0}}
+17 answers ood-carer-choice-0015 200 117.2 {'answer': 'joy', 'confidence': 0.72, 'probabilities': {'anger': 0.07, 'fear': 0.11, 'joy': 0.77, 'love': 0.02, 'sadness': 0.01, 'surprise': 0.02}}
+18 answers ood-carer-choice-0018 200 112.0 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+19 answers ood-carer-choice-0022 200 72.3 {'answer': 'joy', 'confidence': 0.78, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.82, 'love': 0.18, 'sadness': 0.0, 'surprise': 0.0}}
+20 answers ood-carer-choice-0019 200 115.5 {'answer': 'anger', 'confidence': 0.76, 'probabilities': {'anger': 0.8, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.2, 'surprise': 0.0}}
+21 answers ood-carer-choice-0020 200 106.2 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}}
+22 answers ood-carer-choice-0023 200 82.8 {'answer': 'anger', 'confidence': 0.29, 'probabilities': {'anger': 0.41, 'fear': 0.0, 'joy': 0.26, 'love': 0.15, 'sadness': 0.18, 'surprise': 0.0}}
+23 answers ood-carer-choice-0021 200 138.2 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+24 answers ood-carer-choice-0024 200 115.8 {'answer': 'surprise', 'confidence': 0.95, 'probabilities': {'anger': 0.01, 'fear': 0.03, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.96}}
+25 answers ood-carer-choice-0026 200 90.7 {'answer': 'fear', 'confidence': 0.63, 'probabilities': {'anger': 0.0, 'fear': 0.69, 'joy': 0.0, 'love': 0.0, 'sadness': 0.31, 'surprise': 0.0}}
+26 answers ood-carer-choice-0027 200 109.7 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+27 answers ood-carer-choice-0028 200 110.3 {'answer': 'anger', 'confidence': 0.47, 'probabilities': {'anger': 0.56, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.43, 'surprise': 0.0}}
+28 answers ood-carer-choice-0030 200 84.3 {'answer': 'fear', 'confidence': 0.88, 'probabilities': {'anger': 0.0, 'fear': 0.9, 'joy': 0.0, 'love': 0.0, 'sadness': 0.1, 'surprise': 0.0}}
+29 answers ood-carer-choice-0029 200 107.1 {'answer': 'sadness', 'confidence': 0.44, 'probabilities': {'anger': 0.03, 'fear': 0.02, 'joy': 0.1, 'love': 0.03, 'sadness': 0.53, 'surprise': 0.29}}
+30 answers ood-carer-choice-0025 200 167.3 {'answer': 'joy', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.98, 'love': 0.02, 'sadness': 0.0, 'surprise': 0.0}}
+31 answers ood-carer-choice-0031 200 83.1 {'answer': 'sadness', 'confidence': 0.86, 'probabilities': {'anger': 0.01, 'fear': 0.07, 'joy': 0.01, 'love': 0.0, 'sadness': 0.88, 'surprise': 0.03}}
+32 answers ood-carer-choice-0033 200 95.6 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+33 answers ood-carer-choice-0036 200 80.1 {'answer': 'joy', 'confidence': 0.52, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.6, 'love': 0.37, 'sadness': 0.0, 'surprise': 0.03}}
+34 answers ood-carer-choice-0032 200 121.7 {'answer': 'fear', 'confidence': 0.69, 'probabilities': {'anger': 0.01, 'fear': 0.74, 'joy': 0.0, 'love': 0.0, 'sadness': 0.24, 'surprise': 0.01}}
+35 answers ood-carer-choice-0034 200 122.5 {'answer': 'joy', 'confidence': 0.22, 'probabilities': {'anger': 0.15, 'fear': 0.01, 'joy': 0.35, 'love': 0.35, 'sadness': 0.13, 'surprise': 0.01}}
+36 answers ood-carer-choice-0037 200 106.3 {'answer': 'sadness', 'confidence': 0.83, 'probabilities': {'anger': 0.02, 'fear': 0.02, 'joy': 0.0, 'love': 0.1, 'sadness': 0.86, 'surprise': 0.0}}
+37 answers ood-carer-choice-0035 200 135.1 {'answer': 'anger', 'confidence': 0.96, 'probabilities': {'anger': 0.97, 'fear': 0.03, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+38 answers ood-carer-choice-0038 200 110.6 {'answer': 'anger', 'confidence': 0.89, 'probabilities': {'anger': 0.91, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.02, 'surprise': 0.06}}
+39 answers ood-carer-choice-0039 200 122.0 {'answer': 'sadness', 'confidence': 0.58, 'probabilities': {'anger': 0.12, 'fear': 0.1, 'joy': 0.07, 'love': 0.01, 'sadness': 0.65, 'surprise': 0.05}}
+40 answers ood-carer-choice-0040 200 123.1 {'answer': 'sadness', 'confidence': 0.92, 'probabilities': {'anger': 0.01, 'fear': 0.04, 'joy': 0.0, 'love': 0.02, 'sadness': 0.93, 'surprise': 0.0}}
+41 answers ood-carer-choice-0041 200 118.9 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}}
+42 answers ood-carer-choice-0042 200 101.4 {'answer': 'fear', 'confidence': 0.72, 'probabilities': {'anger': 0.0, 'fear': 0.77, 'joy': 0.06, 'love': 0.05, 'sadness': 0.01, 'surprise': 0.11}}
+43 answers ood-carer-choice-0043 200 106.0 {'answer': 'love', 'confidence': 0.62, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.32, 'love': 0.68, 'sadness': 0.0, 'surprise': 0.0}}
+44 answers ood-carer-choice-0045 200 64.8 {'answer': 'love', 'confidence': 0.93, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.06, 'love': 0.94, 'sadness': 0.0, 'surprise': 0.0}}
+45 answers ood-carer-choice-0044 200 112.4 {'answer': 'anger', 'confidence': 0.45, 'probabilities': {'anger': 0.54, 'fear': 0.46, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+46 answers ood-carer-choice-0047 200 121.8 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}}
+47 answers ood-carer-choice-0046 200 138.5 {'answer': 'love', 'confidence': 0.84, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.13, 'love': 0.87, 'sadness': 0.0, 'surprise': 0.0}}
+48 answers ood-carer-choice-0049 200 126.8 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 1.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+49 answers ood-carer-choice-0051 200 128.1 {'answer': 'love', 'confidence': 0.98, 'probabilities': {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.98, 'sadness': 0.01, 'surprise': 0.0}}
+50 answers ood-carer-choice-0052 200 109.0 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+51 answers ood-carer-choice-0053 200 117.6 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+52 answers ood-carer-choice-0054 200 131.4 {'answer': 'sadness', 'confidence': 0.82, 'probabilities': {'anger': 0.0, 'fear': 0.01, 'joy': 0.14, 'love': 0.0, 'sadness': 0.85, 'surprise': 0.0}}
+53 answers ood-carer-choice-0048 200 278.4 {'answer': 'sadness', 'confidence': 0.68, 'probabilities': {'anger': 0.0, 'fear': 0.27, 'joy': 0.0, 'love': 0.0, 'sadness': 0.73, 'surprise': 0.0}}
+54 answers ood-carer-choice-0050 200 272.9 {'answer': 'sadness', 'confidence': 0.57, 'probabilities': {'anger': 0.01, 'fear': 0.34, 'joy': 0.0, 'love': 0.0, 'sadness': 0.64, 'surprise': 0.01}}
+55 answers ood-carer-choice-0055 200 182.0 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+56 answers ood-carer-choice-0059 200 104.5 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+57 answers ood-carer-choice-0060 200 81.8 {'answer': 'fear', 'confidence': 0.65, 'probabilities': {'anger': 0.01, 'fear': 0.71, 'joy': 0.21, 'love': 0.01, 'sadness': 0.06, 'surprise': 0.0}}
+58 answers ood-carer-choice-0058 200 126.3 {'answer': 'joy', 'confidence': 0.4, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.5, 'love': 0.49, 'sadness': 0.01, 'surprise': 0.0}}
+59 answers ood-carer-choice-0056 200 166.4 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 1.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+60 answers ood-carer-choice-0057 200 168.2 {'answer': 'sadness', 'confidence': 0.72, 'probabilities': {'anger': 0.23, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.77, 'surprise': 0.0}}
+61 answers ood-carer-choice-0061 200 61.1 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}}
+62 answers ood-carer-choice-0064 200 107.8 {'answer': 'sadness', 'confidence': 0.95, 'probabilities': {'anger': 0.04, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.96, 'surprise': 0.0}}
+63 answers ood-carer-choice-0067 200 76.3 {'answer': 'surprise', 'confidence': 0.29, 'probabilities': {'anger': 0.4, 'fear': 0.01, 'joy': 0.01, 'love': 0.01, 'sadness': 0.16, 'surprise': 0.41}}
+64 answers ood-carer-choice-0062 200 129.2 {'answer': 'joy', 'confidence': 0.93, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.94, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.06}}
+65 answers ood-carer-choice-0065 200 116.1 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+66 answers ood-carer-choice-0063 200 135.0 {'answer': 'joy', 'confidence': 0.87, 'probabilities': {'anger': 0.0, 'fear': 0.11, 'joy': 0.89, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+67 answers ood-carer-choice-0066 200 125.2 {'answer': 'surprise', 'confidence': 0.26, 'probabilities': {'anger': 0.0, 'fear': 0.11, 'joy': 0.26, 'love': 0.16, 'sadness': 0.09, 'surprise': 0.38}}
+68 answers ood-carer-choice-0069 200 133.0 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 1.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+69 answers ood-carer-choice-0070 200 135.6 {'answer': 'sadness', 'confidence': 0.93, 'probabilities': {'anger': 0.01, 'fear': 0.05, 'joy': 0.0, 'love': 0.0, 'sadness': 0.94, 'surprise': 0.0}}
+70 answers ood-carer-choice-0071 200 150.3 {'answer': 'sadness', 'confidence': 0.71, 'probabilities': {'anger': 0.19, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.76, 'surprise': 0.05}}
+71 answers ood-carer-choice-0072 200 137.1 {'answer': 'love', 'confidence': 0.59, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.3, 'love': 0.66, 'sadness': 0.0, 'surprise': 0.04}}
+72 answers ood-carer-choice-0073 200 135.0 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+73 answers ood-carer-choice-0068 200 174.5 {'answer': 'joy', 'confidence': 0.72, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.77, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.23}}
+74 answers ood-carer-choice-0075 200 99.5 {'answer': 'joy', 'confidence': 0.77, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.81, 'love': 0.01, 'sadness': 0.18, 'surprise': 0.0}}
+75 answers ood-carer-choice-0079 200 93.8 {'answer': 'love', 'confidence': 0.94, 'probabilities': {'anger': 0.01, 'fear': 0.0, 'joy': 0.04, 'love': 0.95, 'sadness': 0.0, 'surprise': 0.0}}
+76 answers ood-carer-choice-0078 200 118.0 {'answer': 'surprise', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 1.0}}
+77 answers ood-carer-choice-0077 200 120.9 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+78 answers ood-carer-choice-0074 200 152.1 {'answer': 'fear', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'fear': 0.93, 'joy': 0.0, 'love': 0.0, 'sadness': 0.07, 'surprise': 0.0}}
+79 answers ood-carer-choice-0076 200 150.5 {'answer': 'love', 'confidence': 0.6, 'probabilities': {'anger': 0.0, 'fear': 0.25, 'joy': 0.05, 'love': 0.67, 'sadness': 0.02, 'surprise': 0.01}}
+80 answers ood-carer-choice-0083 200 101.9 {'answer': 'sadness', 'confidence': 0.28, 'probabilities': {'anger': 0.02, 'fear': 0.22, 'joy': 0.05, 'love': 0.3, 'sadness': 0.4, 'surprise': 0.01}}
+81 answers ood-carer-choice-0081 200 120.8 {'answer': 'love', 'confidence': 0.5, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.41, 'love': 0.58, 'sadness': 0.01, 'surprise': 0.0}}
+82 answers ood-carer-choice-0082 200 110.5 {'answer': 'anger', 'confidence': 0.33, 'probabilities': {'anger': 0.44, 'fear': 0.01, 'joy': 0.35, 'love': 0.18, 'sadness': 0.01, 'surprise': 0.01}}
+83 answers ood-carer-choice-0084 200 124.7 {'answer': 'joy', 'confidence': 0.53, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.61, 'love': 0.38, 'sadness': 0.0, 'surprise': 0.01}}
+84 answers ood-carer-choice-0080 200 182.9 {'answer': 'fear', 'confidence': 0.45, 'probabilities': {'anger': 0.0, 'fear': 0.54, 'joy': 0.0, 'love': 0.0, 'sadness': 0.46, 'surprise': 0.0}}
+85 answers ood-carer-choice-0085 200 123.0 {'answer': 'love', 'confidence': 0.5, 'probabilities': {'anger': 0.11, 'fear': 0.01, 'joy': 0.26, 'love': 0.58, 'sadness': 0.01, 'surprise': 0.03}}
+86 answers ood-carer-choice-0088 200 100.2 {'answer': 'joy', 'confidence': 0.95, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.96, 'love': 0.04, 'sadness': 0.0, 'surprise': 0.0}}
+87 answers ood-carer-choice-0086 200 115.1 {'answer': 'anger', 'confidence': 0.65, 'probabilities': {'anger': 0.71, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.28, 'surprise': 0.0}}
+88 answers ood-carer-choice-0087 200 126.0 {'answer': 'sadness', 'confidence': 0.98, 'probabilities': {'anger': 0.01, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.98, 'surprise': 0.0}}
+89 answers ood-carer-choice-0089 200 118.9 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 1.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+90 answers ood-carer-choice-0090 200 108.0 {'answer': 'fear', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'fear': 0.99, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.01}}
+91 answers ood-carer-choice-0091 200 138.7 {'answer': 'sadness', 'confidence': 0.83, 'probabilities': {'anger': 0.01, 'fear': 0.01, 'joy': 0.02, 'love': 0.01, 'sadness': 0.86, 'surprise': 0.09}}
+92 answers ood-carer-choice-0092 200 106.7 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}}
+93 answers ood-carer-choice-0093 200 119.1 {'answer': 'surprise', 'confidence': 0.48, 'probabilities': {'anger': 0.0, 'fear': 0.04, 'joy': 0.35, 'love': 0.03, 'sadness': 0.01, 'surprise': 0.57}}
+94 answers ood-carer-choice-0095 200 103.8 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+95 answers ood-carer-choice-0096 200 102.6 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.01}}
+96 answers ood-carer-choice-0097 200 74.4 {'answer': 'anger', 'confidence': 0.95, 'probabilities': {'anger': 0.96, 'fear': 0.0, 'joy': 0.04, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+97 answers ood-carer-choice-0098 200 84.2 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 1.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+98 answers ood-ew-choice-0001 200 55.3 {'answer': 'dissatisfied', 'confidence': 0.95, 'probabilities': {'abusive': 0.01, 'apologetic': 0.0, 'dissatisfied': 0.96, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.03}}
+99 answers ood-carer-choice-0094 200 189.9 {'answer': 'joy', 'confidence': 0.65, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.71, 'love': 0.05, 'sadness': 0.24, 'surprise': 0.0}}
+100 answers ood-ew-choice-0002 200 60.4 {'answer': 'apologetic', 'confidence': 0.92, 'probabilities': {'abusive': 0.0, 'apologetic': 0.93, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.07, 'satisfied': 0.0}}
+101 answers ood-carer-choice-0100 200 100.1 {'answer': 'love', 'confidence': 0.41, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.42, 'love': 0.51, 'sadness': 0.06, 'surprise': 0.01}}
+102 answers ood-carer-choice-0099 200 132.0 {'answer': 'joy', 'confidence': 0.88, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.9, 'love': 0.1, 'sadness': 0.0, 'surprise': 0.0}}
+103 answers ood-ew-choice-0006 200 70.6 {'answer': 'satisfied', 'confidence': 0.88, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.08, 'fearful': 0.0, 'neutral': 0.02, 'satisfied': 0.9}}
+104 answers ood-ew-choice-0004 200 110.0 {'answer': 'satisfied', 'confidence': 0.49, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.18, 'fearful': 0.0, 'neutral': 0.26, 'satisfied': 0.56}}
+105 answers ood-ew-choice-0005 200 103.6 {'answer': 'dissatisfied', 'confidence': 0.68, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.73, 'excited': 0.01, 'fearful': 0.0, 'neutral': 0.26, 'satisfied': 0.0}}
+106 answers ood-ew-choice-0007 200 106.0 {'answer': 'satisfied', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.01, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.99}}
+107 answers ood-ew-choice-0003 200 175.0 {'answer': 'neutral', 'confidence': 0.58, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.36, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.64, 'satisfied': 0.0}}
+108 answers ood-ew-choice-0008 200 140.9 {'answer': 'dissatisfied', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 1.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+109 answers ood-ew-choice-0010 200 110.1 {'answer': 'satisfied', 'confidence': 0.95, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.04, 'satisfied': 0.96}}
+110 answers ood-ew-choice-0011 200 121.2 {'answer': 'excited', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 1.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+111 answers ood-ew-choice-0009 200 159.0 {'answer': 'neutral', 'confidence': 0.36, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.25, 'fearful': 0.0, 'neutral': 0.45, 'satisfied': 0.3}}
+112 answers ood-ew-choice-0013 200 103.9 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+113 answers ood-ew-choice-0012 200 131.6 {'answer': 'neutral', 'confidence': 0.86, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.12, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.88, 'satisfied': 0.0}}
+114 answers ood-ew-choice-0015 200 96.1 {'answer': 'dissatisfied', 'confidence': 0.98, 'probabilities': {'abusive': 0.02, 'apologetic': 0.0, 'dissatisfied': 0.98, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+115 answers ood-ew-choice-0017 200 75.2 {'answer': 'dissatisfied', 'confidence': 0.52, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.59, 'excited': 0.01, 'fearful': 0.0, 'neutral': 0.38, 'satisfied': 0.02}}
+116 answers ood-ew-choice-0014 200 139.7 {'answer': 'neutral', 'confidence': 0.57, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.63, 'satisfied': 0.37}}
+117 answers ood-ew-choice-0018 200 75.2 {'answer': 'excited', 'confidence': 0.45, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.53, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.46}}
+118 answers ood-ew-choice-0019 200 131.4 {'answer': 'fearful', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 1.0, 'neutral': 0.0, 'satisfied': 0.0}}
+119 answers ood-ew-choice-0016 200 171.2 {'answer': 'apologetic', 'confidence': 0.62, 'probabilities': {'abusive': 0.0, 'apologetic': 0.67, 'dissatisfied': 0.01, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.32, 'satisfied': 0.0}}
+120 answers ood-ew-choice-0020 200 94.6 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+121 answers ood-ew-choice-0023 200 100.8 {'answer': 'apologetic', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.99, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.0}}
+122 answers ood-ew-choice-0022 200 111.8 {'answer': 'dissatisfied', 'confidence': 0.7, 'probabilities': {'abusive': 0.26, 'apologetic': 0.0, 'dissatisfied': 0.74, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+123 answers ood-ew-choice-0021 200 151.5 {'answer': 'satisfied', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.99}}
+124 answers ood-ew-choice-0026 200 97.7 {'answer': 'apologetic', 'confidence': 0.96, 'probabilities': {'abusive': 0.0, 'apologetic': 0.97, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.03, 'satisfied': 0.0}}
+125 answers ood-ew-choice-0025 200 119.5 {'answer': 'excited', 'confidence': 0.98, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.98, 'fearful': 0.0, 'neutral': 0.02, 'satisfied': 0.0}}
+126 answers ood-ew-choice-0024 200 125.6 {'answer': 'dissatisfied', 'confidence': 0.68, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.73, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.27, 'satisfied': 0.0}}
+127 answers ood-ew-choice-0029 200 61.4 {'answer': 'dissatisfied', 'confidence': 0.57, 'probabilities': {'abusive': 0.3, 'apologetic': 0.0, 'dissatisfied': 0.63, 'excited': 0.06, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.0}}
+128 answers ood-ew-choice-0027 200 110.6 {'answer': 'neutral', 'confidence': 0.96, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.03, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.97, 'satisfied': 0.0}}
+129 answers ood-ew-choice-0028 200 107.4 {'answer': 'satisfied', 'confidence': 0.88, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.1, 'satisfied': 0.9}}
+130 answers ood-ew-choice-0030 200 108.2 {'answer': 'neutral', 'confidence': 0.91, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.08, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.92, 'satisfied': 0.0}}
+131 answers ood-ew-choice-0032 200 110.6 {'answer': 'neutral', 'confidence': 0.98, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.02, 'fearful': 0.0, 'neutral': 0.98, 'satisfied': 0.0}}
+132 answers ood-ew-choice-0033 200 109.8 {'answer': 'dissatisfied', 'confidence': 0.58, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.64, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.36, 'satisfied': 0.0}}
+133 answers ood-ew-choice-0034 200 101.9 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+134 answers ood-ew-choice-0031 200 133.7 {'answer': 'dissatisfied', 'confidence': 0.65, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.7, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.3, 'satisfied': 0.0}}
+135 answers ood-ew-choice-0035 200 108.4 {'answer': 'satisfied', 'confidence': 0.96, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.03, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.97}}
+136 answers ood-ew-choice-0036 200 88.5 {'answer': 'dissatisfied', 'confidence': 0.81, 'probabilities': {'abusive': 0.15, 'apologetic': 0.0, 'dissatisfied': 0.84, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.0}}
+137 answers ood-ew-choice-0041 200 96.4 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.01, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.99, 'satisfied': 0.0}}
+138 answers ood-ew-choice-0038 200 124.6 {'answer': 'excited', 'confidence': 0.91, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.92, 'fearful': 0.0, 'neutral': 0.08, 'satisfied': 0.0}}
+139 answers ood-ew-choice-0037 200 130.7 {'answer': 'neutral', 'confidence': 0.95, 'probabilities': {'abusive': 0.0, 'apologetic': 0.01, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.96, 'satisfied': 0.03}}
+140 answers ood-ew-choice-0039 200 128.3 {'answer': 'excited', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 1.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+141 answers ood-ew-choice-0042 200 110.6 {'answer': 'satisfied', 'confidence': 0.68, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.27, 'satisfied': 0.73}}
+142 answers ood-ew-choice-0040 200 171.5 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.01, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.99, 'satisfied': 0.0}}
+143 answers ood-ew-choice-0045 200 62.6 {'answer': 'neutral', 'confidence': 0.98, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.02, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.98, 'satisfied': 0.0}}
+144 answers ood-ew-choice-0044 200 82.5 {'answer': 'apologetic', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 1.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+145 answers ood-ew-choice-0043 200 124.4 {'answer': 'dissatisfied', 'confidence': 0.99, 'probabilities': {'abusive': 0.01, 'apologetic': 0.0, 'dissatisfied': 0.99, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+146 answers ood-ew-choice-0046 200 118.6 {'answer': 'neutral', 'confidence': 0.85, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.13, 'fearful': 0.0, 'neutral': 0.87, 'satisfied': 0.0}}
+147 answers ood-ew-choice-0048 200 99.6 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+148 answers ood-ew-choice-0047 200 135.8 {'answer': 'dissatisfied', 'confidence': 0.51, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.58, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.42, 'satisfied': 0.0}}
+149 answers ood-ew-choice-0050 200 125.7 {'answer': 'dissatisfied', 'confidence': 0.74, 'probabilities': {'abusive': 0.22, 'apologetic': 0.0, 'dissatisfied': 0.78, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+150 answers ood-ew-choice-0049 200 144.4 {'answer': 'satisfied', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 1.0}}
+151 answers ood-ew-choice-0052 200 80.4 {'answer': 'neutral', 'confidence': 0.66, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.29, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.71, 'satisfied': 0.0}}
+152 answers ood-ew-choice-0053 200 68.4 {'answer': 'excited', 'confidence': 0.95, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.96, 'fearful': 0.0, 'neutral': 0.03, 'satisfied': 0.01}}
+153 answers ood-ew-choice-0051 200 133.5 {'answer': 'apologetic', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 1.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+154 answers ood-ew-choice-0054 200 99.2 {'answer': 'dissatisfied', 'confidence': 0.52, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.59, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.41, 'satisfied': 0.0}}
+155 answers ood-ew-choice-0056 200 95.7 {'answer': 'satisfied', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 1.0}}
+156 answers ood-ew-choice-0055 200 133.8 {'answer': 'satisfied', 'confidence': 0.96, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.02, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.97}}
+157 answers ood-ew-choice-0057 200 121.7 {'answer': 'dissatisfied', 'confidence': 0.74, 'probabilities': {'abusive': 0.22, 'apologetic': 0.0, 'dissatisfied': 0.78, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+158 answers ood-ew-choice-0058 200 113.4 {'answer': 'apologetic', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.99, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.0}}
+159 answers ood-ew-choice-0059 200 110.7 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.01, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.99, 'satisfied': 0.0}}
+160 answers ood-ew-choice-0061 200 83.2 {'answer': 'neutral', 'confidence': 0.73, 'probabilities': {'abusive': 0.0, 'apologetic': 0.22, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.01, 'neutral': 0.77, 'satisfied': 0.0}}
+161 answers ood-ew-choice-0060 200 113.8 {'answer': 'neutral', 'confidence': 0.52, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.39, 'fearful': 0.0, 'neutral': 0.59, 'satisfied': 0.02}}
+162 answers ood-ew-choice-0064 200 111.5 {'answer': 'neutral', 'confidence': 0.63, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.26, 'excited': 0.06, 'fearful': 0.0, 'neutral': 0.68, 'satisfied': 0.0}}
+163 answers ood-ew-choice-0063 200 121.3 {'answer': 'satisfied', 'confidence': 0.53, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.2, 'fearful': 0.0, 'neutral': 0.2, 'satisfied': 0.6}}
+164 answers ood-ew-choice-0065 200 101.3 {'answer': 'apologetic', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 1.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+165 answers ood-ew-choice-0062 200 130.2 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+166 answers ood-ew-choice-0066 200 100.2 {'answer': 'dissatisfied', 'confidence': 0.71, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.75, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.25, 'satisfied': 0.0}}
+167 answers ood-ew-choice-0067 200 117.4 {'answer': 'neutral', 'confidence': 0.92, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.07, 'fearful': 0.0, 'neutral': 0.93, 'satisfied': 0.0}}
+168 answers ood-ew-choice-0070 200 71.6 {'answer': 'satisfied', 'confidence': 0.88, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.09, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.9}}
+169 answers ood-ew-choice-0069 200 99.7 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+170 answers ood-ew-choice-0068 200 130.0 {'answer': 'dissatisfied', 'confidence': 0.63, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.68, 'excited': 0.13, 'fearful': 0.0, 'neutral': 0.19, 'satisfied': 0.0}}
+171 answers ood-ew-choice-0071 200 115.8 {'answer': 'dissatisfied', 'confidence': 0.71, 'probabilities': {'abusive': 0.25, 'apologetic': 0.0, 'dissatisfied': 0.75, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+172 answers ood-ew-choice-0072 200 109.3 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.99, 'satisfied': 0.01}}
+173 answers ood-ew-choice-0075 200 88.6 {'answer': 'dissatisfied', 'confidence': 0.44, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.52, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.48, 'satisfied': 0.0}}
+174 answers ood-ew-choice-0073 200 138.0 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.01, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.99, 'satisfied': 0.0}}
+175 answers ood-ew-choice-0076 200 119.2 {'answer': 'satisfied', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.01, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.99}}
+176 answers ood-ew-choice-0078 200 103.6 {'answer': 'dissatisfied', 'confidence': 0.67, 'probabilities': {'abusive': 0.28, 'apologetic': 0.0, 'dissatisfied': 0.72, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+177 answers ood-ew-choice-0074 200 182.0 {'answer': 'satisfied', 'confidence': 0.98, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.02, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.98}}
+178 answers ood-ew-choice-0077 200 141.3 {'answer': 'satisfied', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 1.0}}
+179 answers ood-ew-choice-0080 200 78.2 {'answer': 'neutral', 'confidence': 0.6, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.34, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.66, 'satisfied': 0.0}}
+180 answers ood-ew-choice-0079 200 108.9 {'answer': 'apologetic', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 1.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+181 answers ood-ew-choice-0081 200 94.5 {'answer': 'excited', 'confidence': 0.54, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.61, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.38}}
+182 answers ood-ew-choice-0083 200 85.6 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+183 answers ood-ew-choice-0082 200 108.1 {'answer': 'dissatisfied', 'confidence': 0.95, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.96, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.04, 'satisfied': 0.0}}
+184 answers ood-ew-choice-0084 200 133.4 {'answer': 'satisfied', 'confidence': 0.46, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.46, 'satisfied': 0.54}}
+185 answers ood-ew-choice-0088 200 67.9 {'answer': 'satisfied', 'confidence': 0.7, 'probabilities': {'abusive': 0.0, 'apologetic': 0.03, 'dissatisfied': 0.01, 'excited': 0.07, 'fearful': 0.0, 'neutral': 0.15, 'satisfied': 0.74}}
+186 answers ood-ew-choice-0085 200 136.2 {'answer': 'dissatisfied', 'confidence': 0.99, 'probabilities': {'abusive': 0.01, 'apologetic': 0.0, 'dissatisfied': 0.99, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+187 answers ood-ew-choice-0086 200 116.6 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+188 answers ood-ew-choice-0087 200 106.3 {'answer': 'neutral', 'confidence': 0.95, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.04, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.96, 'satisfied': 0.0}}
+189 answers ood-ew-choice-0089 200 103.3 {'answer': 'neutral', 'confidence': 0.92, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.07, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.93, 'satisfied': 0.0}}
+190 answers ood-ew-choice-0091 200 112.5 {'answer': 'satisfied', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 1.0}}
+191 answers ood-ew-choice-0090 200 129.7 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+192 answers ood-ew-choice-0093 200 125.8 {'answer': 'satisfied', 'confidence': 0.45, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.47, 'satisfied': 0.53}}
+193 answers ood-ew-choice-0092 200 138.2 {'answer': 'abusive', 'confidence': 0.78, 'probabilities': {'abusive': 0.81, 'apologetic': 0.0, 'dissatisfied': 0.19, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+194 answers ood-ew-choice-0094 200 112.5 {'answer': 'neutral', 'confidence': 0.87, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.89, 'satisfied': 0.11}}
+195 answers ood-ew-choice-0095 200 114.7 {'answer': 'neutral', 'confidence': 0.77, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.2, 'fearful': 0.0, 'neutral': 0.8, 'satisfied': 0.0}}
+196 answers ood-ew-choice-0097 200 81.4 {'answer': 'neutral', 'confidence': 0.78, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.19, 'fearful': 0.0, 'neutral': 0.81, 'satisfied': 0.0}}
+197 answers ood-ew-choice-0096 200 128.6 {'answer': 'dissatisfied', 'confidence': 0.86, 'probabilities': {'abusive': 0.0, 'apologetic': 0.01, 'dissatisfied': 0.88, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.11, 'satisfied': 0.0}}
+198 answers ood-ew-choice-0100 200 100.4 {'answer': 'apologetic', 'confidence': 0.8, 'probabilities': {'abusive': 0.0, 'apologetic': 0.83, 'dissatisfied': 0.01, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.16, 'satisfied': 0.0}}
+199 answers ood-meld-choice-0001 200 91.2 {'answer': 'joy', 'confidence': 0.37, 'probabilities': {'anger': 0.03, 'disgust': 0.02, 'fear': 0.01, 'joy': 0.46, 'neutral': 0.32, 'sadness': 0.01, 'surprise': 0.15}}
+200 answers ood-ew-choice-0098 200 130.5 {'answer': 'satisfied', 'confidence': 0.62, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.32, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.67}}
+201 answers ood-ew-choice-0099 200 140.3 {'answer': 'dissatisfied', 'confidence': 0.48, 'probabilities': {'abusive': 0.45, 'apologetic': 0.0, 'dissatisfied': 0.55, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+202 answers ood-meld-choice-0002 200 99.1 {'answer': 'anger', 'confidence': 0.98, 'probabilities': {'anger': 0.98, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.01, 'surprise': 0.0}}
+203 answers ood-meld-choice-0003 200 114.2 {'answer': 'sadness', 'confidence': 0.93, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.02, 'joy': 0.0, 'neutral': 0.04, 'sadness': 0.94, 'surprise': 0.0}}
+204 answers ood-meld-choice-0004 200 130.4 {'answer': 'joy', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.98, 'neutral': 0.02, 'sadness': 0.0, 'surprise': 0.0}}
+205 answers ood-meld-choice-0006 200 124.9 {'answer': 'neutral', 'confidence': 0.8, 'probabilities': {'anger': 0.03, 'disgust': 0.0, 'fear': 0.01, 'joy': 0.0, 'neutral': 0.83, 'sadness': 0.07, 'surprise': 0.06}}
+206 answers ood-meld-choice-0005 200 148.2 {'answer': 'surprise', 'confidence': 0.25, 'probabilities': {'anger': 0.03, 'disgust': 0.12, 'fear': 0.15, 'joy': 0.01, 'neutral': 0.31, 'sadness': 0.02, 'surprise': 0.36}}
+207 answers ood-meld-choice-0007 200 135.9 {'answer': 'surprise', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 1.0}}
+208 answers ood-meld-choice-0008 200 124.9 {'answer': 'neutral', 'confidence': 0.58, 'probabilities': {'anger': 0.1, 'disgust': 0.02, 'fear': 0.01, 'joy': 0.04, 'neutral': 0.64, 'sadness': 0.01, 'surprise': 0.18}}
+209 answers ood-meld-choice-0009 200 145.0 {'answer': 'anger', 'confidence': 0.42, 'probabilities': {'anger': 0.5, 'disgust': 0.07, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.01, 'sadness': 0.42, 'surprise': 0.0}}
+210 answers ood-meld-choice-0011 200 109.3 {'answer': 'disgust', 'confidence': 0.22, 'probabilities': {'anger': 0.2, 'disgust': 0.33, 'fear': 0.01, 'joy': 0.0, 'neutral': 0.32, 'sadness': 0.13, 'surprise': 0.01}}
+211 answers ood-meld-choice-0010 200 128.0 {'answer': 'sadness', 'confidence': 0.26, 'probabilities': {'anger': 0.03, 'disgust': 0.01, 'fear': 0.32, 'joy': 0.01, 'neutral': 0.26, 'sadness': 0.37, 'surprise': 0.0}}
+212 answers ood-meld-choice-0013 200 101.5 {'answer': 'anger', 'confidence': 0.73, 'probabilities': {'anger': 0.77, 'disgust': 0.06, 'fear': 0.0, 'joy': 0.02, 'neutral': 0.06, 'sadness': 0.04, 'surprise': 0.05}}
+213 answers ood-meld-choice-0012 200 116.8 {'answer': 'neutral', 'confidence': 0.52, 'probabilities': {'anger': 0.01, 'disgust': 0.11, 'fear': 0.0, 'joy': 0.27, 'neutral': 0.59, 'sadness': 0.0, 'surprise': 0.02}}
+214 answers ood-meld-choice-0014 200 124.5 {'answer': 'surprise', 'confidence': 0.16, 'probabilities': {'anger': 0.21, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.27, 'neutral': 0.21, 'sadness': 0.02, 'surprise': 0.28}}
+215 answers ood-meld-choice-0015 200 76.8 {'answer': 'surprise', 'confidence': 0.71, 'probabilities': {'anger': 0.12, 'disgust': 0.06, 'fear': 0.02, 'joy': 0.0, 'neutral': 0.05, 'sadness': 0.0, 'surprise': 0.75}}
+216 answers ood-meld-choice-0020 200 54.9 {'answer': 'surprise', 'confidence': 0.71, 'probabilities': {'anger': 0.01, 'disgust': 0.05, 'fear': 0.01, 'joy': 0.0, 'neutral': 0.07, 'sadness': 0.11, 'surprise': 0.75}}
+217 answers ood-meld-choice-0018 200 127.8 {'answer': 'joy', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.93, 'neutral': 0.06, 'sadness': 0.0, 'surprise': 0.01}}
+218 answers ood-meld-choice-0017 200 136.0 {'answer': 'surprise', 'confidence': 0.54, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.38, 'joy': 0.0, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.61}}
+219 answers ood-meld-choice-0016 200 148.6 {'answer': 'disgust', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 1.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+220 answers ood-meld-choice-0019 200 161.8 {'answer': 'neutral', 'confidence': 0.96, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.01, 'neutral': 0.97, 'sadness': 0.01, 'surprise': 0.01}}
+221 answers ood-meld-choice-0022 200 108.5 {'answer': 'anger', 'confidence': 0.82, 'probabilities': {'anger': 0.85, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.15}}
+222 answers ood-meld-choice-0023 200 81.8 {'answer': 'disgust', 'confidence': 0.82, 'probabilities': {'anger': 0.0, 'disgust': 0.85, 'fear': 0.0, 'joy': 0.02, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.13}}
+223 answers ood-meld-choice-0021 200 166.6 {'answer': 'surprise', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 1.0}}
+224 answers ood-meld-choice-0025 200 98.5 {'answer': 'neutral', 'confidence': 0.66, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.2, 'neutral': 0.71, 'sadness': 0.0, 'surprise': 0.09}}
+225 answers ood-meld-choice-0024 200 112.5 {'answer': 'neutral', 'confidence': 0.54, 'probabilities': {'anger': 0.01, 'disgust': 0.0, 'fear': 0.07, 'joy': 0.0, 'neutral': 0.61, 'sadness': 0.31, 'surprise': 0.0}}
+226 answers ood-meld-choice-0026 200 87.9 {'answer': 'neutral', 'confidence': 0.29, 'probabilities': {'anger': 0.34, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.19, 'neutral': 0.39, 'sadness': 0.01, 'surprise': 0.06}}
+227 answers ood-meld-choice-0028 200 61.8 {'answer': 'surprise', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'disgust': 0.02, 'fear': 0.02, 'joy': 0.0, 'neutral': 0.03, 'sadness': 0.0, 'surprise': 0.93}}
+228 answers ood-meld-choice-0027 200 79.6 {'answer': 'fear', 'confidence': 0.24, 'probabilities': {'anger': 0.01, 'disgust': 0.03, 'fear': 0.35, 'joy': 0.08, 'neutral': 0.26, 'sadness': 0.23, 'surprise': 0.04}}
+229 answers ood-meld-choice-0031 200 115.0 {'answer': 'surprise', 'confidence': 0.92, 'probabilities': {'anger': 0.0, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.01, 'neutral': 0.05, 'sadness': 0.0, 'surprise': 0.93}}
+230 answers ood-meld-choice-0029 200 129.3 {'answer': 'anger', 'confidence': 0.73, 'probabilities': {'anger': 0.77, 'disgust': 0.02, 'fear': 0.03, 'joy': 0.01, 'neutral': 0.03, 'sadness': 0.01, 'surprise': 0.13}}
+231 answers ood-meld-choice-0030 200 128.2 {'answer': 'sadness', 'confidence': 0.63, 'probabilities': {'anger': 0.08, 'disgust': 0.21, 'fear': 0.0, 'joy': 0.02, 'neutral': 0.01, 'sadness': 0.68, 'surprise': 0.0}}
+232 answers ood-meld-choice-0032 200 131.1 {'answer': 'joy', 'confidence': 0.88, 'probabilities': {'anger': 0.02, 'disgust': 0.02, 'fear': 0.01, 'joy': 0.9, 'neutral': 0.02, 'sadness': 0.0, 'surprise': 0.03}}
+233 answers ood-meld-choice-0034 200 127.2 {'answer': 'neutral', 'confidence': 0.76, 'probabilities': {'anger': 0.03, 'disgust': 0.01, 'fear': 0.01, 'joy': 0.01, 'neutral': 0.79, 'sadness': 0.01, 'surprise': 0.14}}
+234 answers ood-meld-choice-0033 200 143.5 {'answer': 'surprise', 'confidence': 0.48, 'probabilities': {'anger': 0.01, 'disgust': 0.01, 'fear': 0.1, 'joy': 0.03, 'neutral': 0.29, 'sadness': 0.01, 'surprise': 0.55}}
+235 answers ood-meld-choice-0035 200 105.3 {'answer': 'surprise', 'confidence': 0.46, 'probabilities': {'anger': 0.0, 'disgust': 0.01, 'fear': 0.05, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.4, 'surprise': 0.54}}
+236 answers ood-meld-choice-0039 200 94.4 {'answer': 'joy', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.99, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.0}}
+237 answers ood-meld-choice-0038 200 116.1 {'answer': 'fear', 'confidence': 0.58, 'probabilities': {'anger': 0.01, 'disgust': 0.0, 'fear': 0.64, 'joy': 0.0, 'neutral': 0.03, 'sadness': 0.0, 'surprise': 0.32}}
+238 answers ood-meld-choice-0036 200 145.4 {'answer': 'joy', 'confidence': 0.51, 'probabilities': {'anger': 0.3, 'disgust': 0.01, 'fear': 0.01, 'joy': 0.58, 'neutral': 0.1, 'sadness': 0.0, 'surprise': 0.0}}
+239 answers ood-meld-choice-0040 200 99.3 {'answer': 'neutral', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.99, 'sadness': 0.01, 'surprise': 0.0}}
+240 answers ood-meld-choice-0037 200 146.4 {'answer': 'fear', 'confidence': 0.52, 'probabilities': {'anger': 0.09, 'disgust': 0.31, 'fear': 0.59, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.01, 'surprise': 0.0}}
+241 answers ood-meld-choice-0041 200 93.0 {'answer': 'sadness', 'confidence': 0.53, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.02, 'joy': 0.0, 'neutral': 0.38, 'sadness': 0.6, 'surprise': 0.0}}
+242 answers ood-meld-choice-0044 200 54.8 {'answer': 'disgust', 'confidence': 0.5, 'probabilities': {'anger': 0.43, 'disgust': 0.57, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+243 answers ood-meld-choice-0045 200 93.2 {'answer': 'neutral', 'confidence': 0.63, 'probabilities': {'anger': 0.12, 'disgust': 0.01, 'fear': 0.02, 'joy': 0.06, 'neutral': 0.68, 'sadness': 0.02, 'surprise': 0.09}}
+244 answers ood-meld-choice-0046 200 91.0 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 1.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+245 answers ood-meld-choice-0043 200 128.3 {'answer': 'anger', 'confidence': 0.24, 'probabilities': {'anger': 0.35, 'disgust': 0.01, 'fear': 0.05, 'joy': 0.28, 'neutral': 0.3, 'sadness': 0.01, 'surprise': 0.0}}
+246 answers ood-meld-choice-0042 200 160.1 {'answer': 'surprise', 'confidence': 0.96, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.01, 'joy': 0.02, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.97}}
+247 answers ood-meld-choice-0048 200 96.4 {'answer': 'neutral', 'confidence': 0.51, 'probabilities': {'anger': 0.12, 'disgust': 0.04, 'fear': 0.0, 'joy': 0.11, 'neutral': 0.58, 'sadness': 0.01, 'surprise': 0.14}}
+248 answers ood-meld-choice-0047 200 138.5 {'answer': 'surprise', 'confidence': 0.44, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.06, 'joy': 0.01, 'neutral': 0.02, 'sadness': 0.39, 'surprise': 0.52}}
+249 answers ood-meld-choice-0050 200 105.4 {'answer': 'neutral', 'confidence': 0.91, 'probabilities': {'anger': 0.05, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.01, 'neutral': 0.92, 'sadness': 0.01, 'surprise': 0.0}}
+250 answers ood-meld-choice-0052 200 69.6 {'answer': 'fear', 'confidence': 0.96, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.97, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.03}}
+251 answers ood-meld-choice-0051 200 97.1 {'answer': 'disgust', 'confidence': 0.39, 'probabilities': {'anger': 0.1, 'disgust': 0.48, 'fear': 0.01, 'joy': 0.07, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.33}}
+252 answers ood-meld-choice-0049 200 126.9 {'answer': 'surprise', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.99}}
+253 answers ood-meld-choice-0053 200 70.6 {'answer': 'joy', 'confidence': 0.88, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.9, 'neutral': 0.09, 'sadness': 0.0, 'surprise': 0.01}}
+254 answers ood-meld-choice-0054 200 99.6 {'answer': 'sadness', 'confidence': 0.29, 'probabilities': {'anger': 0.15, 'disgust': 0.03, 'fear': 0.01, 'joy': 0.07, 'neutral': 0.35, 'sadness': 0.39, 'surprise': 0.0}}
+255 answers ood-meld-choice-0059 200 69.7 {'answer': 'joy', 'confidence': 0.81, 'probabilities': {'anger': 0.02, 'disgust': 0.0, 'fear': 0.02, 'joy': 0.84, 'neutral': 0.12, 'sadness': 0.0, 'surprise': 0.0}}
+256 answers ood-meld-choice-0058 200 75.4 {'answer': 'disgust', 'confidence': 0.77, 'probabilities': {'anger': 0.01, 'disgust': 0.8, 'fear': 0.0, 'joy': 0.03, 'neutral': 0.15, 'sadness': 0.01, 'surprise': 0.0}}
+257 answers ood-meld-choice-0057 200 76.9 {'answer': 'anger', 'confidence': 0.94, 'probabilities': {'anger': 0.95, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.03, 'sadness': 0.01, 'surprise': 0.0}}
+258 answers ood-meld-choice-0055 200 126.9 {'answer': 'neutral', 'confidence': 0.94, 'probabilities': {'anger': 0.0, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.03, 'neutral': 0.95, 'sadness': 0.01, 'surprise': 0.0}}
+259 answers ood-meld-choice-0056 200 143.4 {'answer': 'neutral', 'confidence': 0.45, 'probabilities': {'anger': 0.3, 'disgust': 0.02, 'fear': 0.01, 'joy': 0.01, 'neutral': 0.53, 'sadness': 0.01, 'surprise': 0.12}}
+260 answers ood-meld-choice-0061 200 110.6 {'answer': 'neutral', 'confidence': 0.77, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.06, 'neutral': 0.8, 'sadness': 0.02, 'surprise': 0.12}}
+261 answers ood-meld-choice-0060 200 129.9 {'answer': 'joy', 'confidence': 0.76, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.79, 'neutral': 0.03, 'sadness': 0.18, 'surprise': 0.0}}
+262 answers ood-meld-choice-0062 200 117.1 {'answer': 'neutral', 'confidence': 0.54, 'probabilities': {'anger': 0.13, 'disgust': 0.05, 'fear': 0.0, 'joy': 0.05, 'neutral': 0.61, 'sadness': 0.16, 'surprise': 0.0}}
+263 answers ood-meld-choice-0063 200 128.8 {'answer': 'joy', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.98, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.01}}
+264 answers ood-meld-choice-0064 200 108.5 {'answer': 'joy', 'confidence': 0.59, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.65, 'neutral': 0.2, 'sadness': 0.0, 'surprise': 0.15}}
+265 answers ood-meld-choice-0065 200 151.3 {'answer': 'joy', 'confidence': 0.95, 'probabilities': {'anger': 0.01, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.96, 'neutral': 0.02, 'sadness': 0.0, 'surprise': 0.01}}
+266 answers ood-meld-choice-0068 200 103.0 {'answer': 'neutral', 'confidence': 0.95, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.04, 'neutral': 0.96, 'sadness': 0.0, 'surprise': 0.0}}
+267 answers ood-meld-choice-0066 200 110.8 {'answer': 'surprise', 'confidence': 0.38, 'probabilities': {'anger': 0.0, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.37, 'neutral': 0.15, 'sadness': 0.0, 'surprise': 0.47}}
+268 answers ood-meld-choice-0067 200 115.4 {'answer': 'joy', 'confidence': 0.4, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.15, 'joy': 0.49, 'neutral': 0.16, 'sadness': 0.01, 'surprise': 0.19}}
+269 answers ood-meld-choice-0070 200 119.5 {'answer': 'surprise', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.02, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.98}}
+270 answers ood-meld-choice-0069 200 130.5 {'answer': 'joy', 'confidence': 0.48, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.06, 'joy': 0.55, 'neutral': 0.38, 'sadness': 0.01, 'surprise': 0.0}}
+271 answers ood-meld-choice-0073 200 61.3 {'answer': 'neutral', 'confidence': 0.88, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.9, 'sadness': 0.0, 'surprise': 0.1}}
+272 answers ood-meld-choice-0071 200 97.0 {'answer': 'surprise', 'confidence': 0.53, 'probabilities': {'anger': 0.01, 'disgust': 0.02, 'fear': 0.11, 'joy': 0.0, 'neutral': 0.26, 'sadness': 0.0, 'surprise': 0.6}}
+273 answers ood-meld-choice-0072 200 112.1 {'answer': 'anger', 'confidence': 0.6, 'probabilities': {'anger': 0.66, 'disgust': 0.2, 'fear': 0.01, 'joy': 0.05, 'neutral': 0.08, 'sadness': 0.0, 'surprise': 0.0}}
+274 answers ood-meld-choice-0074 200 123.9 {'answer': 'neutral', 'confidence': 0.38, 'probabilities': {'anger': 0.12, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.41, 'neutral': 0.47, 'sadness': 0.0, 'surprise': 0.0}}
+275 answers ood-meld-choice-0075 200 103.4 {'answer': 'neutral', 'confidence': 0.63, 'probabilities': {'anger': 0.05, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.24, 'neutral': 0.68, 'sadness': 0.01, 'surprise': 0.01}}
+276 answers ood-meld-choice-0076 200 113.8 {'answer': 'joy', 'confidence': 0.82, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.85, 'neutral': 0.1, 'sadness': 0.04, 'surprise': 0.01}}
+277 answers ood-meld-choice-0079 200 58.3 {'answer': 'anger', 'confidence': 0.85, 'probabilities': {'anger': 0.87, 'disgust': 0.13, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+278 answers ood-meld-choice-0077 200 134.2 {'answer': 'anger', 'confidence': 0.72, 'probabilities': {'anger': 0.76, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.23}}
+279 answers ood-meld-choice-0078 200 114.8 {'answer': 'anger', 'confidence': 0.46, 'probabilities': {'anger': 0.54, 'disgust': 0.01, 'fear': 0.01, 'joy': 0.13, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.31}}
+280 answers ood-meld-choice-0080 200 113.5 {'answer': 'fear', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 1.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+281 answers ood-meld-choice-0081 200 129.3 {'answer': 'sadness', 'confidence': 0.87, 'probabilities': {'anger': 0.01, 'disgust': 0.0, 'fear': 0.05, 'joy': 0.0, 'neutral': 0.01, 'sadness': 0.89, 'surprise': 0.04}}
+282 answers ood-meld-choice-0083 200 117.2 {'answer': 'sadness', 'confidence': 0.64, 'probabilities': {'anger': 0.14, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.02, 'neutral': 0.14, 'sadness': 0.69, 'surprise': 0.0}}
+283 answers ood-meld-choice-0084 200 119.4 {'answer': 'surprise', 'confidence': 0.94, 'probabilities': {'anger': 0.01, 'disgust': 0.0, 'fear': 0.02, 'joy': 0.0, 'neutral': 0.02, 'sadness': 0.0, 'surprise': 0.95}}
+284 answers ood-meld-choice-0085 200 119.2 {'answer': 'joy', 'confidence': 0.86, 'probabilities': {'anger': 0.05, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.88, 'neutral': 0.05, 'sadness': 0.0, 'surprise': 0.01}}
+285 answers ood-meld-choice-0082 200 187.1 {'answer': 'neutral', 'confidence': 0.81, 'probabilities': {'anger': 0.02, 'disgust': 0.07, 'fear': 0.0, 'joy': 0.05, 'neutral': 0.84, 'sadness': 0.02, 'surprise': 0.0}}
+286 answers ood-meld-choice-0088 200 78.1 {'answer': 'fear', 'confidence': 0.88, 'probabilities': {'anger': 0.02, 'disgust': 0.01, 'fear': 0.9, 'joy': 0.0, 'neutral': 0.07, 'sadness': 0.0, 'surprise': 0.0}}
+287 answers ood-meld-choice-0087 200 129.6 {'answer': 'surprise', 'confidence': 0.67, 'probabilities': {'anger': 0.01, 'disgust': 0.04, 'fear': 0.09, 'joy': 0.01, 'neutral': 0.0, 'sadness': 0.13, 'surprise': 0.72}}
+288 answers ood-meld-choice-0089 200 79.8 {'answer': 'neutral', 'confidence': 0.35, 'probabilities': {'anger': 0.05, 'disgust': 0.03, 'fear': 0.01, 'joy': 0.42, 'neutral': 0.44, 'sadness': 0.02, 'surprise': 0.03}}
+289 answers ood-meld-choice-0086 200 142.4 {'answer': 'disgust', 'confidence': 0.44, 'probabilities': {'anger': 0.01, 'disgust': 0.52, 'fear': 0.09, 'joy': 0.27, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.1}}
+290 answers ood-meld-choice-0091 200 74.0 {'answer': 'surprise', 'confidence': 0.94, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.05, 'sadness': 0.0, 'surprise': 0.95}}
+291 answers ood-meld-choice-0092 200 106.3 {'answer': 'neutral', 'confidence': 0.73, 'probabilities': {'anger': 0.01, 'disgust': 0.01, 'fear': 0.04, 'joy': 0.15, 'neutral': 0.77, 'sadness': 0.01, 'surprise': 0.01}}
+292 answers ood-meld-choice-0090 200 145.6 {'answer': 'anger', 'confidence': 0.86, 'probabilities': {'anger': 0.88, 'disgust': 0.08, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.01, 'sadness': 0.02, 'surprise': 0.01}}
+293 answers ood-meld-choice-0094 200 102.9 {'answer': 'fear', 'confidence': 0.59, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.65, 'joy': 0.05, 'neutral': 0.01, 'sadness': 0.27, 'surprise': 0.02}}
+294 answers ood-meld-choice-0095 200 100.8 {'answer': 'joy', 'confidence': 0.94, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.95, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.05}}
+295 answers ood-meld-choice-0096 200 118.7 {'answer': 'joy', 'confidence': 0.43, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.51, 'neutral': 0.44, 'sadness': 0.05, 'surprise': 0.0}}
+296 answers ood-meld-choice-0093 200 153.3 {'answer': 'disgust', 'confidence': 0.73, 'probabilities': {'anger': 0.0, 'disgust': 0.77, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.08, 'sadness': 0.0, 'surprise': 0.15}}
+297 answers ood-meld-choice-0098 200 109.3 {'answer': 'surprise', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 1.0}}
+298 answers ood-meld-choice-0097 200 145.7 {'answer': 'sadness', 'confidence': 0.88, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.06, 'joy': 0.0, 'neutral': 0.04, 'sadness': 0.9, 'surprise': 0.0}}
+299 answers ood-meld-choice-0100 200 106.8 {'answer': 'anger', 'confidence': 0.36, 'probabilities': {'anger': 0.45, 'disgust': 0.45, 'fear': 0.05, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.05}}
+300 answers ood-meld-choice-0099 200 143.1 {'answer': 'surprise', 'confidence': 0.43, 'probabilities': {'anger': 0.44, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.04, 'sadness': 0.0, 'surprise': 0.51}}
+301 answers ood-carer-noul-0002 200 116.9 {'answer': False, 'p_yes': 0.29, 'confidence': 0.71}
+302 answers ood-carer-noul-0001 200 126.6 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+303 answers ood-carer-noul-0005 200 71.4 {'answer': True, 'p_yes': 0.78, 'confidence': 0.78}
+304 answers ood-carer-noul-0003 200 122.0 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+305 answers ood-carer-noul-0004 200 147.9 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+306 answers ood-carer-noul-0008 200 112.1 {'answer': False, 'p_yes': 0.19, 'confidence': 0.81}
+307 answers ood-carer-noul-0006 200 131.2 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+308 answers ood-carer-noul-0007 200 114.7 {'answer': True, 'p_yes': 0.75, 'confidence': 0.75}
+309 answers ood-carer-noul-0010 200 97.8 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+310 answers ood-carer-noul-0009 200 117.0 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+311 answers ood-carer-noul-0011 200 82.1 {'answer': False, 'p_yes': 0.2, 'confidence': 0.8}
+312 answers ood-carer-noul-0014 200 73.0 {'answer': True, 'p_yes': 0.53, 'confidence': 0.53}
+313 answers ood-carer-noul-0013 200 115.0 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+314 answers ood-carer-noul-0015 200 99.3 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+315 answers ood-carer-noul-0017 200 107.7 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+316 answers ood-carer-noul-0016 200 138.6 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+317 answers ood-carer-noul-0018 200 100.7 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+318 answers ood-carer-noul-0019 200 67.9 {'answer': True, 'p_yes': 0.96, 'confidence': 0.96}
+319 answers ood-carer-noul-0020 200 117.8 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+320 answers ood-carer-noul-0023 200 94.3 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+321 answers ood-carer-noul-0021 200 104.9 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+322 answers ood-carer-noul-0024 200 105.2 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+323 answers ood-carer-noul-0012 200 305.1 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+324 answers ood-carer-noul-0025 200 128.5 {'answer': True, 'p_yes': 0.84, 'confidence': 0.84}
+325 answers ood-carer-noul-0028 200 102.2 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+326 answers ood-carer-noul-0027 200 121.2 {'answer': False, 'p_yes': 0.36, 'confidence': 0.64}
+327 answers ood-carer-noul-0026 200 126.4 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+328 answers ood-carer-noul-0022 200 263.9 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+329 answers ood-carer-noul-0029 200 173.8 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+330 answers ood-carer-noul-0033 200 107.1 {'answer': False, 'p_yes': 0.23, 'confidence': 0.77}
+331 answers ood-carer-noul-0031 200 126.1 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+332 answers ood-carer-noul-0030 200 157.8 {'answer': True, 'p_yes': 0.71, 'confidence': 0.71}
+333 answers ood-carer-noul-0032 200 138.6 {'answer': True, 'p_yes': 0.58, 'confidence': 0.58}
+334 answers ood-carer-noul-0034 200 102.8 {'answer': True, 'p_yes': 0.58, 'confidence': 0.58}
+335 answers ood-carer-noul-0040 200 67.4 {'answer': False, 'p_yes': 0.33, 'confidence': 0.6699999999999999}
+336 answers ood-carer-noul-0035 200 139.1 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+337 answers ood-carer-noul-0036 200 101.6 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+338 answers ood-carer-noul-0037 200 102.6 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+339 answers ood-carer-noul-0038 200 119.5 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+340 answers ood-carer-noul-0039 200 153.2 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+341 answers ood-carer-noul-0042 200 87.2 {'answer': True, 'p_yes': 0.5, 'confidence': 0.5}
+342 answers ood-carer-noul-0045 200 94.0 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+343 answers ood-carer-noul-0044 200 129.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+344 answers ood-carer-noul-0043 200 162.0 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+345 answers ood-carer-noul-0046 200 125.7 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+346 answers ood-carer-noul-0047 200 135.1 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+347 answers ood-carer-noul-0049 200 107.7 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+348 answers ood-carer-noul-0048 200 149.0 {'answer': True, 'p_yes': 0.59, 'confidence': 0.59}
+349 answers ood-carer-noul-0051 200 64.2 {'answer': True, 'p_yes': 0.61, 'confidence': 0.61}
+350 answers ood-carer-noul-0041 200 283.3 {'answer': True, 'p_yes': 0.96, 'confidence': 0.96}
+351 answers ood-carer-noul-0050 200 108.1 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+352 answers ood-carer-noul-0052 200 121.7 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+353 answers ood-carer-noul-0053 200 118.3 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+354 answers ood-carer-noul-0056 200 108.3 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+355 answers ood-carer-noul-0054 200 118.7 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+356 answers ood-carer-noul-0055 200 134.2 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+357 answers ood-carer-noul-0057 200 144.0 {'answer': False, 'p_yes': 0.35, 'confidence': 0.65}
+358 answers ood-carer-noul-0059 200 119.7 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+359 answers ood-carer-noul-0060 200 98.3 {'answer': True, 'p_yes': 0.66, 'confidence': 0.66}
+360 answers ood-carer-noul-0058 200 146.8 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+361 answers ood-carer-noul-0061 200 121.1 {'answer': True, 'p_yes': 0.83, 'confidence': 0.83}
+362 answers ood-carer-noul-0063 200 101.1 {'answer': True, 'p_yes': 0.96, 'confidence': 0.96}
+363 answers ood-carer-noul-0062 200 128.6 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+364 answers ood-carer-noul-0065 200 100.0 {'answer': False, 'p_yes': 0.31, 'confidence': 0.69}
+365 answers ood-carer-noul-0066 200 113.1 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+366 answers ood-carer-noul-0064 200 139.9 {'answer': True, 'p_yes': 0.94, 'confidence': 0.94}
+367 answers ood-carer-noul-0068 200 126.4 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+368 answers ood-carer-noul-0067 200 141.7 {'answer': False, 'p_yes': 0.36, 'confidence': 0.64}
+369 answers ood-carer-noul-0069 200 137.5 {'answer': False, 'p_yes': 0.42, 'confidence': 0.5800000000000001}
+370 answers ood-carer-noul-0072 200 67.3 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+371 answers ood-carer-noul-0071 200 99.0 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+372 answers ood-carer-noul-0070 200 142.3 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+373 answers ood-carer-noul-0073 200 104.1 {'answer': False, 'p_yes': 0.2, 'confidence': 0.8}
+374 answers ood-carer-noul-0074 200 108.2 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+375 answers ood-carer-noul-0075 200 136.6 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+376 answers ood-carer-noul-0076 200 114.3 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+377 answers ood-carer-noul-0078 200 99.5 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+378 answers ood-carer-noul-0077 200 153.9 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+379 answers ood-carer-noul-0080 200 129.6 {'answer': False, 'p_yes': 0.43, 'confidence': 0.5700000000000001}
+380 answers ood-carer-noul-0081 200 111.7 {'answer': False, 'p_yes': 0.45, 'confidence': 0.55}
+381 answers ood-carer-noul-0079 200 172.7 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+382 answers ood-carer-noul-0082 200 117.5 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+383 answers ood-carer-noul-0083 200 149.5 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+384 answers ood-carer-noul-0084 200 111.9 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+385 answers ood-carer-noul-0085 200 106.5 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+386 answers ood-carer-noul-0087 200 78.4 {'answer': False, 'p_yes': 0.19, 'confidence': 0.81}
+387 answers ood-carer-noul-0088 200 100.1 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+388 answers ood-carer-noul-0086 200 138.0 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+389 answers ood-carer-noul-0089 200 95.2 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+390 answers ood-carer-noul-0090 200 130.0 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+391 answers ood-carer-noul-0092 200 124.7 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+392 answers ood-carer-noul-0091 200 140.2 {'answer': False, 'p_yes': 0.17, 'confidence': 0.83}
+393 answers ood-carer-noul-0093 200 107.6 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+394 answers ood-carer-noul-0095 200 98.5 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+395 answers ood-carer-noul-0096 200 69.4 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+396 answers ood-carer-noul-0094 200 125.9 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+397 answers ood-carer-noul-0097 200 107.7 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+398 answers ood-carer-noul-0099 200 115.4 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+399 answers ood-carer-noul-0100 200 91.3 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+400 answers ood-carer-noul-0098 200 137.5 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+401 answers ood-ew-noul-0001 200 103.0 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+402 answers ood-ew-noul-0002 200 103.6 {'answer': True, 'p_yes': 0.53, 'confidence': 0.53}
+403 answers ood-ew-noul-0003 200 130.8 {'answer': True, 'p_yes': 0.62, 'confidence': 0.62}
+404 answers ood-ew-noul-0004 200 124.8 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+405 answers ood-ew-noul-0006 200 102.7 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+406 answers ood-ew-noul-0005 200 134.8 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+407 answers ood-ew-noul-0007 200 112.6 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+408 answers ood-ew-noul-0008 200 105.9 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+409 answers ood-ew-noul-0009 200 75.8 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+410 answers ood-ew-noul-0014 200 78.7 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+411 answers ood-ew-noul-0011 200 113.9 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+412 answers ood-ew-noul-0013 200 111.2 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+413 answers ood-ew-noul-0010 200 137.4 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+414 answers ood-ew-noul-0012 200 136.3 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+415 answers ood-ew-noul-0016 200 94.9 {'answer': True, 'p_yes': 0.69, 'confidence': 0.69}
+416 answers ood-ew-noul-0017 200 96.0 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+417 answers ood-ew-noul-0015 200 145.5 {'answer': True, 'p_yes': 0.78, 'confidence': 0.78}
+418 answers ood-ew-noul-0019 200 80.5 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+419 answers ood-ew-noul-0020 200 75.6 {'answer': False, 'p_yes': 0.17, 'confidence': 0.83}
+420 answers ood-ew-noul-0018 200 110.2 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+421 answers ood-ew-noul-0021 200 99.6 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+422 answers ood-ew-noul-0024 200 108.7 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+423 answers ood-ew-noul-0022 200 115.5 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+424 answers ood-ew-noul-0026 200 86.1 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+425 answers ood-ew-noul-0025 200 115.9 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+426 answers ood-ew-noul-0027 200 115.8 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+427 answers ood-ew-noul-0028 200 99.5 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+428 answers ood-ew-noul-0030 200 95.2 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+429 answers ood-ew-noul-0029 200 114.3 {'answer': True, 'p_yes': 0.53, 'confidence': 0.53}
+430 answers ood-ew-noul-0031 200 109.8 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+431 answers ood-ew-noul-0023 200 290.1 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+432 answers ood-ew-noul-0033 200 110.4 {'answer': True, 'p_yes': 0.52, 'confidence': 0.52}
+433 answers ood-ew-noul-0034 200 115.6 {'answer': True, 'p_yes': 0.6, 'confidence': 0.6}
+434 answers ood-ew-noul-0035 200 111.6 {'answer': False, 'p_yes': 0.43, 'confidence': 0.5700000000000001}
+435 answers ood-ew-noul-0032 200 166.5 {'answer': True, 'p_yes': 0.78, 'confidence': 0.78}
+436 answers ood-ew-noul-0037 200 89.3 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+437 answers ood-ew-noul-0036 200 141.4 {'answer': True, 'p_yes': 0.69, 'confidence': 0.69}
+438 answers ood-ew-noul-0039 200 111.1 {'answer': True, 'p_yes': 0.84, 'confidence': 0.84}
+439 answers ood-ew-noul-0038 200 126.2 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+440 answers ood-ew-noul-0040 200 116.4 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+441 answers ood-ew-noul-0042 200 114.8 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+442 answers ood-ew-noul-0041 200 126.6 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+443 answers ood-ew-noul-0043 200 110.0 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+444 answers ood-ew-noul-0047 200 65.0 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+445 answers ood-ew-noul-0044 200 117.9 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+446 answers ood-ew-noul-0046 200 121.5 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+447 answers ood-ew-noul-0045 200 138.8 {'answer': True, 'p_yes': 0.9, 'confidence': 0.9}
+448 answers ood-ew-noul-0048 200 110.1 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+449 answers ood-ew-noul-0049 200 114.5 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+450 answers ood-ew-noul-0050 200 95.6 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+451 answers ood-ew-noul-0051 200 121.3 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+452 answers ood-ew-noul-0052 200 104.8 {'answer': True, 'p_yes': 0.74, 'confidence': 0.74}
+453 answers ood-ew-noul-0055 200 86.9 {'answer': False, 'p_yes': 0.46, 'confidence': 0.54}
+454 answers ood-ew-noul-0053 200 138.3 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+455 answers ood-ew-noul-0054 200 128.3 {'answer': True, 'p_yes': 0.85, 'confidence': 0.85}
+456 answers ood-ew-noul-0057 200 74.0 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+457 answers ood-ew-noul-0058 200 80.8 {'answer': True, 'p_yes': 0.79, 'confidence': 0.79}
+458 answers ood-ew-noul-0056 200 116.8 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+459 answers ood-ew-noul-0059 200 80.6 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+460 answers ood-ew-noul-0060 200 61.7 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+461 answers ood-ew-noul-0061 200 54.7 {'answer': True, 'p_yes': 0.83, 'confidence': 0.83}
+462 answers ood-ew-noul-0067 200 51.7 {'answer': True, 'p_yes': 0.76, 'confidence': 0.76}
+463 answers ood-ew-noul-0062 200 107.3 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+464 answers ood-ew-noul-0066 200 79.3 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+465 answers ood-ew-noul-0063 200 106.3 {'answer': True, 'p_yes': 0.83, 'confidence': 0.83}
+466 answers ood-ew-noul-0064 200 115.1 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+467 answers ood-ew-noul-0065 200 134.3 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+468 answers ood-ew-noul-0069 200 71.5 {'answer': True, 'p_yes': 0.78, 'confidence': 0.78}
+469 answers ood-ew-noul-0068 200 93.9 {'answer': True, 'p_yes': 0.75, 'confidence': 0.75}
+470 answers ood-ew-noul-0072 200 132.5 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+471 answers ood-ew-noul-0073 200 120.8 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+472 answers ood-ew-noul-0075 200 127.4 {'answer': True, 'p_yes': 0.76, 'confidence': 0.76}
+473 answers ood-ew-noul-0074 200 156.0 {'answer': True, 'p_yes': 0.65, 'confidence': 0.65}
+474 answers ood-ew-noul-0076 200 104.0 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+475 answers ood-ew-noul-0077 200 131.4 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+476 answers ood-ew-noul-0071 200 290.7 {'answer': True, 'p_yes': 0.66, 'confidence': 0.66}
+477 answers ood-ew-noul-0070 200 295.1 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+478 answers ood-ew-noul-0078 200 116.6 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+479 answers ood-ew-noul-0079 200 114.5 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+480 answers ood-ew-noul-0084 200 59.8 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+481 answers ood-ew-noul-0080 200 123.0 {'answer': False, 'p_yes': 0.31, 'confidence': 0.69}
+482 answers ood-ew-noul-0081 200 98.2 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+483 answers ood-ew-noul-0082 200 100.3 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+484 answers ood-ew-noul-0083 200 155.7 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+485 answers ood-ew-noul-0085 200 116.4 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+486 answers ood-ew-noul-0086 200 114.8 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+487 answers ood-ew-noul-0089 200 113.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+488 answers ood-ew-noul-0087 200 137.5 {'answer': False, 'p_yes': 0.01, 'confidence': 0.99}
+489 answers ood-ew-noul-0088 200 134.0 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+490 answers ood-ew-noul-0090 200 97.2 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+491 answers ood-ew-noul-0091 200 106.2 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+492 answers ood-ew-noul-0092 200 99.6 {'answer': False, 'p_yes': 0.34, 'confidence': 0.6599999999999999}
+493 answers ood-ew-noul-0094 200 106.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+494 answers ood-ew-noul-0095 200 113.3 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+495 answers ood-ew-noul-0093 200 136.8 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+496 answers ood-ew-noul-0097 200 119.3 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+497 answers ood-ew-noul-0096 200 142.5 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+498 answers ood-ew-noul-0098 200 112.9 {'answer': False, 'p_yes': 0.01, 'confidence': 0.99}
+499 answers ood-meld-noul-0002 200 57.2 {'answer': False, 'p_yes': 0.44, 'confidence': 0.56}
+500 answers ood-ew-noul-0099 200 123.2 {'answer': False, 'p_yes': 0.27, 'confidence': 0.73}
+501 answers ood-meld-noul-0001 200 129.0 {'answer': False, 'p_yes': 0.41, 'confidence': 0.5900000000000001}
+502 answers ood-ew-noul-0100 200 134.9 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+503 answers ood-meld-noul-0004 200 112.1 {'answer': True, 'p_yes': 0.69, 'confidence': 0.69}
+504 answers ood-meld-noul-0003 200 137.4 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+505 answers ood-meld-noul-0008 200 80.5 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+506 answers ood-meld-noul-0006 200 93.5 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+507 answers ood-meld-noul-0005 200 141.3 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+508 answers ood-meld-noul-0007 200 122.0 {'answer': True, 'p_yes': 0.74, 'confidence': 0.74}
+509 answers ood-meld-noul-0009 200 138.5 {'answer': False, 'p_yes': 0.35, 'confidence': 0.65}
+510 answers ood-meld-noul-0014 200 63.6 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+511 answers ood-meld-noul-0010 200 132.8 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+512 answers ood-meld-noul-0012 200 118.7 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+513 answers ood-meld-noul-0011 200 136.1 {'answer': False, 'p_yes': 0.49, 'confidence': 0.51}
+514 answers ood-meld-noul-0013 200 123.7 {'answer': True, 'p_yes': 0.67, 'confidence': 0.67}
+515 answers ood-meld-noul-0015 200 122.2 {'answer': True, 'p_yes': 0.67, 'confidence': 0.67}
+516 answers ood-meld-noul-0016 200 113.8 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+517 answers ood-meld-noul-0018 200 122.3 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+518 answers ood-meld-noul-0020 200 112.2 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+519 answers ood-meld-noul-0019 200 123.5 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+520 answers ood-meld-noul-0017 200 160.6 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+521 answers ood-meld-noul-0021 200 76.4 {'answer': False, 'p_yes': 0.43, 'confidence': 0.5700000000000001}
+522 answers ood-meld-noul-0022 200 110.6 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+523 answers ood-meld-noul-0025 200 104.9 {'answer': True, 'p_yes': 0.86, 'confidence': 0.86}
+524 answers ood-meld-noul-0024 200 111.1 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+525 answers ood-meld-noul-0026 200 83.5 {'answer': True, 'p_yes': 0.58, 'confidence': 0.58}
+526 answers ood-meld-noul-0023 200 120.9 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+527 answers ood-meld-noul-0027 200 86.8 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+528 answers ood-meld-noul-0029 200 102.4 {'answer': True, 'p_yes': 0.66, 'confidence': 0.66}
+529 answers ood-meld-noul-0030 200 104.7 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+530 answers ood-meld-noul-0032 200 105.8 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+531 answers ood-meld-noul-0028 200 146.9 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+532 answers ood-meld-noul-0031 200 127.3 {'answer': False, 'p_yes': 0.48, 'confidence': 0.52}
+533 answers ood-meld-noul-0033 200 128.8 {'answer': False, 'p_yes': 0.09, 'confidence': 0.91}
+534 answers ood-meld-noul-0036 200 50.7 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+535 answers ood-meld-noul-0038 200 52.8 {'answer': False, 'p_yes': 0.22, 'confidence': 0.78}
+536 answers ood-meld-noul-0035 200 82.4 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+537 answers ood-meld-noul-0034 200 99.3 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+538 answers ood-meld-noul-0037 200 104.0 {'answer': False, 'p_yes': 0.31, 'confidence': 0.69}
+539 answers ood-meld-noul-0040 200 64.1 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+540 answers ood-meld-noul-0041 200 63.9 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+541 answers ood-meld-noul-0043 200 61.6 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+542 answers ood-meld-noul-0039 200 116.1 {'answer': True, 'p_yes': 0.56, 'confidence': 0.56}
+543 answers ood-meld-noul-0044 200 83.4 {'answer': True, 'p_yes': 0.7, 'confidence': 0.7}
+544 answers ood-meld-noul-0045 200 74.9 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+545 answers ood-meld-noul-0042 200 126.1 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+546 answers ood-meld-noul-0047 200 64.2 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+547 answers ood-meld-noul-0046 200 114.2 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+548 answers ood-meld-noul-0048 200 123.4 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+549 answers ood-meld-noul-0050 200 102.1 {'answer': False, 'p_yes': 0.34, 'confidence': 0.6599999999999999}
+550 answers ood-meld-noul-0051 200 108.8 {'answer': True, 'p_yes': 0.5, 'confidence': 0.5}
+551 answers ood-meld-noul-0049 200 123.0 {'answer': False, 'p_yes': 0.22, 'confidence': 0.78}
+552 answers ood-meld-noul-0052 200 163.0 {'answer': True, 'p_yes': 0.58, 'confidence': 0.58}
+553 answers ood-meld-noul-0053 200 126.5 {'answer': True, 'p_yes': 0.67, 'confidence': 0.67}
+554 answers ood-meld-noul-0054 200 134.0 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+555 answers ood-meld-noul-0055 200 134.0 {'answer': False, 'p_yes': 0.44, 'confidence': 0.56}
+556 answers ood-meld-noul-0057 200 131.3 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+557 answers ood-meld-noul-0056 200 154.1 {'answer': True, 'p_yes': 0.55, 'confidence': 0.55}
+558 answers ood-meld-noul-0060 200 92.9 {'answer': False, 'p_yes': 0.19, 'confidence': 0.81}
+559 answers ood-meld-noul-0058 200 140.6 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+560 answers ood-meld-noul-0059 200 131.1 {'answer': False, 'p_yes': 0.45, 'confidence': 0.55}
+561 answers ood-meld-noul-0061 200 112.4 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+562 answers ood-meld-noul-0062 200 101.8 {'answer': False, 'p_yes': 0.13, 'confidence': 0.87}
+563 answers ood-meld-noul-0068 200 73.9 {'answer': True, 'p_yes': 0.71, 'confidence': 0.71}
+564 answers ood-meld-noul-0064 200 123.8 {'answer': False, 'p_yes': 0.49, 'confidence': 0.51}
+565 answers ood-meld-noul-0063 200 158.2 {'answer': True, 'p_yes': 0.56, 'confidence': 0.56}
+566 answers ood-meld-noul-0066 200 106.4 {'answer': True, 'p_yes': 0.84, 'confidence': 0.84}
+567 answers ood-meld-noul-0067 200 87.7 {'answer': False, 'p_yes': 0.33, 'confidence': 0.6699999999999999}
+568 answers ood-meld-noul-0069 200 59.5 {'answer': False, 'p_yes': 0.33, 'confidence': 0.6699999999999999}
+569 answers ood-meld-noul-0065 200 177.6 {'answer': False, 'p_yes': 0.47, 'confidence': 0.53}
+570 answers ood-meld-noul-0073 200 106.4 {'answer': True, 'p_yes': 0.5, 'confidence': 0.5}
+573 answers ood-meld-noul-0071 200 119.3 {'answer': False, 'p_yes': 0.24, 'confidence': 0.76}
+572 answers ood-meld-noul-0072 200 117.6 {'answer': True, 'p_yes': 0.73, 'confidence': 0.73}
+571 answers ood-meld-noul-0070 200 121.3 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+574 answers ood-meld-noul-0075 200 127.0 {'answer': False, 'p_yes': 0.4, 'confidence': 0.6}
+575 answers ood-meld-noul-0074 200 136.4 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+576 answers ood-meld-noul-0076 200 109.0 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+577 answers ood-meld-noul-0077 200 118.4 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+578 answers ood-meld-noul-0081 200 53.6 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+579 answers ood-meld-noul-0079 200 124.0 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+580 answers ood-meld-noul-0080 200 69.6 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+581 answers ood-meld-noul-0078 200 146.1 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+582 answers ood-meld-noul-0085 200 109.2 {'answer': False, 'p_yes': 0.38, 'confidence': 0.62}
+583 answers ood-meld-noul-0083 200 125.8 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+584 answers ood-meld-noul-0084 200 125.3 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+585 answers ood-meld-noul-0087 200 111.6 {'answer': True, 'p_yes': 0.79, 'confidence': 0.79}
+586 answers ood-meld-noul-0086 200 116.8 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+587 answers ood-meld-noul-0082 200 164.1 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+588 answers ood-meld-noul-0089 200 76.2 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+589 answers ood-meld-noul-0090 200 109.0 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+590 answers ood-meld-noul-0088 200 147.4 {'answer': False, 'p_yes': 0.42, 'confidence': 0.5800000000000001}
+591 answers ood-meld-noul-0091 200 133.8 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+592 answers ood-meld-noul-0092 200 136.5 {'answer': False, 'p_yes': 0.21, 'confidence': 0.79}
+593 answers ood-meld-noul-0095 200 61.0 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+594 answers ood-meld-noul-0093 200 151.2 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+595 answers ood-meld-noul-0094 200 107.3 {'answer': False, 'p_yes': 0.33, 'confidence': 0.6699999999999999}
+596 answers ood-meld-noul-0096 200 107.3 {'answer': False, 'p_yes': 0.34, 'confidence': 0.6599999999999999}
+597 repeats ood-carer-choice-0042 200 79.6 {'answer': 'fear', 'confidence': 0.68, 'probabilities': {'anger': 0.0, 'fear': 0.73, 'joy': 0.07, 'love': 0.06, 'sadness': 0.02, 'surprise': 0.12}}
+598 answers ood-meld-noul-0098 200 119.8 {'answer': False, 'p_yes': 0.11, 'confidence': 0.89}
+599 answers ood-meld-noul-0097 200 143.5 {'answer': False, 'p_yes': 0.32, 'confidence': 0.6799999999999999}
+600 answers ood-meld-noul-0100 200 129.9 {'answer': False, 'p_yes': 0.45, 'confidence': 0.55}
+601 repeats ood-carer-choice-0028 200 65.5 {'answer': 'anger', 'confidence': 0.45, 'probabilities': {'anger': 0.54, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.45, 'surprise': 0.0}}
+602 answers ood-meld-noul-0099 200 163.9 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+603 repeats ood-carer-choice-0005 200 105.5 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+604 repeats ood-ew-choice-0097 200 108.9 {'answer': 'neutral', 'confidence': 0.73, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.23, 'fearful': 0.0, 'neutral': 0.77, 'satisfied': 0.0}}
+605 repeats ood-meld-choice-0059 200 149.2 {'answer': 'joy', 'confidence': 0.82, 'probabilities': {'anger': 0.01, 'disgust': 0.0, 'fear': 0.01, 'joy': 0.85, 'neutral': 0.13, 'sadness': 0.0, 'surprise': 0.0}}
+606 repeats ood-carer-choice-0041 200 85.4 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.01, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.0}}
+607 repeats ood-meld-choice-0090 200 119.8 {'answer': 'anger', 'confidence': 0.91, 'probabilities': {'anger': 0.92, 'disgust': 0.06, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.01, 'surprise': 0.01}}
+608 repeats ood-carer-choice-0037 200 127.3 {'answer': 'sadness', 'confidence': 0.78, 'probabilities': {'anger': 0.02, 'fear': 0.02, 'joy': 0.0, 'love': 0.14, 'sadness': 0.82, 'surprise': 0.0}}
+609 repeats ood-meld-choice-0020 200 89.9 {'answer': 'surprise', 'confidence': 0.72, 'probabilities': {'anger': 0.01, 'disgust': 0.06, 'fear': 0.01, 'joy': 0.0, 'neutral': 0.06, 'sadness': 0.1, 'surprise': 0.76}}
+610 repeats ood-meld-choice-0063 200 120.1 {'answer': 'joy', 'confidence': 0.98, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.98, 'neutral': 0.01, 'sadness': 0.0, 'surprise': 0.01}}
+611 repeats ood-carer-choice-0008 200 137.1 {'answer': 'fear', 'confidence': 0.93, 'probabilities': {'anger': 0.0, 'fear': 0.94, 'joy': 0.0, 'love': 0.0, 'sadness': 0.06, 'surprise': 0.0}}
+612 repeats ood-ew-choice-0060 200 100.1 {'answer': 'neutral', 'confidence': 0.45, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.45, 'fearful': 0.0, 'neutral': 0.53, 'satisfied': 0.02}}
+613 repeats ood-carer-choice-0100 200 118.8 {'answer': 'joy', 'confidence': 0.36, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.47, 'love': 0.46, 'sadness': 0.06, 'surprise': 0.01}}
+614 repeats ood-carer-choice-0096 200 164.3 {'answer': 'sadness', 'confidence': 0.99, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.99, 'surprise': 0.01}}
+615 repeats ood-ew-choice-0004 200 122.6 {'answer': 'satisfied', 'confidence': 0.49, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.17, 'fearful': 0.0, 'neutral': 0.27, 'satisfied': 0.56}}
+616 repeats ood-meld-choice-0052 200 96.5 {'answer': 'fear', 'confidence': 0.96, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.97, 'joy': 0.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.03}}
+617 repeats ood-carer-choice-0087 200 105.1 {'answer': 'sadness', 'confidence': 0.98, 'probabilities': {'anger': 0.01, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.98, 'surprise': 0.0}}
+618 repeats ood-ew-choice-0081 200 167.7 {'answer': 'excited', 'confidence': 0.51, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.58, 'fearful': 0.0, 'neutral': 0.02, 'satisfied': 0.4}}
+619 repeats ood-ew-choice-0045 200 126.9 {'answer': 'neutral', 'confidence': 0.98, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.02, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.98, 'satisfied': 0.0}}
+620 repeats ood-carer-choice-0035 200 102.9 {'answer': 'anger', 'confidence': 0.98, 'probabilities': {'anger': 0.98, 'fear': 0.02, 'joy': 0.0, 'love': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+621 repeats ood-carer-choice-0084 200 118.5 {'answer': 'joy', 'confidence': 0.52, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.6, 'love': 0.39, 'sadness': 0.0, 'surprise': 0.01}}
+622 repeats ood-meld-choice-0041 200 123.2 {'answer': 'sadness', 'confidence': 0.52, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.01, 'joy': 0.0, 'neutral': 0.4, 'sadness': 0.59, 'surprise': 0.0}}
+623 repeats ood-carer-choice-0086 200 104.4 {'answer': 'anger', 'confidence': 0.72, 'probabilities': {'anger': 0.77, 'fear': 0.01, 'joy': 0.0, 'love': 0.0, 'sadness': 0.22, 'surprise': 0.0}}
+624 repeats ood-carer-choice-0075 200 148.7 {'answer': 'joy', 'confidence': 0.78, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.82, 'love': 0.01, 'sadness': 0.17, 'surprise': 0.0}}
+625 repeats ood-ew-choice-0089 200 145.0 {'answer': 'neutral', 'confidence': 0.92, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.07, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.93, 'satisfied': 0.0}}
+626 repeats ood-ew-choice-0021 200 190.3 {'answer': 'satisfied', 'confidence': 0.99, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.99}}
+627 repeats ood-ew-choice-0018 200 105.8 {'answer': 'excited', 'confidence': 0.45, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.53, 'fearful': 0.0, 'neutral': 0.01, 'satisfied': 0.46}}
+628 repeats ood-carer-choice-0083 200 110.7 {'answer': 'sadness', 'confidence': 0.28, 'probabilities': {'anger': 0.04, 'fear': 0.16, 'joy': 0.06, 'love': 0.33, 'sadness': 0.4, 'surprise': 0.01}}
+629 repeats ood-meld-choice-0013 200 125.9 {'answer': 'anger', 'confidence': 0.62, 'probabilities': {'anger': 0.67, 'disgust': 0.08, 'fear': 0.0, 'joy': 0.02, 'neutral': 0.09, 'sadness': 0.05, 'surprise': 0.09}}
+630 repeats ood-meld-choice-0058 200 116.6 {'answer': 'disgust', 'confidence': 0.74, 'probabilities': {'anger': 0.01, 'disgust': 0.78, 'fear': 0.0, 'joy': 0.03, 'neutral': 0.16, 'sadness': 0.02, 'surprise': 0.0}}
+631 repeats ood-meld-choice-0012 200 77.9 {'answer': 'neutral', 'confidence': 0.42, 'probabilities': {'anger': 0.01, 'disgust': 0.11, 'fear': 0.0, 'joy': 0.36, 'neutral': 0.5, 'sadness': 0.0, 'surprise': 0.02}}
+632 repeats ood-ew-choice-0065 200 111.2 {'answer': 'apologetic', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 1.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+633 repeats ood-meld-choice-0091 200 121.7 {'answer': 'surprise', 'confidence': 0.94, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.05, 'sadness': 0.0, 'surprise': 0.95}}
+634 repeats ood-carer-choice-0071 200 121.7 {'answer': 'sadness', 'confidence': 0.63, 'probabilities': {'anger': 0.25, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 0.69, 'surprise': 0.06}}
+635 repeats ood-carer-choice-0054 200 118.0 {'answer': 'sadness', 'confidence': 0.82, 'probabilities': {'anger': 0.0, 'fear': 0.02, 'joy': 0.13, 'love': 0.0, 'sadness': 0.85, 'surprise': 0.0}}
+636 repeats ood-meld-choice-0057 200 118.2 {'answer': 'anger', 'confidence': 0.94, 'probabilities': {'anger': 0.95, 'disgust': 0.01, 'fear': 0.0, 'joy': 0.0, 'neutral': 0.03, 'sadness': 0.01, 'surprise': 0.0}}
+637 repeats ood-carer-choice-0059 200 110.1 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+638 repeats ood-ew-choice-0020 200 138.1 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+639 repeats ood-ew-choice-0086 200 127.6 {'answer': 'neutral', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 1.0, 'satisfied': 0.0}}
+640 repeats ood-meld-choice-0008 200 112.2 {'answer': 'neutral', 'confidence': 0.59, 'probabilities': {'anger': 0.09, 'disgust': 0.03, 'fear': 0.01, 'joy': 0.04, 'neutral': 0.65, 'sadness': 0.01, 'surprise': 0.17}}
+641 repeats ood-ew-choice-0044 200 218.0 {'answer': 'apologetic', 'confidence': 1.0, 'probabilities': {'abusive': 0.0, 'apologetic': 1.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.0, 'satisfied': 0.0}}
+642 repeats ood-meld-choice-0054 200 101.7 {'answer': 'sadness', 'confidence': 0.28, 'probabilities': {'anger': 0.15, 'disgust': 0.03, 'fear': 0.01, 'joy': 0.08, 'neutral': 0.35, 'sadness': 0.38, 'surprise': 0.0}}
+643 repeats ood-carer-choice-0066 200 97.8 {'answer': 'surprise', 'confidence': 0.27, 'probabilities': {'anger': 0.0, 'fear': 0.13, 'joy': 0.24, 'love': 0.15, 'sadness': 0.09, 'surprise': 0.39}}
+644 repeats ood-carer-choice-0076 200 97.1 {'answer': 'love', 'confidence': 0.66, 'probabilities': {'anger': 0.0, 'fear': 0.2, 'joy': 0.05, 'love': 0.72, 'sadness': 0.02, 'surprise': 0.01}}
+645 repeats ood-carer-choice-0055 200 124.9 {'answer': 'sadness', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.0, 'love': 0.0, 'sadness': 1.0, 'surprise': 0.0}}
+646 repeats ood-carer-choice-0058 200 120.6 {'answer': 'love', 'confidence': 0.5, 'probabilities': {'anger': 0.0, 'fear': 0.0, 'joy': 0.41, 'love': 0.58, 'sadness': 0.01, 'surprise': 0.0}}
+647 repeats ood-ew-choice-0030 200 122.7 {'answer': 'neutral', 'confidence': 0.91, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.08, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.92, 'satisfied': 0.0}}
+648 repeats ood-meld-choice-0046 200 146.2 {'answer': 'joy', 'confidence': 1.0, 'probabilities': {'anger': 0.0, 'disgust': 0.0, 'fear': 0.0, 'joy': 1.0, 'neutral': 0.0, 'sadness': 0.0, 'surprise': 0.0}}
+649 repeats ood-ew-choice-0093 200 133.3 {'answer': 'satisfied', 'confidence': 0.48, 'probabilities': {'abusive': 0.0, 'apologetic': 0.0, 'dissatisfied': 0.0, 'excited': 0.0, 'fearful': 0.0, 'neutral': 0.45, 'satisfied': 0.55}}
+650 repeats ood-ew-noul-0086 200 90.0 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+651 repeats ood-meld-choice-0006 200 144.5 {'answer': 'neutral', 'confidence': 0.8, 'probabilities': {'anger': 0.02, 'disgust': 0.0, 'fear': 0.01, 'joy': 0.0, 'neutral': 0.83, 'sadness': 0.08, 'surprise': 0.06}}
+652 repeats ood-ew-noul-0077 200 109.2 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+653 repeats ood-ew-noul-0097 200 115.3 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+654 repeats ood-meld-noul-0099 200 144.1 {'answer': False, 'p_yes': 0.07, 'confidence': 0.9299999999999999}
+655 repeats ood-ew-noul-0058 200 145.0 {'answer': True, 'p_yes': 0.81, 'confidence': 0.81}
+656 repeats ood-carer-noul-0095 200 114.3 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+657 repeats ood-ew-noul-0005 200 126.0 {'answer': False, 'p_yes': 0.33, 'confidence': 0.6699999999999999}
+658 repeats ood-carer-noul-0020 200 102.1 {'answer': True, 'p_yes': 0.8, 'confidence': 0.8}
+659 repeats ood-meld-noul-0061 200 113.4 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+660 repeats ood-ew-noul-0092 200 113.7 {'answer': False, 'p_yes': 0.37, 'confidence': 0.63}
+661 repeats ood-ew-noul-0100 200 121.9 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+662 repeats ood-ew-noul-0064 200 105.3 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+663 repeats ood-ew-noul-0006 200 103.6 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+664 repeats ood-meld-noul-0090 200 197.6 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+665 repeats ood-carer-noul-0063 200 109.1 {'answer': True, 'p_yes': 0.95, 'confidence': 0.95}
+666 repeats ood-carer-noul-0098 200 120.9 {'answer': False, 'p_yes': 0.1, 'confidence': 0.9}
+667 repeats ood-ew-noul-0040 200 116.7 {'answer': True, 'p_yes': 0.93, 'confidence': 0.93}
+668 repeats ood-ew-noul-0017 200 97.5 {'answer': True, 'p_yes': 0.64, 'confidence': 0.64}
+669 repeats ood-carer-noul-0074 200 110.6 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+670 repeats ood-carer-noul-0046 200 131.5 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+671 repeats ood-meld-noul-0089 200 123.3 {'answer': False, 'p_yes': 0.16, 'confidence': 0.84}
+672 repeats ood-meld-noul-0060 200 104.7 {'answer': False, 'p_yes': 0.18, 'confidence': 0.8200000000000001}
+673 repeats ood-carer-noul-0050 200 135.7 {'answer': False, 'p_yes': 0.03, 'confidence': 0.97}
+674 repeats ood-carer-noul-0013 200 178.5 {'answer': False, 'p_yes': 0.14, 'confidence': 0.86}
+675 repeats ood-meld-noul-0019 200 59.4 {'answer': True, 'p_yes': 0.92, 'confidence': 0.92}
+676 repeats ood-meld-noul-0071 200 61.9 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+677 repeats ood-carer-noul-0079 200 120.1 {'answer': False, 'p_yes': 0.06, 'confidence': 0.94}
+678 repeats ood-meld-noul-0034 200 60.9 {'answer': True, 'p_yes': 0.88, 'confidence': 0.88}
+679 repeats ood-meld-noul-0073 200 134.1 {'answer': False, 'p_yes': 0.49, 'confidence': 0.51}
+680 repeats ood-ew-noul-0051 200 66.9 {'answer': True, 'p_yes': 0.91, 'confidence': 0.91}
+681 repeats ood-meld-noul-0078 200 112.3 {'answer': False, 'p_yes': 0.04, 'confidence': 0.96}
+682 repeats ood-ew-noul-0088 200 117.6 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+683 repeats ood-meld-noul-0005 200 112.7 {'answer': True, 'p_yes': 0.71, 'confidence': 0.71}
+684 repeats ood-meld-noul-0028 200 123.7 {'answer': True, 'p_yes': 0.83, 'confidence': 0.83}
+685 repeats ood-carer-noul-0060 200 159.8 {'answer': True, 'p_yes': 0.63, 'confidence': 0.63}
+686 repeats ood-ew-noul-0022 200 129.2 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+687 repeats ood-carer-noul-0012 200 102.9 {'answer': True, 'p_yes': 0.89, 'confidence': 0.89}
+688 repeats ood-meld-noul-0059 200 128.6 {'answer': False, 'p_yes': 0.44, 'confidence': 0.56}
+689 repeats ood-meld-noul-0010 200 118.1 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+690 repeats ood-meld-noul-0051 200 118.4 {'answer': False, 'p_yes': 0.43, 'confidence': 0.5700000000000001}
+691 repeats ood-meld-noul-0020 200 64.1 {'answer': False, 'p_yes': 0.15, 'confidence': 0.85}
+692 repeats ood-carer-noul-0083 200 119.6 {'answer': False, 'p_yes': 0.05, 'confidence': 0.95}
+693 repeats ood-carer-noul-0088 200 119.7 {'answer': False, 'p_yes': 0.08, 'confidence': 0.92}
+694 repeats ood-ew-noul-0041 200 98.7 {'answer': True, 'p_yes': 0.72, 'confidence': 0.72}
+695 repeats ood-ew-noul-0063 200 111.4 {'answer': True, 'p_yes': 0.84, 'confidence': 0.84}
+696 repeats ood-ew-noul-0019 200 75.2 {'answer': False, 'p_yes': 0.12, 'confidence': 0.88}
+697 repeats ood-carer-noul-0043 200 71.0 {'answer': False, 'p_yes': 0.02, 'confidence': 0.98}
+698 repeats ood-meld-noul-0042 200 100.9 {'answer': True, 'p_yes': 0.87, 'confidence': 0.87}
+699 repeats ood-carer-noul-0086 200 107.5 {'answer': False, 'p_yes': 0.25, 'confidence': 0.75}
+700 repeats ood-ew-noul-0039 200 87.9 {'answer': True, 'p_yes': 0.82, 'confidence': 0.82}
+wrote jev_raw.json
